@@ -1,0 +1,2401 @@
+<sentence id="AS671" polarity="neutral">
+    <text>the rent is moderate, and the breakfast options are standard</text>
+    <aspects>
+        <aspectTerm term="rent" position="2" RelTerm="moderate" category="cost" polarity="neutral"/>
+        <aspectTerm term="breakfast options" position="6" RelTerm="standard" category="service" polarity="neutral"/>
+    </aspects>
+</sentence>
+
+<sentence id="AS672" polarity="neutral">
+    <text>the meals are decent, and the Wi-Fi connection is average</text>
+    <aspects>
+        <aspectTerm term="meals" position="2" RelTerm="decent" category="service" polarity="neutral"/>
+        <aspectTerm term="Wi-Fi connection" position="6" RelTerm="average" category="service" polarity="neutral"/>
+    </aspects>
+</sentence>
+
+<sentence id="AS673" polarity="neutral">
+    <text>the fitness center has basic equipment, and the reservation process is straightforward</text>
+    <aspects>
+        <aspectTerm term="fitness center" position="2" RelTerm="basic equipment" category="service" polarity="neutral"/>
+        <aspectTerm term="reservation process" position="6" RelTerm="straightforward" category="service" polarity="neutral"/>
+    </aspects>
+</sentence>
+
+<sentence id="AS674" polarity="neutral">
+    <text>the breakfast is simple, and the guest management system is functional</text>
+    <aspects>
+        <aspectTerm term="breakfast" position="2" RelTerm="simple" category="service" polarity="neutral"/>
+        <aspectTerm term="guest management system" position="6" RelTerm="functional" category="service" polarity="neutral"/>
+    </aspects>
+</sentence>
+
+<sentence id="AS675" polarity="neutral">
+    <text>the security measures are adequate, and the maintenance schedule is regular</text>
+    <aspects>
+        <aspectTerm term="security measures" position="2" RelTerm="adequate" category="service" polarity="neutral"/>
+        <aspectTerm term="maintenance schedule" position="6" RelTerm="regular" category="service" polarity="neutral"/>
+    </aspects>
+</sentence>
+
+<sentence id="AS676" polarity="neutral">
+    <text>the rent is competitive, and the mobile accessibility is user-friendly</text>
+    <aspects>
+        <aspectTerm term="rent" position="2" RelTerm="competitive" category="cost" polarity="neutral"/>
+        <aspectTerm term="mobile accessibility" position="6" RelTerm="user-friendly" category="service" polarity="neutral"/>
+    </aspects>
+</sentence>
+
+<sentence id="AS677" polarity="neutral">
+    <text>the meals are varied, and the security management is sufficient</text>
+    <aspects>
+        <aspectTerm term="meals" position="2" RelTerm="varied" category="service" polarity="neutral"/>
+        <aspectTerm term="security management" position="6" RelTerm="sufficient" category="service" polarity="neutral"/>
+    </aspects>
+</sentence>
+
+<sentence id="AS678" polarity="neutral">
+    <text>the breakfast quality is acceptable, and the guest management is satisfactory</text>
+    <aspects>
+        <aspectTerm term="breakfast quality" position="2" RelTerm="acceptable" category="service" polarity="neutral"/>
+        <aspectTerm term="guest management" position="6" RelTerm="satisfactory" category="service" polarity="neutral"/>
+    </aspects>
+</sentence>
+
+<sentence id="AS679" polarity="neutral">
+    <text>the fitness center is equipped with essentials, and the reservation system is reliable</text>
+    <aspects>
+        <aspectTerm term="fitness center" position="2" RelTerm="equipped with essentials" category="service" polarity="neutral"/>
+        <aspectTerm term="reservation system" position="6" RelTerm="reliable" category="service" polarity="neutral"/>
+    </aspects>
+</sentence>
+
+<sentence id="AS680" polarity="neutral">
+    <text>the meals are reasonably priced, and the maintenance is routine</text>
+    <aspects>
+        <aspectTerm term="meals" position="2" RelTerm="reasonably priced" category="cost" polarity="neutral"/>
+        <aspectTerm term="maintenance" position="6" RelTerm="routine" category="service" polarity="neutral"/>
+    </aspects>
+</sentence>
+
+<sentence id="AS681" polarity="neutral">
+    <text>the guest management is effective, and the breakfast options are satisfactory</text>
+    <aspects>
+        <aspectTerm term="guest management" position="2" RelTerm="effective" category="service" polarity="neutral"/>
+        <aspectTerm term="breakfast options" position="6" RelTerm="satisfactory" category="service" polarity="neutral"/>
+    </aspects>
+</sentence>
+
+<sentence id="AS682" polarity="neutral">
+    <text>the security system is operational, and the mobile accessibility is adequate</text>
+    <aspects>
+        <aspectTerm term="security system" position="2" RelTerm="operational" category="service" polarity="neutral"/>
+        <aspectTerm term="mobile accessibility" position="6" RelTerm="adequate" category="service" polarity="neutral"/>
+    </aspects>
+</sentence>
+
+<sentence id="AS683" polarity="neutral">
+    <text>the fitness center has basic amenities, and the meals are fairly priced</text>
+    <aspects>
+        <aspectTerm term="fitness center" position="2" RelTerm="basic amenities" category="service" polarity="neutral"/>
+        <aspectTerm term="meals" position="6" RelTerm="fairly priced" category="cost" polarity="neutral"/>
+    </aspects>
+</sentence>
+
+<sentence id="AS684" polarity="neutral">
+    <text>the rent is fair, and the guest management system is operational</text>
+    <aspects>
+        <aspectTerm term="rent" position="2" RelTerm="fair" category="cost" polarity="neutral"/>
+        <aspectTerm term="guest management system" position="6" RelTerm="operational" category="service" polarity="neutral"/>
+    </aspects>
+</sentence>
+
+<sentence id="AS685" polarity="neutral">
+    <text>the breakfast is standard, and the reservation system is functioning properly</text>
+    <aspects>
+        <aspectTerm term="breakfast" position="2" RelTerm="standard" category="service" polarity="neutral"/>
+        <aspectTerm term="reservation system" position="6" RelTerm="functioning properly" category="service" polarity="neutral"/>
+    </aspects>
+</sentence>
+
+<sentence id="AS686" polarity="neutral">
+    <text>the meals are varied, and the security features are functional</text>
+    <aspects>
+        <aspectTerm term="meals" position="2" RelTerm="varied" category="service" polarity="neutral"/>
+        <aspectTerm term="security features" position="6" RelTerm="functional" category="service" polarity="neutral"/>
+    </aspects>
+</sentence>
+
+<sentence id="AS687" polarity="neutral">
+    <text>the maintenance is routine, and the Wi-Fi is usable</text>
+    <aspects>
+        <aspectTerm term="maintenance" position="2" RelTerm="routine" category="service" polarity="neutral"/>
+        <aspectTerm term="Wi-Fi" position="6" RelTerm="usable" category="service" polarity="neutral"/>
+    </aspects>
+</sentence>
+
+<sentence id="AS688" polarity="neutral">
+    <text>the rent is reasonable, and the mobile accessibility is satisfactory</text>
+    <aspects>
+        <aspectTerm term="rent" position="2" RelTerm="reasonable" category="cost" polarity="neutral"/>
+        <aspectTerm term="mobile accessibility" position="6" RelTerm="satisfactory" category="service" polarity="neutral"/>
+    </aspects>
+</sentence>
+
+<sentence id="AS689" polarity="neutral">
+    <text>the breakfast is acceptable, and the guest management system is reliable</text>
+    <aspects>
+        <aspectTerm term="breakfast" position="2" RelTerm="acceptable" category="service" polarity="neutral"/>
+        <aspectTerm term="guest management system" position="6" RelTerm="reliable" category="service" polarity="neutral"/>
+    </aspects>
+</sentence>
+
+<sentence id="AS690" polarity="neutral">
+    <text>the fitness center is adequate, and the meals are reasonably priced</text>
+    <aspects>
+        <aspectTerm term="fitness center" position="2" RelTerm="adequate" category="service" polarity="neutral"/>
+        <aspectTerm term="meals" position="6" RelTerm="reasonably priced" category="cost" polarity="neutral"/>
+    </aspects>
+</sentence>
+
+<sentence id="AS691" polarity="neutral">
+    <text>the breakfast is simple, and the security management is efficient</text>
+    <aspects>
+        <aspectTerm term="breakfast" position="2" RelTerm="simple" category="service" polarity="neutral"/>
+        <aspectTerm term="security management" position="6" RelTerm="efficient" category="service" polarity="neutral"/>
+    </aspects>
+</sentence>
+
+<sentence id="AS692" polarity="neutral">
+    <text>the meals are standard, and the reservation management is effective</text>
+    <aspects>
+        <aspectTerm term="meals" position="2" RelTerm="standard" category="service" polarity="neutral"/>
+        <aspectTerm term="reservation management" position="6" RelTerm="effective" category="service" polarity="neutral"/>
+    </aspects>
+</sentence>
+
+<sentence id="AS693" polarity="neutral">
+    <text>the guest management system is functional, and the maintenance is routine</text>
+    <aspects>
+        <aspectTerm term="guest management system" position="2" RelTerm="functional" category="service" polarity="neutral"/>
+        <aspectTerm term="maintenance" position="6" RelTerm="routine" category="service" polarity="neutral"/>
+    </aspects>
+</sentence>
+
+<sentence id="AS694" polarity="neutral">
+    <text>the rent is fair, and the meals are adequate</text>
+    <aspects>
+        <aspectTerm term="rent" position="2" RelTerm="fair" category="cost" polarity="neutral"/>
+        <aspectTerm term="meals" position="6" RelTerm="adequate" category="service" polarity="neutral"/>
+    </aspects>
+</sentence>
+
+<sentence id="AS695" polarity="neutral">
+    <text>the security management is competent, and the breakfast is basic</text>
+    <aspects>
+        <aspectTerm term="security management" position="2" RelTerm="competent" category="service" polarity="neutral"/>
+        <aspectTerm term="breakfast" position="6" RelTerm="basic" category="service" polarity="neutral"/>
+    </aspects>
+</sentence>
+
+<sentence id="AS696" polarity="neutral">
+    <text>the fitness center is equipped, and the reservation process is smooth</text>
+    <aspects>
+        <aspectTerm term="fitness center" position="2" RelTerm="equipped" category="service" polarity="neutral"/>
+        <aspectTerm term="reservation process" position="6" RelTerm="smooth" category="service" polarity="neutral"/>
+    </aspects>
+</sentence>
+
+<sentence id="AS697" polarity="neutral">
+    <text>the mobile accessibility is satisfactory, and the meals are moderately priced</text>
+    <aspects>
+        <aspectTerm term="mobile accessibility" position="2" RelTerm="satisfactory" category="service" polarity="neutral"/>
+        <aspectTerm term="meals" position="6" RelTerm="moderately priced" category="cost" polarity="neutral"/>
+    </aspects>
+</sentence>
+
+<sentence id="AS698" polarity="neutral">
+    <text>the guest management is functional, and the Wi-Fi is stable</text>
+    <aspects>
+        <aspectTerm term="guest management" position="2" RelTerm="functional" category="service" polarity="neutral"/>
+        <aspectTerm term="Wi-Fi" position="6" RelTerm="stable" category="service" polarity="neutral"/>
+    </aspects>
+</sentence>
+
+<sentence id="AS699" polarity="neutral">
+    <text>the maintenance is consistent, and the breakfast options are diverse</text>
+    <aspects>
+        <aspectTerm term="maintenance" position="2" RelTerm="consistent" category="service" polarity="neutral"/>
+        <aspectTerm term="breakfast options" position="6" RelTerm="diverse" category="service" polarity="neutral"/>
+    </aspects>
+</sentence>
+
+<sentence id="AS700" polarity="neutral">
+    <text>the rent is fair, and the fitness center is adequate</text>
+    <aspects>
+        <aspectTerm term="rent" position="2" RelTerm="fair" category="cost" polarity="neutral"/>
+        <aspectTerm term="fitness center" position="6" RelTerm="adequate" category="service" polarity="neutral"/>
+    </aspects>
+</sentence>
+
+<sentence id="AS701" polarity="neutral">
+    <text>the breakfast quality is reasonable, and the security system is functioning</text>
+    <aspects>
+        <aspectTerm term="breakfast quality" position="2" RelTerm="reasonable" category="service" polarity="neutral"/>
+        <aspectTerm term="security system" position="6" RelTerm="functioning" category="service" polarity="neutral"/>
+    </aspects>
+</sentence>
+
+<sentence id="AS702" polarity="neutral">
+    <text>the meals are varied, and the guest management system is adequate</text>
+    <aspects>
+        <aspectTerm term="meals" position="2" RelTerm="varied" category="service" polarity="neutral"/>
+        <aspectTerm term="guest management system" position="6" RelTerm="adequate" category="service" polarity="neutral"/>
+    </aspects>
+</sentence>
+
+<sentence id="AS703" polarity="neutral">
+    <text>the fitness center is basic, and the reservation management is reliable</text>
+    <aspects>
+        <aspectTerm term="fitness center" position="2" RelTerm="basic" category="service" polarity="neutral"/>
+        <aspectTerm term="reservation management" position="6" RelTerm="reliable" category="service" polarity="neutral"/>
+    </aspects>
+</sentence>
+
+<sentence id="AS704" polarity="neutral">
+    <text>the rent is competitive, and the breakfast quality is standard</text>
+    <aspects>
+        <aspectTerm term="rent" position="2" RelTerm="competitive" category="cost" polarity="neutral"/>
+        <aspectTerm term="breakfast quality" position="6" RelTerm="standard" category="service" polarity="neutral"/>
+    </aspects>
+</sentence>
+
+<sentence id="AS705" polarity="neutral">
+    <text>the meals are satisfactory, and the Wi-Fi performance is adequate</text>
+    <aspects>
+        <aspectTerm term="meals" position="2" RelTerm="satisfactory" category="service" polarity="neutral"/>
+        <aspectTerm term="Wi-Fi performance" position="6" RelTerm="adequate" category="service" polarity="neutral"/>
+    </aspects>
+</sentence>
+
+<sentence id="AS706" polarity="neutral">
+    <text>the security management is acceptable, and the maintenance is consistent</text>
+    <aspects>
+        <aspectTerm term="security management" position="2" RelTerm="acceptable" category="service" polarity="neutral"/>
+        <aspectTerm term="maintenance" position="6" RelTerm="consistent" category="service" polarity="neutral"/>
+    </aspects>
+</sentence>
+
+<sentence id="AS707" polarity="neutral">
+    <text>the fitness center has the basics, and the mobile accessibility is efficient</text>
+    <aspects>
+        <aspectTerm term="fitness center" position="2" RelTerm="the basics" category="service" polarity="neutral"/>
+        <aspectTerm term="mobile accessibility" position="6" RelTerm="efficient" category="service" polarity="neutral"/>
+    </aspects>
+</sentence>
+
+<sentence id="AS708" polarity="neutral">
+    <text>the meals are reasonably priced, and the guest management is operational</text>
+    <aspects>
+        <aspectTerm term="meals" position="2" RelTerm="reasonably priced" category="cost" polarity="neutral"/>
+        <aspectTerm term="guest management" position="6" RelTerm="operational" category="service" polarity="neutral"/>
+    </aspects>
+</sentence>
+
+<sentence id="AS709" polarity="neutral">
+    <text>the breakfast is varied, and the reservation management is smooth</text>
+    <aspects>
+        <aspectTerm term="breakfast" position="2" RelTerm="varied" category="service" polarity="neutral"/>
+        <aspectTerm term="reservation management" position="6" RelTerm="smooth" category="service" polarity="neutral"/>
+    </aspects>
+</sentence>
+
+<sentence id="AS710" polarity="neutral">
+    <text>the Wi-Fi is functional, and the meals are standard</text>
+    <aspects>
+        <aspectTerm term="Wi-Fi" position="2" RelTerm="functional" category="service" polarity="neutral"/>
+        <aspectTerm term="meals" position="6" RelTerm="standard" category="service" polarity="neutral"/>
+    </aspects>
+</sentence>
+
+<sentence id="AS711" polarity="neutral">
+    <text>the rent is moderate, and the breakfast options are varied</text>
+    <aspects>
+        <aspectTerm term="rent" position="2" RelTerm="moderate" category="cost" polarity="neutral"/>
+        <aspectTerm term="breakfast options" position="6" RelTerm="varied" category="service" polarity="neutral"/>
+    </aspects>
+</sentence>
+
+<sentence id="AS712" polarity="neutral">
+    <text>the meals are standard, and the security system is efficient</text>
+    <aspects>
+        <aspectTerm term="meals" position="2" RelTerm="standard" category="service" polarity="neutral"/>
+        <aspectTerm term="security system" position="6" RelTerm="efficient" category="service" polarity="neutral"/>
+    </aspects>
+</sentence>
+
+<sentence id="AS713" polarity="neutral">
+    <text>the reservation system is effective, and the fitness center is average</text>
+    <aspects>
+        <aspectTerm term="reservation system" position="2" RelTerm="effective" category="service" polarity="neutral"/>
+        <aspectTerm term="fitness center" position="6" RelTerm="average" category="service" polarity="neutral"/>
+    </aspects>
+</sentence>
+
+<sentence id="AS714" polarity="neutral">
+    <text>the guest management is adequate, and the maintenance is routine</text>
+    <aspects>
+        <aspectTerm term="guest management" position="2" RelTerm="adequate" category="service" polarity="neutral"/>
+        <aspectTerm term="maintenance" position="6" RelTerm="routine" category="service" polarity="neutral"/>
+    </aspects>
+</sentence>
+
+<sentence id="AS715" polarity="neutral">
+    <text>the mobile accessibility is adequate, and the meals are reasonably priced</text>
+    <aspects>
+        <aspectTerm term="mobile accessibility" position="2" RelTerm="adequate" category="service" polarity="neutral"/>
+        <aspectTerm term="meals" position="6" RelTerm="reasonably priced" category="cost" polarity="neutral"/>
+    </aspects>
+</sentence>
+
+<sentence id="AS716" polarity="neutral">
+    <text>the breakfast is satisfactory, and the Wi-Fi is functional</text>
+    <aspects>
+        <aspectTerm term="breakfast" position="2" RelTerm="satisfactory" category="service" polarity="neutral"/>
+        <aspectTerm term="Wi-Fi" position="6" RelTerm="functional" category="service" polarity="neutral"/>
+    </aspects>
+</sentence>
+
+<sentence id="AS717" polarity="neutral">
+    <text>the rent is affordable, and the fitness center is adequately equipped</text>
+    <aspects>
+        <aspectTerm term="rent" position="2" RelTerm="affordable" category="cost" polarity="neutral"/>
+        <aspectTerm term="fitness center" position="6" RelTerm="adequately equipped" category="service" polarity="neutral"/>
+    </aspects>
+</sentence>
+
+<sentence id="AS718" polarity="neutral">
+    <text>the meals are moderately priced, and the guest management is reliable</text>
+    <aspects>
+        <aspectTerm term="meals" position="2" RelTerm="moderately priced" category="cost" polarity="neutral"/>
+        <aspectTerm term="guest management" position="6" RelTerm="reliable" category="service" polarity="neutral"/>
+    </aspects>
+</sentence>
+
+<sentence id="AS719" polarity="neutral">
+    <text>the security system is functional, and the breakfast is basic</text>
+    <aspects>
+        <aspectTerm term="security system" position="2" RelTerm="functional" category="service" polarity="neutral"/>
+        <aspectTerm term="breakfast" position="6" RelTerm="basic" category="service" polarity="neutral"/>
+    </aspects>
+</sentence>
+
+<sentence id="AS720" polarity="neutral">
+    <text>the meals are adequate, and the mobile accessibility is satisfactory</text>
+    <aspects>
+        <aspectTerm term="meals" position="2" RelTerm="adequate" category="service" polarity="neutral"/>
+        <aspectTerm term="mobile accessibility" position="6" RelTerm="satisfactory" category="service" polarity="neutral"/>
+    </aspects>
+</sentence>
+<sentence id="AS721" polarity="neutral">
+    <text>the pool area is clean, and the Wi-Fi connection is stable</text>
+    <aspects>
+        <aspectTerm term="pool area" position="2" RelTerm="clean" category="service" polarity="neutral"/>
+        <aspectTerm term="Wi-Fi connection" position="6" RelTerm="stable" category="service" polarity="neutral"/>
+    </aspects>
+</sentence>
+
+<sentence id="AS722" polarity="neutral">
+    <text>the fitness center is basic, and the security system is operational</text>
+    <aspects>
+        <aspectTerm term="fitness center" position="2" RelTerm="basic" category="service" polarity="neutral"/>
+        <aspectTerm term="security system" position="6" RelTerm="operational" category="service" polarity="neutral"/>
+    </aspects>
+</sentence>
+
+<sentence id="AS723" polarity="neutral">
+    <text>the pool is average, and the Wi-Fi is functioning</text>
+    <aspects>
+        <aspectTerm term="pool" position="2" RelTerm="average" category="service" polarity="neutral"/>
+        <aspectTerm term="Wi-Fi" position="6" RelTerm="functioning" category="service" polarity="neutral"/>
+    </aspects>
+</sentence>
+
+<sentence id="AS724" polarity="neutral">
+    <text>the security measures are adequate, and the fitness center has basic equipment</text>
+    <aspects>
+        <aspectTerm term="security measures" position="2" RelTerm="adequate" category="service" polarity="neutral"/>
+        <aspectTerm term="fitness center" position="6" RelTerm="basic equipment" category="service" polarity="neutral"/>
+    </aspects>
+</sentence>
+
+<sentence id="AS725" polarity="neutral">
+    <text>the Wi-Fi speed is decent, and the pool area is well-maintained</text>
+    <aspects>
+        <aspectTerm term="Wi-Fi speed" position="2" RelTerm="decent" category="service" polarity="neutral"/>
+        <aspectTerm term="pool area" position="6" RelTerm="well-maintained" category="service" polarity="neutral"/>
+    </aspects>
+</sentence>
+
+<sentence id="AS726" polarity="neutral">
+    <text>the fitness center is equipped, and the security system is reliable</text>
+    <aspects>
+        <aspectTerm term="fitness center" position="2" RelTerm="equipped" category="service" polarity="neutral"/>
+        <aspectTerm term="security system" position="6" RelTerm="reliable" category="service" polarity="neutral"/>
+    </aspects>
+</sentence>
+
+<sentence id="AS727" polarity="neutral">
+    <text>the pool is decent, and the Wi-Fi coverage is good</text>
+    <aspects>
+        <aspectTerm term="pool" position="2" RelTerm="decent" category="service" polarity="neutral"/>
+        <aspectTerm term="Wi-Fi coverage" position="6" RelTerm="good" category="service" polarity="neutral"/>
+    </aspects>
+</sentence>
+
+<sentence id="AS728" polarity="neutral">
+    <text>the security is satisfactory, and the fitness center is sufficient for basic workouts</text>
+    <aspects>
+        <aspectTerm term="security" position="2" RelTerm="satisfactory" category="service" polarity="neutral"/>
+        <aspectTerm term="fitness center" position="6" RelTerm="sufficient for basic workouts" category="service" polarity="neutral"/>
+    </aspects>
+</sentence>
+
+<sentence id="AS729" polarity="neutral">
+    <text>the Wi-Fi is reliable, and the pool area is well-kept</text>
+    <aspects>
+        <aspectTerm term="Wi-Fi" position="2" RelTerm="reliable" category="service" polarity="neutral"/>
+        <aspectTerm term="pool area" position="6" RelTerm="well-kept" category="service" polarity="neutral"/>
+    </aspects>
+</sentence>
+
+<sentence id="AS730" polarity="neutral">
+    <text>the fitness center has basic equipment, and the security features are standard</text>
+    <aspects>
+        <aspectTerm term="fitness center" position="2" RelTerm="basic equipment" category="service" polarity="neutral"/>
+        <aspectTerm term="security features" position="6" RelTerm="standard" category="service" polarity="neutral"/>
+    </aspects>
+</sentence>
+
+<sentence id="AS731" polarity="neutral">
+    <text>the pool is average, and the Wi-Fi is stable</text>
+    <aspects>
+        <aspectTerm term="pool" position="2" RelTerm="average" category="service" polarity="neutral"/>
+        <aspectTerm term="Wi-Fi" position="6" RelTerm="stable" category="service" polarity="neutral"/>
+    </aspects>
+</sentence>
+
+<sentence id="AS732" polarity="neutral">
+    <text>the security management is basic, and the fitness center meets minimum standards</text>
+    <aspects>
+        <aspectTerm term="security management" position="2" RelTerm="basic" category="service" polarity="neutral"/>
+        <aspectTerm term="fitness center" position="6" RelTerm="meets minimum standards" category="service" polarity="neutral"/>
+    </aspects>
+</sentence>
+
+<sentence id="AS733" polarity="neutral">
+    <text>the Wi-Fi is functional, and the pool area is acceptable</text>
+    <aspects>
+        <aspectTerm term="Wi-Fi" position="2" RelTerm="functional" category="service" polarity="neutral"/>
+        <aspectTerm term="pool area" position="6" RelTerm="acceptable" category="service" polarity="neutral"/>
+    </aspects>
+</sentence>
+
+<sentence id="AS734" polarity="neutral">
+    <text>the fitness center is functional, and the security system is sufficient</text>
+    <aspects>
+        <aspectTerm term="fitness center" position="2" RelTerm="functional" category="service" polarity="neutral"/>
+        <aspectTerm term="security system" position="6" RelTerm="sufficient" category="service" polarity="neutral"/>
+    </aspects>
+</sentence>
+
+<sentence id="AS735" polarity="neutral">
+    <text>the pool is maintained, and the Wi-Fi coverage is adequate</text>
+    <aspects>
+        <aspectTerm term="pool" position="2" RelTerm="maintained" category="service" polarity="neutral"/>
+        <aspectTerm term="Wi-Fi coverage" position="6" RelTerm="adequate" category="service" polarity="neutral"/>
+    </aspects>
+</sentence>
+
+<sentence id="AS736" polarity="neutral">
+    <text>the security system is reliable, and the fitness center is average</text>
+    <aspects>
+        <aspectTerm term="security system" position="2" RelTerm="reliable" category="service" polarity="neutral"/>
+        <aspectTerm term="fitness center" position="6" RelTerm="average" category="service" polarity="neutral"/>
+    </aspects>
+</sentence>
+
+<sentence id="AS737" polarity="neutral">
+    <text>the Wi-Fi speed is acceptable, and the pool area is clean</text>
+    <aspects>
+        <aspectTerm term="Wi-Fi speed" position="2" RelTerm="acceptable" category="service" polarity="neutral"/>
+        <aspectTerm term="pool area" position="6" RelTerm="clean" category="service" polarity="neutral"/>
+    </aspects>
+</sentence>
+<sentence id="AS738" polarity="neutral">
+    <text>the fitness center is well-equipped, and the security management is adequate</text>
+    <aspects>
+        <aspectTerm term="fitness center" position="2" RelTerm="well-equipped" category="service" polarity="neutral"/>
+        <aspectTerm term="security management" position="6" RelTerm="adequate" category="service" polarity="neutral"/>
+    </aspects>
+</sentence>
+
+<sentence id="AS739" polarity="neutral">
+    <text>the pool is satisfactory, and the Wi-Fi is reliable</text>
+    <aspects>
+        <aspectTerm term="pool" position="2" RelTerm="satisfactory" category="service" polarity="neutral"/>
+        <aspectTerm term="Wi-Fi" position="6" RelTerm="reliable" category="service" polarity="neutral"/>
+    </aspects>
+</sentence>
+
+<sentence id="AS740" polarity="neutral">
+    <text>the security features are effective, and the fitness center is adequate</text>
+    <aspects>
+        <aspectTerm term="security features" position="2" RelTerm="effective" category="service" polarity="neutral"/>
+        <aspectTerm term="fitness center" position="6" RelTerm="adequate" category="service" polarity="neutral"/>
+    </aspects>
+</sentence>
+
+<sentence id="AS741" polarity="neutral">
+    <text>the Wi-Fi connection is stable, and the pool area is maintained</text>
+    <aspects>
+        <aspectTerm term="Wi-Fi connection" position="2" RelTerm="stable" category="service" polarity="neutral"/>
+        <aspectTerm term="pool area" position="6" RelTerm="maintained" category="service" polarity="neutral"/>
+    </aspects>
+</sentence>
+
+<sentence id="AS742" polarity="neutral">
+    <text>the fitness center is functional, and the security system is operational</text>
+    <aspects>
+        <aspectTerm term="fitness center" position="2" RelTerm="functional" category="service" polarity="neutral"/>
+        <aspectTerm term="security system" position="6" RelTerm="operational" category="service" polarity="neutral"/>
+    </aspects>
+</sentence>
+
+<sentence id="AS743" polarity="neutral">
+    <text>the pool is clean, and the Wi-Fi coverage is sufficient</text>
+    <aspects>
+        <aspectTerm term="pool" position="2" RelTerm="clean" category="service" polarity="neutral"/>
+        <aspectTerm term="Wi-Fi coverage" position="6" RelTerm="sufficient" category="service" polarity="neutral"/>
+    </aspects>
+</sentence>
+
+<sentence id="AS744" polarity="neutral">
+    <text>the security management is good, and the fitness center is well-equipped</text>
+    <aspects>
+        <aspectTerm term="security management" position="2" RelTerm="good" category="service" polarity="neutral"/>
+        <aspectTerm term="fitness center" position="6" RelTerm="well-equipped" category="service" polarity="neutral"/>
+    </aspects>
+</sentence>
+
+<sentence id="AS745" polarity="neutral">
+    <text>the Wi-Fi is functional, and the pool area is acceptable</text>
+    <aspects>
+        <aspectTerm term="Wi-Fi" position="2" RelTerm="functional" category="service" polarity="neutral"/>
+        <aspectTerm term="pool area" position="6" RelTerm="acceptable" category="service" polarity="neutral"/>
+    </aspects>
+</sentence>
+
+<sentence id="AS746" polarity="neutral">
+    <text>the fitness center is sufficient, and the security system is reliable</text>
+    <aspects>
+        <aspectTerm term="fitness center" position="2" RelTerm="sufficient" category="service" polarity="neutral"/>
+        <aspectTerm term="security system" position="6" RelTerm="reliable" category="service" polarity="neutral"/>
+    </aspects>
+</sentence>
+
+<sentence id="AS747" polarity="neutral">
+    <text>the pool is average, and the Wi-Fi is effective</text>
+    <aspects>
+        <aspectTerm term="pool" position="2" RelTerm="average" category="service" polarity="neutral"/>
+        <aspectTerm term="Wi-Fi" position="6" RelTerm="effective" category="service" polarity="neutral"/>
+    </aspects>
+</sentence>
+
+<sentence id="AS748" polarity="neutral">
+    <text>the security features are standard, and the fitness center is average</text>
+    <aspects>
+        <aspectTerm term="security features" position="2" RelTerm="standard" category="service" polarity="neutral"/>
+        <aspectTerm term="fitness center" position="6" RelTerm="average" category="service" polarity="neutral"/>
+    </aspects>
+</sentence>
+
+<sentence id="AS749" polarity="neutral">
+    <text>the Wi-Fi speed is adequate, and the pool is well-maintained</text>
+    <aspects>
+        <aspectTerm term="Wi-Fi speed" position="2" RelTerm="adequate" category="service" polarity="neutral"/>
+        <aspectTerm term="pool" position="6" RelTerm="well-maintained" category="service" polarity="neutral"/>
+    </aspects>
+</sentence>
+
+<sentence id="AS750" polarity="neutral">
+    <text>the fitness center has basic facilities, and the security system is sufficient</text>
+    <aspects>
+        <aspectTerm term="fitness center" position="2" RelTerm="basic facilities" category="service" polarity="neutral"/>
+        <aspectTerm term="security system" position="6" RelTerm="sufficient" category="service" polarity="neutral"/>
+    </aspects>
+</sentence>
+
+<sentence id="AS751" polarity="neutral">
+    <text>the pool area is satisfactory, and the Wi-Fi connection is acceptable</text>
+    <aspects>
+        <aspectTerm term="pool area" position="2" RelTerm="satisfactory" category="service" polarity="neutral"/>
+        <aspectTerm term="Wi-Fi connection" position="6" RelTerm="acceptable" category="service" polarity="neutral"/>
+    </aspects>
+</sentence>
+
+<sentence id="AS752" polarity="neutral">
+    <text>the fitness center is adequately equipped, and the security features are effective</text>
+    <aspects>
+        <aspectTerm term="fitness center" position="2" RelTerm="adequately equipped" category="service" polarity="neutral"/>
+        <aspectTerm term="security features" position="6" RelTerm="effective" category="service" polarity="neutral"/>
+    </aspects>
+</sentence>
+
+<sentence id="AS753" polarity="neutral">
+    <text>the Wi-Fi is functioning, and the pool is clean</text>
+    <aspects>
+        <aspectTerm term="Wi-Fi" position="2" RelTerm="functioning" category="service" polarity="neutral"/>
+        <aspectTerm term="pool" position="6" RelTerm="clean" category="service" polarity="neutral"/>
+    </aspects>
+</sentence>
+
+<sentence id="AS754" polarity="neutral">
+    <text>the fitness center has essential equipment, and the security management is functional</text>
+    <aspects>
+        <aspectTerm term="fitness center" position="2" RelTerm="essential equipment" category="service" polarity="neutral"/>
+        <aspectTerm term="security management" position="6" RelTerm="functional" category="service" polarity="neutral"/>
+    </aspects>
+</sentence>
+
+<sentence id="AS755" polarity="neutral">
+    <text>the pool is average, and the Wi-Fi service is good</text>
+    <aspects>
+        <aspectTerm term="pool" position="2" RelTerm="average" category="service" polarity="neutral"/>
+        <aspectTerm term="Wi-Fi service" position="6" RelTerm="good" category="service" polarity="neutral"/>
+    </aspects>
+</sentence>
+
+<sentence id="AS756" polarity="neutral">
+    <text>the security system is adequate, and the fitness center is acceptable</text>
+    <aspects>
+        <aspectTerm term="security system" position="2" RelTerm="adequate" category="service" polarity="neutral"/>
+        <aspectTerm term="fitness center" position="6" RelTerm="acceptable" category="service" polarity="neutral"/>
+    </aspects>
+</sentence>
+
+<sentence id="AS757" polarity="neutral">
+    <text>the Wi-Fi is sufficient, and the pool area is average</text>
+    <aspects>
+        <aspectTerm term="Wi-Fi" position="2" RelTerm="sufficient" category="service" polarity="neutral"/>
+        <aspectTerm term="pool area" position="6" RelTerm="average" category="service" polarity="neutral"/>
+    </aspects>
+</sentence>
+
+<sentence id="AS758" polarity="neutral">
+    <text>the fitness center is sufficient, and the security measures are basic</text>
+    <aspects>
+        <aspectTerm term="fitness center" position="2" RelTerm="sufficient" category="service" polarity="neutral"/>
+        <aspectTerm term="security measures" position="6" RelTerm="basic" category="service" polarity="neutral"/>
+    </aspects>
+</sentence>
+
+<sentence id="AS759" polarity="neutral">
+    <text>the pool is well-maintained, and the Wi-Fi is operational</text>
+    <aspects>
+        <aspectTerm term="pool" position="2" RelTerm="well-maintained" category="service" polarity="neutral"/>
+        <aspectTerm term="Wi-Fi" position="6" RelTerm="operational" category="service" polarity="neutral"/>
+    </aspects>
+</sentence>
+
+<sentence id="AS760" polarity="neutral">
+    <text>the fitness center is adequate, and the security system is efficient</text>
+    <aspects>
+        <aspectTerm term="fitness center" position="2" RelTerm="adequate" category="service" polarity="neutral"/>
+        <aspectTerm term="security system" position="6" RelTerm="efficient" category="service" polarity="neutral"/>
+    </aspects>
+</sentence>
+
+<sentence id="AS761" polarity="neutral">
+    <text>the Wi-Fi is effective, and the pool is clean</text>
+    <aspects>
+        <aspectTerm term="Wi-Fi" position="2" RelTerm="effective" category="service" polarity="neutral"/>
+        <aspectTerm term="pool" position="6" RelTerm="clean" category="service" polarity="neutral"/>
+    </aspects>
+</sentence>
+
+<sentence id="AS762" polarity="neutral">
+    <text>the fitness center is basic, and the security system is adequate</text>
+    <aspects>
+        <aspectTerm term="fitness center" position="2" RelTerm="basic" category="service" polarity="neutral"/>
+        <aspectTerm term="security system" position="6" RelTerm="adequate" category="service" polarity="neutral"/>
+    </aspects>
+</sentence>
+
+<sentence id="AS763" polarity="neutral">
+    <text>the Wi-Fi is satisfactory, and the pool area is well-maintained</text>
+    <aspects>
+        <aspectTerm term="Wi-Fi" position="2" RelTerm="satisfactory" category="service" polarity="neutral"/>
+        <aspectTerm term="pool area" position="6" RelTerm="well-maintained" category="service" polarity="neutral"/>
+    </aspects>
+</sentence>
+
+<sentence id="AS764" polarity="neutral">
+    <text>the fitness center is well-maintained, and the security features are reliable</text>
+    <aspects>
+        <aspectTerm term="fitness center" position="2" RelTerm="well-maintained" category="service" polarity="neutral"/>
+        <aspectTerm term="security features" position="6" RelTerm="reliable" category="service" polarity="neutral"/>
+    </aspects>
+</sentence>
+
+<sentence id="AS765" polarity="neutral">
+    <text>the pool is good, and the Wi-Fi connection is reliable</text>
+    <aspects>
+        <aspectTerm term="pool" position="2" RelTerm="good" category="service" polarity="neutral"/>
+        <aspectTerm term="Wi-Fi connection" position="6" RelTerm="reliable" category="service" polarity="neutral"/>
+    </aspects>
+</sentence>
+
+<sentence id="AS766" polarity="neutral">
+    <text>the fitness center is well-equipped, and the security system is standard</text>
+    <aspects>
+        <aspectTerm term="fitness center" position="2" RelTerm="well-equipped" category="service" polarity="neutral"/>
+        <aspectTerm term="security system" position="6" RelTerm="standard" category="service" polarity="neutral"/>
+    </aspects>
+</sentence>
+
+<sentence id="AS767" polarity="neutral">
+    <text>the Wi-Fi is reliable, and the pool is satisfactory</text>
+    <aspects>
+        <aspectTerm term="Wi-Fi" position="2" RelTerm="reliable" category="service" polarity="neutral"/>
+        <aspectTerm term="pool" position="6" RelTerm="satisfactory" category="service" polarity="neutral"/>
+    </aspects>
+</sentence>
+
+<sentence id="AS768" polarity="neutral">
+    <text>the fitness center is adequate, and the security management is sufficient</text>
+    <aspects>
+        <aspectTerm term="fitness center" position="2" RelTerm="adequate" category="service" polarity="neutral"/>
+        <aspectTerm term="security management" position="6" RelTerm="sufficient" category="service" polarity="neutral"/>
+    </aspects>
+</sentence>
+
+<sentence id="AS769" polarity="neutral">
+    <text>the pool area is clean, and the Wi-Fi is effective</text>
+    <aspects>
+        <aspectTerm term="pool area" position="2" RelTerm="clean" category="service" polarity="neutral"/>
+        <aspectTerm term="Wi-Fi" position="6" RelTerm="effective" category="service" polarity="neutral"/>
+    </aspects>
+</sentence>
+
+<sentence id="AS770" polarity="neutral">
+    <text>the fitness center has basic equipment, and the security system is reliable</text>
+    <aspects>
+        <aspectTerm term="fitness center" position="2" RelTerm="basic equipment" category="service" polarity="neutral"/>
+        <aspectTerm term="security system" position="6" RelTerm="reliable" category="service" polarity="neutral"/>
+    </aspects>
+</sentence>
+<sentence id="AS771" polarity="neutral">
+    <text>the reservation management system is functional, and mobile accessibility is satisfactory</text>
+    <aspects>
+        <aspectTerm term="reservation management system" position="2" RelTerm="functional" category="service" polarity="neutral"/>
+        <aspectTerm term="mobile accessibility" position="6" RelTerm="satisfactory" category="service" polarity="neutral"/>
+    </aspects>
+</sentence>
+
+<sentence id="AS772" polarity="neutral">
+    <text>the payments process is secure, and the maintenance of facilities is adequate</text>
+    <aspects>
+        <aspectTerm term="payments process" position="2" RelTerm="secure" category="service" polarity="neutral"/>
+        <aspectTerm term="maintenance of facilities" position="6" RelTerm="adequate" category="service" polarity="neutral"/>
+    </aspects>
+</sentence>
+
+<sentence id="AS773" polarity="neutral">
+    <text>the mobile app is responsive, and reservation management is straightforward</text>
+    <aspects>
+        <aspectTerm term="mobile app" position="2" RelTerm="responsive" category="service" polarity="neutral"/>
+        <aspectTerm term="reservation management" position="6" RelTerm="straightforward" category="service" polarity="neutral"/>
+    </aspects>
+</sentence>
+
+<sentence id="AS774" polarity="neutral">
+    <text>the payment options are varied, and maintenance services are timely</text>
+    <aspects>
+        <aspectTerm term="payment options" position="2" RelTerm="varied" category="service" polarity="neutral"/>
+        <aspectTerm term="maintenance services" position="6" RelTerm="timely" category="service" polarity="neutral"/>
+    </aspects>
+</sentence>
+
+<sentence id="AS775" polarity="neutral">
+    <text>the reservation system is efficient, and mobile accessibility is user-friendly</text>
+    <aspects>
+        <aspectTerm term="reservation system" position="2" RelTerm="efficient" category="service" polarity="neutral"/>
+        <aspectTerm term="mobile accessibility" position="6" RelTerm="user-friendly" category="service" polarity="neutral"/>
+    </aspects>
+</sentence>
+
+<sentence id="AS776" polarity="neutral">
+    <text>the payments are processed quickly, and maintenance of the building is satisfactory</text>
+    <aspects>
+        <aspectTerm term="payments" position="2" RelTerm="processed quickly" category="service" polarity="neutral"/>
+        <aspectTerm term="maintenance of the building" position="6" RelTerm="satisfactory" category="service" polarity="neutral"/>
+    </aspects>
+</sentence>
+
+<sentence id="AS777" polarity="neutral">
+    <text>the mobile accessibility is convenient, and the reservation management system is reliable</text>
+    <aspects>
+        <aspectTerm term="mobile accessibility" position="2" RelTerm="convenient" category="service" polarity="neutral"/>
+        <aspectTerm term="reservation management system" position="6" RelTerm="reliable" category="service" polarity="neutral"/>
+    </aspects>
+</sentence>
+
+<sentence id="AS778" polarity="neutral">
+    <text>the payment methods are diverse, and maintenance services are effective</text>
+    <aspects>
+        <aspectTerm term="payment methods" position="2" RelTerm="diverse" category="service" polarity="neutral"/>
+        <aspectTerm term="maintenance services" position="6" RelTerm="effective" category="service" polarity="neutral"/>
+    </aspects>
+</sentence>
+
+<sentence id="AS779" polarity="neutral">
+    <text>the reservation management system is up-to-date, and mobile accessibility is consistent</text>
+    <aspects>
+        <aspectTerm term="reservation management system" position="2" RelTerm="up-to-date" category="service" polarity="neutral"/>
+        <aspectTerm term="mobile accessibility" position="6" RelTerm="consistent" category="service" polarity="neutral"/>
+    </aspects>
+</sentence>
+
+<sentence id="AS780" polarity="neutral">
+    <text>the payments are handled efficiently, and the maintenance of amenities is acceptable</text>
+    <aspects>
+        <aspectTerm term="payments" position="2" RelTerm="handled efficiently" category="service" polarity="neutral"/>
+        <aspectTerm term="maintenance of amenities" position="6" RelTerm="acceptable" category="service" polarity="neutral"/>
+    </aspects>
+</sentence>
+
+<sentence id="AS781" polarity="neutral">
+    <text>the mobile app's performance is adequate, and reservation management is effective</text>
+    <aspects>
+        <aspectTerm term="mobile app's performance" position="2" RelTerm="adequate" category="service" polarity="neutral"/>
+        <aspectTerm term="reservation management" position="6" RelTerm="effective" category="service" polarity="neutral"/>
+    </aspects>
+</sentence>
+
+<sentence id="AS782" polarity="neutral">
+    <text>the payment process is straightforward, and maintenance of the property is adequate</text>
+    <aspects>
+        <aspectTerm term="payment process" position="2" RelTerm="straightforward" category="service" polarity="neutral"/>
+        <aspectTerm term="maintenance of the property" position="6" RelTerm="adequate" category="service" polarity="neutral"/>
+    </aspects>
+</sentence>
+
+<sentence id="AS783" polarity="neutral">
+    <text>the mobile interface is functional, and reservation management is seamless</text>
+    <aspects>
+        <aspectTerm term="mobile interface" position="2" RelTerm="functional" category="service" polarity="neutral"/>
+        <aspectTerm term="reservation management" position="6" RelTerm="seamless" category="service" polarity="neutral"/>
+    </aspects>
+</sentence>
+
+<sentence id="AS784" polarity="neutral">
+    <text>the payments system is secure, and the maintenance of the hotel is consistent</text>
+    <aspects>
+        <aspectTerm term="payments system" position="2" RelTerm="secure" category="service" polarity="neutral"/>
+        <aspectTerm term="maintenance of the hotel" position="6" RelTerm="consistent" category="service" polarity="neutral"/>
+    </aspects>
+</sentence>
+
+<sentence id="AS785" polarity="neutral">
+    <text>the reservation process is straightforward, and mobile accessibility is functional</text>
+    <aspects>
+        <aspectTerm term="reservation process" position="2" RelTerm="straightforward" category="service" polarity="neutral"/>
+        <aspectTerm term="mobile accessibility" position="6" RelTerm="functional" category="service" polarity="neutral"/>
+    </aspects>
+</sentence>
+
+<sentence id="AS786" polarity="neutral">
+    <text>the payments are processed securely, and the maintenance service is prompt</text>
+    <aspects>
+        <aspectTerm term="payments" position="2" RelTerm="processed securely" category="service" polarity="neutral"/>
+        <aspectTerm term="maintenance service" position="6" RelTerm="prompt" category="service" polarity="neutral"/>
+    </aspects>
+</sentence>
+
+<sentence id="AS787" polarity="neutral">
+    <text>the mobile app is easy to navigate, and reservation management is efficient</text>
+    <aspects>
+        <aspectTerm term="mobile app" position="2" RelTerm="easy to navigate" category="service" polarity="neutral"/>
+        <aspectTerm term="reservation management" position="6" RelTerm="efficient" category="service" polarity="neutral"/>
+    </aspects>
+</sentence>
+
+<sentence id="AS788" polarity="neutral">
+    <text>the payment methods offered are varied, and maintenance issues are handled effectively</text>
+    <aspects>
+        <aspectTerm term="payment methods" position="2" RelTerm="varied" category="service" polarity="neutral"/>
+        <aspectTerm term="maintenance issues" position="6" RelTerm="handled effectively" category="service" polarity="neutral"/>
+    </aspects>
+</sentence>
+
+<sentence id="AS789" polarity="neutral">
+    <text>the mobile accessibility is satisfactory, and the reservation system works as expected</text>
+    <aspects>
+        <aspectTerm term="mobile accessibility" position="2" RelTerm="satisfactory" category="service" polarity="neutral"/>
+        <aspectTerm term="reservation system" position="6" RelTerm="works as expected" category="service" polarity="neutral"/>
+    </aspects>
+</sentence>
+
+<sentence id="AS790" polarity="neutral">
+    <text>the payment system is functional, and maintenance of the property is up to standard</text>
+    <aspects>
+        <aspectTerm term="payment system" position="2" RelTerm="functional" category="service" polarity="neutral"/>
+        <aspectTerm term="maintenance of the property" position="6" RelTerm="up to standard" category="service" polarity="neutral"/>
+    </aspects>
+</sentence>
+
+<sentence id="AS791" polarity="neutral">
+    <text>the reservation management is effective, and mobile accessibility is convenient</text>
+    <aspects>
+        <aspectTerm term="reservation management" position="2" RelTerm="effective" category="service" polarity="neutral"/>
+        <aspectTerm term="mobile accessibility" position="6" RelTerm="convenient" category="service" polarity="neutral"/>
+    </aspects>
+</sentence>
+
+<sentence id="AS792" polarity="neutral">
+    <text>the payments are secure, and maintenance is carried out regularly</text>
+    <aspects>
+        <aspectTerm term="payments" position="2" RelTerm="secure" category="service" polarity="neutral"/>
+        <aspectTerm term="maintenance" position="6" RelTerm="carried out regularly" category="service" polarity="neutral"/>
+    </aspects>
+</sentence>
+
+<sentence id="AS793" polarity="neutral">
+    <text>the mobile app is user-friendly, and reservation management is effective</text>
+    <aspects>
+        <aspectTerm term="mobile app" position="2" RelTerm="user-friendly" category="service" polarity="neutral"/>
+        <aspectTerm term="reservation management" position="6" RelTerm="effective" category="service" polarity="neutral"/>
+    </aspects>
+</sentence>
+
+<sentence id="AS794" polarity="neutral">
+    <text>the payment system is reliable, and maintenance is addressed promptly</text>
+    <aspects>
+        <aspectTerm term="payment system" position="2" RelTerm="reliable" category="service" polarity="neutral"/>
+        <aspectTerm term="maintenance" position="6" RelTerm="addressed promptly" category="service" polarity="neutral"/>
+    </aspects>
+</sentence>
+
+<sentence id="AS795" polarity="neutral">
+    <text>the reservation system is straightforward, and mobile accessibility is reliable</text>
+    <aspects>
+        <aspectTerm term="reservation system" position="2" RelTerm="straightforward" category="service" polarity="neutral"/>
+        <aspectTerm term="mobile accessibility" position="6" RelTerm="reliable" category="service" polarity="neutral"/>
+    </aspects>
+</sentence>
+
+<sentence id="AS796" polarity="neutral">
+    <text>the payment process is efficient, and maintenance of the hotel facilities is acceptable</text>
+    <aspects>
+        <aspectTerm term="payment process" position="2" RelTerm="efficient" category="service" polarity="neutral"/>
+        <aspectTerm term="maintenance of the hotel facilities" position="6" RelTerm="acceptable" category="service" polarity="neutral"/>
+    </aspects>
+</sentence>
+
+<sentence id="AS797" polarity="neutral">
+    <text>the mobile app is functional, and reservation management is smooth</text>
+    <aspects>
+        <aspectTerm term="mobile app" position="2" RelTerm="functional" category="service" polarity="neutral"/>
+        <aspectTerm term="reservation management" position="6" RelTerm="smooth" category="service" polarity="neutral"/>
+    </aspects>
+</sentence>
+
+<sentence id="AS798" polarity="neutral">
+    <text>the payments are processed without issues, and maintenance is handled well</text>
+    <aspects>
+        <aspectTerm term="payments" position="2" RelTerm="processed without issues" category="service" polarity="neutral"/>
+        <aspectTerm term="maintenance" position="6" RelTerm="handled well" category="service" polarity="neutral"/>
+    </aspects>
+</sentence>
+
+<sentence id="AS799" polarity="neutral">
+    <text>the mobile accessibility is adequate, and reservation management is competent</text>
+    <aspects>
+        <aspectTerm term="mobile accessibility" position="2" RelTerm="adequate" category="service" polarity="neutral"/>
+        <aspectTerm term="reservation management" position="6" RelTerm="competent" category="service" polarity="neutral"/>
+    </aspects>
+</sentence>
+
+<sentence id="AS800" polarity="neutral">
+    <text>the payment options are convenient, and maintenance services are routine</text>
+    <aspects>
+        <aspectTerm term="payment options" position="2" RelTerm="convenient" category="service" polarity="neutral"/>
+        <aspectTerm term="maintenance services" position="6" RelTerm="routine" category="service" polarity="neutral"/>
+    </aspects>
+</sentence>
+
+<sentence id="AS801" polarity="neutral">
+    <text>the reservation system operates well, and mobile accessibility is consistent</text>
+    <aspects>
+        <aspectTerm term="reservation system" position="2" RelTerm="operates well" category="service" polarity="neutral"/>
+        <aspectTerm term="mobile accessibility" position="6" RelTerm="consistent" category="service" polarity="neutral"/>
+    </aspects>
+</sentence>
+
+<sentence id="AS802" polarity="neutral">
+    <text>the payments are processed efficiently, and maintenance is generally good</text>
+    <aspects>
+        <aspectTerm term="payments" position="2" RelTerm="processed efficiently" category="service" polarity="neutral"/>
+        <aspectTerm term="maintenance" position="6" RelTerm="generally good" category="service" polarity="neutral"/>
+    </aspects>
+</sentence>
+
+<sentence id="AS803" polarity="neutral">
+    <text>the mobile app is efficient, and reservation management is straightforward</text>
+    <aspects>
+        <aspectTerm term="mobile app" position="2" RelTerm="efficient" category="service" polarity="neutral"/>
+        <aspectTerm term="reservation management" position="6" RelTerm="straightforward" category="service" polarity="neutral"/>
+    </aspects>
+</sentence>
+
+<sentence id="AS804" polarity="neutral">
+    <text>the payment system is reliable, and maintenance of equipment is satisfactory</text>
+    <aspects>
+        <aspectTerm term="payment system" position="2" RelTerm="reliable" category="service" polarity="neutral"/>
+        <aspectTerm term="maintenance of equipment" position="6" RelTerm="satisfactory" category="service" polarity="neutral"/>
+    </aspects>
+</sentence>
+
+<sentence id="AS805" polarity="neutral">
+    <text>the reservation management is efficient, and mobile accessibility is adequate</text>
+    <aspects>
+        <aspectTerm term="reservation management" position="2" RelTerm="efficient" category="service" polarity="neutral"/>
+        <aspectTerm term="mobile accessibility" position="6" RelTerm="adequate" category="service" polarity="neutral"/>
+    </aspects>
+</sentence>
+
+<sentence id="AS806" polarity="neutral">
+    <text>the payments are handled effectively, and maintenance is carried out regularly</text>
+    <aspects>
+        <aspectTerm term="payments" position="2" RelTerm="handled effectively" category="service" polarity="neutral"/>
+        <aspectTerm term="maintenance" position="6" RelTerm="carried out regularly" category="service" polarity="neutral"/>
+    </aspects>
+</sentence>
+
+<sentence id="AS807" polarity="neutral">
+    <text>the mobile accessibility is good, and reservation management is adequate</text>
+    <aspects>
+        <aspectTerm term="mobile accessibility" position="2" RelTerm="good" category="service" polarity="neutral"/>
+        <aspectTerm term="reservation management" position="6" RelTerm="adequate" category="service" polarity="neutral"/>
+    </aspects>
+</sentence>
+
+<sentence id="AS808" polarity="neutral">
+    <text>the payment system is straightforward, and maintenance is up to standard</text>
+    <aspects>
+        <aspectTerm term="payment system" position="2" RelTerm="straightforward" category="service" polarity="neutral"/>
+        <aspectTerm term="maintenance" position="6" RelTerm="up to standard" category="service" polarity="neutral"/>
+    </aspects>
+</sentence>
+
+<sentence id="AS809" polarity="neutral">
+    <text>the mobile app's usability is acceptable, and reservation management is smooth</text>
+    <aspects>
+        <aspectTerm term="mobile app's usability" position="2" RelTerm="acceptable" category="service" polarity="neutral"/>
+        <aspectTerm term="reservation management" position="6" RelTerm="smooth" category="service" polarity="neutral"/>
+    </aspects>
+</sentence>
+
+<sentence id="AS810" polarity="neutral">
+    <text>the payments are processed seamlessly, and maintenance is satisfactory</text>
+    <aspects>
+        <aspectTerm term="payments" position="2" RelTerm="processed seamlessly" category="service" polarity="neutral"/>
+        <aspectTerm term="maintenance" position="6" RelTerm="satisfactory" category="service" polarity="neutral"/>
+    </aspects>
+</sentence>
+
+<sentence id="AS811" polarity="neutral">
+    <text>the reservation management system is functional, and mobile accessibility is convenient</text>
+    <aspects>
+        <aspectTerm term="reservation management system" position="2" RelTerm="functional" category="service" polarity="neutral"/>
+        <aspectTerm term="mobile accessibility" position="6" RelTerm="convenient" category="service" polarity="neutral"/>
+    </aspects>
+</sentence>
+
+<sentence id="AS812" polarity="neutral">
+    <text>the payment methods are diverse, and maintenance of the facilities is acceptable</text>
+    <aspects>
+        <aspectTerm term="payment methods" position="2" RelTerm="diverse" category="service" polarity="neutral"/>
+        <aspectTerm term="maintenance of the facilities" position="6" RelTerm="acceptable" category="service" polarity="neutral"/>
+    </aspects>
+</sentence>
+
+<sentence id="AS813" polarity="neutral">
+    <text>the mobile accessibility feature works as expected, and reservation management is efficient</text>
+    <aspects>
+        <aspectTerm term="mobile accessibility feature" position="2" RelTerm="works as expected" category="service" polarity="neutral"/>
+        <aspectTerm term="reservation management" position="6" RelTerm="efficient" category="service" polarity="neutral"/>
+    </aspects>
+</sentence>
+
+<sentence id="AS814" polarity="neutral">
+    <text>the payment processing is straightforward, and maintenance is carried out appropriately</text>
+    <aspects>
+        <aspectTerm term="payment processing" position="2" RelTerm="straightforward" category="service" polarity="neutral"/>
+        <aspectTerm term="maintenance" position="6" RelTerm="carried out appropriately" category="service" polarity="neutral"/>
+    </aspects>
+</sentence>
+
+<sentence id="AS815" polarity="neutral">
+    <text>the reservation system operates smoothly, and mobile accessibility is satisfactory</text>
+    <aspects>
+        <aspectTerm term="reservation system" position="2" RelTerm="operates smoothly" category="service" polarity="neutral"/>
+        <aspectTerm term="mobile accessibility" position="6" RelTerm="satisfactory" category="service" polarity="neutral"/>
+    </aspects>
+</sentence>
+
+<sentence id="AS816" polarity="neutral">
+    <text>the payment procedures are handled effectively, and maintenance is up to standard</text>
+    <aspects>
+        <aspectTerm term="payment procedures" position="2" RelTerm="handled effectively" category="service" polarity="neutral"/>
+        <aspectTerm term="maintenance" position="6" RelTerm="up to standard" category="service" polarity="neutral"/>
+    </aspects>
+</sentence>
+
+<sentence id="AS817" polarity="neutral">
+    <text>the mobile application is functional, and reservation management is satisfactory</text>
+    <aspects>
+        <aspectTerm term="mobile application" position="2" RelTerm="functional" category="service" polarity="neutral"/>
+        <aspectTerm term="reservation management" position="6" RelTerm="satisfactory" category="service" polarity="neutral"/>
+    </aspects>
+</sentence>
+
+<sentence id="AS818" polarity="neutral">
+    <text>the payment process is efficient, and maintenance is performed regularly</text>
+    <aspects>
+        <aspectTerm term="payment process" position="2" RelTerm="efficient" category="service" polarity="neutral"/>
+        <aspectTerm term="maintenance" position="6" RelTerm="performed regularly" category="service" polarity="neutral"/>
+    </aspects>
+</sentence>
+
+<sentence id="AS819" polarity="neutral">
+    <text>the reservation management system functions well, and mobile accessibility is reliable</text>
+    <aspects>
+        <aspectTerm term="reservation management system" position="2" RelTerm="functions well" category="service" polarity="neutral"/>
+        <aspectTerm term="mobile accessibility" position="6" RelTerm="reliable" category="service" polarity="neutral"/>
+    </aspects>
+</sentence>
+
+<sentence id="AS820" polarity="neutral">
+    <text>the payments are handled smoothly, and maintenance is acceptable</text>
+    <aspects>
+        <aspectTerm term="payments" position="2" RelTerm="handled smoothly" category="service" polarity="neutral"/>
+        <aspectTerm term="maintenance" position="6" RelTerm="acceptable" category="service" polarity="neutral"/>
+    </aspects>
+</sentence>
+<sentence id="AS821" polarity="neutral">
+    <text>the security management is good, and the pool area is clean</text>
+    <aspects>
+        <aspectTerm term="security management" position="2" RelTerm="good" category="service" polarity="neutral"/>
+        <aspectTerm term="pool area" position="6" RelTerm="clean" category="facility" polarity="neutral"/>
+    </aspects>
+</sentence>
+
+<sentence id="AS822" polarity="neutral">
+    <text>the fitness center is well-equipped, and the reservation system functions properly</text>
+    <aspects>
+        <aspectTerm term="fitness center" position="2" RelTerm="well-equipped" category="facility" polarity="neutral"/>
+        <aspectTerm term="reservation system" position="6" RelTerm="functions properly" category="service" polarity="neutral"/>
+    </aspects>
+</sentence>
+
+<sentence id="AS823" polarity="neutral">
+    <text>the Wi-Fi connection is stable, and guest management is handled efficiently</text>
+    <aspects>
+        <aspectTerm term="Wi-Fi connection" position="2" RelTerm="stable" category="facility" polarity="neutral"/>
+        <aspectTerm term="guest management" position="6" RelTerm="handled efficiently" category="service" polarity="neutral"/>
+    </aspects>
+</sentence>
+
+<sentence id="AS824" polarity="neutral">
+    <text>the breakfast service is standard, and the payment system is straightforward</text>
+    <aspects>
+        <aspectTerm term="breakfast service" position="2" RelTerm="standard" category="service" polarity="neutral"/>
+        <aspectTerm term="payment system" position="6" RelTerm="straightforward" category="service" polarity="neutral"/>
+    </aspects>
+</sentence>
+
+<sentence id="AS825" polarity="neutral">
+    <text>the pool area is relaxing, and mobile accessibility is functional</text>
+    <aspects>
+        <aspectTerm term="pool area" position="2" RelTerm="relaxing" category="facility" polarity="neutral"/>
+        <aspectTerm term="mobile accessibility" position="6" RelTerm="functional" category="service" polarity="neutral"/>
+    </aspects>
+</sentence>
+
+<sentence id="AS826" polarity="neutral">
+    <text>the security measures are satisfactory, and the maintenance of the gym equipment is adequate</text>
+    <aspects>
+        <aspectTerm term="security measures" position="2" RelTerm="satisfactory" category="service" polarity="neutral"/>
+        <aspectTerm term="maintenance of the gym equipment" position="6" RelTerm="adequate" category="service" polarity="neutral"/>
+    </aspects>
+</sentence>
+
+<sentence id="AS827" polarity="neutral">
+    <text>the room service meals are acceptable, and the reservation management is efficient</text>
+    <aspects>
+        <aspectTerm term="room service meals" position="2" RelTerm="acceptable" category="service" polarity="neutral"/>
+        <aspectTerm term="reservation management" position="6" RelTerm="efficient" category="service" polarity="neutral"/>
+    </aspects>
+</sentence>
+
+<sentence id="AS828" polarity="neutral">
+    <text>the fitness center is accessible, and the guest management system is functional</text>
+    <aspects>
+        <aspectTerm term="fitness center" position="2" RelTerm="accessible" category="facility" polarity="neutral"/>
+        <aspectTerm term="guest management system" position="6" RelTerm="functional" category="service" polarity="neutral"/>
+    </aspects>
+</sentence>
+
+<sentence id="AS829" polarity="neutral">
+    <text>the Wi-Fi is available throughout the hotel, and the payment process is simple</text>
+    <aspects>
+        <aspectTerm term="Wi-Fi" position="2" RelTerm="available throughout the hotel" category="facility" polarity="neutral"/>
+        <aspectTerm term="payment process" position="6" RelTerm="simple" category="service" polarity="neutral"/>
+    </aspects>
+</sentence>
+
+<sentence id="AS830" polarity="neutral">
+    <text>the mobile app offers basic functionality, and the pool maintenance is regular</text>
+    <aspects>
+        <aspectTerm term="mobile app" position="2" RelTerm="basic functionality" category="service" polarity="neutral"/>
+        <aspectTerm term="pool maintenance" position="6" RelTerm="regular" category="service" polarity="neutral"/>
+    </aspects>
+</sentence>
+
+<sentence id="AS831" polarity="neutral">
+    <text>the breakfast options are varied, and the maintenance of public areas is satisfactory</text>
+    <aspects>
+        <aspectTerm term="breakfast options" position="2" RelTerm="varied" category="service" polarity="neutral"/>
+        <aspectTerm term="maintenance of public areas" position="6" RelTerm="satisfactory" category="service" polarity="neutral"/>
+    </aspects>
+</sentence>
+
+<sentence id="AS832" polarity="neutral">
+    <text>the fitness center is well-kept, and reservation management is user-friendly</text>
+    <aspects>
+        <aspectTerm term="fitness center" position="2" RelTerm="well-kept" category="facility" polarity="neutral"/>
+        <aspectTerm term="reservation management" position="6" RelTerm="user-friendly" category="service" polarity="neutral"/>
+    </aspects>
+</sentence>
+
+<sentence id="AS833" polarity="neutral">
+    <text>the security system is reliable, and the maintenance of the hotel rooms is routine</text>
+    <aspects>
+        <aspectTerm term="security system" position="2" RelTerm="reliable" category="service" polarity="neutral"/>
+        <aspectTerm term="maintenance of the hotel rooms" position="6" RelTerm="routine" category="service" polarity="neutral"/>
+    </aspects>
+</sentence>
+
+<sentence id="AS834" polarity="neutral">
+    <text>the pool area is enjoyable, and mobile accessibility is satisfactory</text>
+    <aspects>
+        <aspectTerm term="pool area" position="2" RelTerm="enjoyable" category="facility" polarity="neutral"/>
+        <aspectTerm term="mobile accessibility" position="6" RelTerm="satisfactory" category="service" polarity="neutral"/>
+    </aspects>
+</sentence>
+
+<sentence id="AS835" polarity="neutral">
+    <text>the room breakfast is average, and guest management is handled appropriately</text>
+    <aspects>
+        <aspectTerm term="room breakfast" position="2" RelTerm="average" category="service" polarity="neutral"/>
+        <aspectTerm term="guest management" position="6" RelTerm="handled appropriately" category="service" polarity="neutral"/>
+    </aspects>
+</sentence>
+
+<sentence id="AS836" polarity="neutral">
+    <text>the fitness center is convenient, and payment handling is efficient</text>
+    <aspects>
+        <aspectTerm term="fitness center" position="2" RelTerm="convenient" category="facility" polarity="neutral"/>
+        <aspectTerm term="payment handling" position="6" RelTerm="efficient" category="service" polarity="neutral"/>
+    </aspects>
+</sentence>
+
+<sentence id="AS837" polarity="neutral">
+    <text>the Wi-Fi coverage is adequate, and maintenance of the facilities is ongoing</text>
+    <aspects>
+        <aspectTerm term="Wi-Fi coverage" position="2" RelTerm="adequate" category="facility" polarity="neutral"/>
+        <aspectTerm term="maintenance of the facilities" position="6" RelTerm="ongoing" category="service" polarity="neutral"/>
+    </aspects>
+</sentence>
+
+<sentence id="AS838" polarity="neutral">
+    <text>the pool is well-maintained, and the reservation system operates smoothly</text>
+    <aspects>
+        <aspectTerm term="pool" position="2" RelTerm="well-maintained" category="facility" polarity="neutral"/>
+        <aspectTerm term="reservation system" position="6" RelTerm="operates smoothly" category="service" polarity="neutral"/>
+    </aspects>
+</sentence>
+
+<sentence id="AS839" polarity="neutral">
+    <text>the breakfast options are sufficient, and security management is standard</text>
+    <aspects>
+        <aspectTerm term="breakfast options" position="2" RelTerm="sufficient" category="service" polarity="neutral"/>
+        <aspectTerm term="security management" position="6" RelTerm="standard" category="service" polarity="neutral"/>
+    </aspects>
+</sentence>
+
+<sentence id="AS840" polarity="neutral">
+    <text>the mobile app is accessible, and the maintenance of amenities is regular</text>
+    <aspects>
+        <aspectTerm term="mobile app" position="2" RelTerm="accessible" category="service" polarity="neutral"/>
+        <aspectTerm term="maintenance of amenities" position="6" RelTerm="regular" category="service" polarity="neutral"/>
+    </aspects>
+</sentence>
+
+<sentence id="AS841" polarity="neutral">
+    <text>the guest management system is effective, and payment processing is smooth</text>
+    <aspects>
+        <aspectTerm term="guest management system" position="2" RelTerm="effective" category="service" polarity="neutral"/>
+        <aspectTerm term="payment processing" position="6" RelTerm="smooth" category="service" polarity="neutral"/>
+    </aspects>
+</sentence>
+
+<sentence id="AS842" polarity="neutral">
+    <text>the security features are adequate, and the fitness center is maintained regularly</text>
+    <aspects>
+        <aspectTerm term="security features" position="2" RelTerm="adequate" category="service" polarity="neutral"/>
+        <aspectTerm term="fitness center" position="6" RelTerm="maintained regularly" category="facility" polarity="neutral"/>
+    </aspects>
+</sentence>
+
+<sentence id="AS843" polarity="neutral">
+    <text>the Wi-Fi service is stable, and the maintenance of common areas is consistent</text>
+    <aspects>
+        <aspectTerm term="Wi-Fi service" position="2" RelTerm="stable" category="facility" polarity="neutral"/>
+        <aspectTerm term="maintenance of common areas" position="6" RelTerm="consistent" category="service" polarity="neutral"/>
+    </aspects>
+</sentence>
+
+<sentence id="AS844" polarity="neutral">
+    <text>the breakfast is typical, and the mobile accessibility works fine</text>
+    <aspects>
+        <aspectTerm term="breakfast" position="2" RelTerm="typical" category="service" polarity="neutral"/>
+        <aspectTerm term="mobile accessibility" position="6" RelTerm="works fine" category="service" polarity="neutral"/>
+    </aspects>
+</sentence>
+
+<sentence id="AS845" polarity="neutral">
+    <text>the pool is functional, and the reservation system is straightforward</text>
+    <aspects>
+        <aspectTerm term="pool" position="2" RelTerm="functional" category="facility" polarity="neutral"/>
+        <aspectTerm term="reservation system" position="6" RelTerm="straightforward" category="service" polarity="neutral"/>
+    </aspects>
+</sentence>
+
+<sentence id="AS846" polarity="neutral">
+    <text>the fitness center is available, and the guest management is adequate</text>
+    <aspects>
+        <aspectTerm term="fitness center" position="2" RelTerm="available" category="facility" polarity="neutral"/>
+        <aspectTerm term="guest management" position="6" RelTerm="adequate" category="service" polarity="neutral"/>
+    </aspects>
+</sentence>
+
+<sentence id="AS847" polarity="neutral">
+    <text>the security system is operational, and the maintenance of the pool is up to date</text>
+    <aspects>
+        <aspectTerm term="security system" position="2" RelTerm="operational" category="service" polarity="neutral"/>
+        <aspectTerm term="maintenance of the pool" position="6" RelTerm="up to date" category="service" polarity="neutral"/>
+    </aspects>
+</sentence>
+
+<sentence id="AS848" polarity="neutral">
+    <text>the Wi-Fi is reliable, and the reservation process is smooth</text>
+    <aspects>
+        <aspectTerm term="Wi-Fi" position="2" RelTerm="reliable" category="facility" polarity="neutral"/>
+        <aspectTerm term="reservation process" position="6" RelTerm="smooth" category="service" polarity="neutral"/>
+    </aspects>
+</sentence>
+
+<sentence id="AS849" polarity="neutral">
+    <text>the breakfast service is average, and the maintenance of guest rooms is adequate</text>
+    <aspects>
+        <aspectTerm term="breakfast service" position="2" RelTerm="average" category="service" polarity="neutral"/>
+        <aspectTerm term="maintenance of guest rooms" position="6" RelTerm="adequate" category="service" polarity="neutral"/>
+    </aspects>
+</sentence>
+
+<sentence id="AS850" polarity="neutral">
+    <text>the mobile app provides basic features, and the fitness center is well-kept</text>
+    <aspects>
+        <aspectTerm term="mobile app" position="2" RelTerm="basic features" category="service" polarity="neutral"/>
+        <aspectTerm term="fitness center" position="6" RelTerm="well-kept" category="facility" polarity="neutral"/>
+    </aspects>
+</sentence>
+
+<sentence id="AS851" polarity="neutral">
+    <text>the security management is effective, and the pool maintenance is regular</text>
+    <aspects>
+        <aspectTerm term="security management" position="2" RelTerm="effective" category="service" polarity="neutral"/>
+        <aspectTerm term="pool maintenance" position="6" RelTerm="regular" category="service" polarity="neutral"/>
+    </aspects>
+</sentence>
+
+<sentence id="AS852" polarity="neutral">
+    <text>the payment options are sufficient, and the mobile app is responsive</text>
+    <aspects>
+        <aspectTerm term="payment options" position="2" RelTerm="sufficient" category="service" polarity="neutral"/>
+        <aspectTerm term="mobile app" position="6" RelTerm="responsive" category="service" polarity="neutral"/>
+    </aspects>
+</sentence>
+
+<sentence id="AS853" polarity="neutral">
+    <text>the breakfast choices are decent, and the fitness center is accessible</text>
+    <aspects>
+        <aspectTerm term="breakfast choices" position="2" RelTerm="decent" category="service" polarity="neutral"/>
+        <aspectTerm term="fitness center" position="6" RelTerm="accessible" category="facility" polarity="neutral"/>
+    </aspects>
+</sentence>
+
+<sentence id="AS854" polarity="neutral">
+    <text>the security measures are adequate, and the reservation system is operational</text>
+    <aspects>
+        <aspectTerm term="security measures" position="2" RelTerm="adequate" category="service" polarity="neutral"/>
+        <aspectTerm term="reservation system" position="6" RelTerm="operational" category="service" polarity="neutral"/>
+    </aspects>
+</sentence>
+
+<sentence id="AS855" polarity="neutral">
+    <text>the maintenance of public areas is routine, and the guest management system is effective</text>
+    <aspects>
+        <aspectTerm term="maintenance of public areas" position="2" RelTerm="routine" category="service" polarity="neutral"/>
+        <aspectTerm term="guest management system" position="6" RelTerm="effective" category="service" polarity="neutral"/>
+    </aspects>
+</sentence>
+
+<sentence id="AS856" polarity="neutral">
+    <text>the pool cleanliness is acceptable, and the mobile accessibility is reliable</text>
+    <aspects>
+        <aspectTerm term="pool cleanliness" position="2" RelTerm="acceptable" category="facility" polarity="neutral"/>
+        <aspectTerm term="mobile accessibility" position="6" RelTerm="reliable" category="service" polarity="neutral"/>
+    </aspects>
+</sentence>
+
+<sentence id="AS857" polarity="neutral">
+    <text>the fitness center is available, and the payment methods are varied</text>
+    <aspects>
+        <aspectTerm term="fitness center" position="2" RelTerm="available" category="facility" polarity="neutral"/>
+        <aspectTerm term="payment methods" position="6" RelTerm="varied" category="service" polarity="neutral"/>
+    </aspects>
+</sentence>
+
+<sentence id="AS858" polarity="neutral">
+    <text>the reservation system is user-friendly, and the maintenance is timely</text>
+    <aspects>
+        <aspectTerm term="reservation system" position="2" RelTerm="user-friendly" category="service" polarity="neutral"/>
+        <aspectTerm term="maintenance" position="6" RelTerm="timely" category="service" polarity="neutral"/>
+    </aspects>
+</sentence>
+
+<sentence id="AS859" polarity="neutral">
+    <text>the breakfast is standard, and the security system is functional</text>
+    <aspects>
+        <aspectTerm term="breakfast" position="2" RelTerm="standard" category="service" polarity="neutral"/>
+        <aspectTerm term="security system" position="6" RelTerm="functional" category="service" polarity="neutral"/>
+    </aspects>
+</sentence>
+
+<sentence id="AS860" polarity="neutral">
+    <text>the guest rooms are comfortable, and the Wi-Fi connection is stable</text>
+    <aspects>
+        <aspectTerm term="guest rooms" position="2" RelTerm="comfortable" category="facility" polarity="neutral"/>
+        <aspectTerm term="Wi-Fi connection" position="6" RelTerm="stable" category="facility" polarity="neutral"/>
+    </aspects>
+</sentence>
+
+<sentence id="AS861" polarity="neutral">
+    <text>the mobile app is user-friendly, and the breakfast service is adequate</text>
+    <aspects>
+        <aspectTerm term="mobile app" position="2" RelTerm="user-friendly" category="service" polarity="neutral"/>
+        <aspectTerm term="breakfast service" position="6" RelTerm="adequate" category="service" polarity="neutral"/>
+    </aspects>
+</sentence>
+
+<sentence id="AS862" polarity="neutral">
+    <text>the fitness center is clean, and the payment options are sufficient</text>
+    <aspects>
+        <aspectTerm term="fitness center" position="2" RelTerm="clean" category="facility" polarity="neutral"/>
+        <aspectTerm term="payment options" position="6" RelTerm="sufficient" category="service" polarity="neutral"/>
+    </aspects>
+</sentence>
+
+<sentence id="AS863" polarity="neutral">
+    <text>the security features are comprehensive, and the mobile app is functional</text>
+    <aspects>
+        <aspectTerm term="security features" position="2" RelTerm="comprehensive" category="service" polarity="neutral"/>
+        <aspectTerm term="mobile app" position="6" RelTerm="functional" category="service" polarity="neutral"/>
+    </aspects>
+</sentence>
+
+<sentence id="AS864" polarity="neutral">
+    <text>the pool area is well-maintained, and the guest management system is efficient</text>
+    <aspects>
+        <aspectTerm term="pool area" position="2" RelTerm="well-maintained" category="facility" polarity="neutral"/>
+        <aspectTerm term="guest management system" position="6" RelTerm="efficient" category="service" polarity="neutral"/>
+    </aspects>
+</sentence>
+
+<sentence id="AS865" polarity="neutral">
+    <text>the breakfast options are standard, and the reservation process is easy to navigate</text>
+    <aspects>
+        <aspectTerm term="breakfast options" position="2" RelTerm="standard" category="service" polarity="neutral"/>
+        <aspectTerm term="reservation process" position="6" RelTerm="easy to navigate" category="service" polarity="neutral"/>
+    </aspects>
+</sentence>
+
+<sentence id="AS866" polarity="neutral">
+    <text>the mobile app features are basic, and the fitness center is well-maintained</text>
+    <aspects>
+        <aspectTerm term="mobile app features" position="2" RelTerm="basic" category="service" polarity="neutral"/>
+        <aspectTerm term="fitness center" position="6" RelTerm="well-maintained" category="facility" polarity="neutral"/>
+    </aspects>
+</sentence>
+
+<sentence id="AS867" polarity="neutral">
+    <text>the Wi-Fi speed is acceptable, and the guest management is satisfactory</text>
+    <aspects>
+        <aspectTerm term="Wi-Fi speed" position="2" RelTerm="acceptable" category="facility" polarity="neutral"/>
+        <aspectTerm term="guest management" position="6" RelTerm="satisfactory" category="service" polarity="neutral"/>
+    </aspects>
+</sentence>
+
+<sentence id="AS868" polarity="neutral">
+    <text>the security system is reliable, and the maintenance of amenities is routine</text>
+    <aspects>
+        <aspectTerm term="security system" position="2" RelTerm="reliable" category="service" polarity="neutral"/>
+        <aspectTerm term="maintenance of amenities" position="6" RelTerm="routine" category="service" polarity="neutral"/>
+    </aspects>
+</sentence>
+
+<sentence id="AS869" polarity="neutral">
+    <text>the guest rooms are clean, and the breakfast quality is acceptable</text>
+    <aspects>
+        <aspectTerm term="guest rooms" position="2" RelTerm="clean" category="facility" polarity="neutral"/>
+        <aspectTerm term="breakfast quality" position="6" RelTerm="acceptable" category="service" polarity="neutral"/>
+    </aspects>
+</sentence>
+
+<sentence id="AS870" polarity="neutral">
+    <text>the mobile app performance is stable, and the pool area is clean</text>
+    <aspects>
+        <aspectTerm term="mobile app performance" position="2" RelTerm="stable" category="service" polarity="neutral"/>
+        <aspectTerm term="pool area" position="6" RelTerm="clean" category="facility" polarity="neutral"/>
+    </aspects>
+</sentence>
+<sentence id="AS871" polarity="neutral">
+    <text>the breakfast is satisfactory, and the guest management system operates smoothly</text>
+    <aspects>
+        <aspectTerm term="breakfast" position="2" RelTerm="satisfactory" category="service" polarity="neutral"/>
+        <aspectTerm term="guest management system" position="6" RelTerm="operates smoothly" category="service" polarity="neutral"/>
+    </aspects>
+</sentence>
+
+<sentence id="AS872" polarity="neutral">
+    <text>the mobile app functionality is adequate, and the pool maintenance is timely</text>
+    <aspects>
+        <aspectTerm term="mobile app functionality" position="2" RelTerm="adequate" category="service" polarity="neutral"/>
+        <aspectTerm term="pool maintenance" position="6" RelTerm="timely" category="service" polarity="neutral"/>
+    </aspects>
+</sentence>
+
+<sentence id="AS873" polarity="neutral">
+    <text>the Wi-Fi connection is stable, and the reservation system is easy to use</text>
+    <aspects>
+        <aspectTerm term="Wi-Fi connection" position="2" RelTerm="stable" category="facility" polarity="neutral"/>
+        <aspectTerm term="reservation system" position="6" RelTerm="easy to use" category="service" polarity="neutral"/>
+    </aspects>
+</sentence>
+
+<sentence id="AS874" polarity="neutral">
+    <text>the security measures are sufficient, and the fitness center is adequately equipped</text>
+    <aspects>
+        <aspectTerm term="security measures" position="2" RelTerm="sufficient" category="service" polarity="neutral"/>
+        <aspectTerm term="fitness center" position="6" RelTerm="adequately equipped" category="facility" polarity="neutral"/>
+    </aspects>
+</sentence>
+
+<sentence id="AS875" polarity="neutral">
+    <text>the mobile accessibility is functional, and the breakfast service is acceptable</text>
+    <aspects>
+        <aspectTerm term="mobile accessibility" position="2" RelTerm="functional" category="service" polarity="neutral"/>
+        <aspectTerm term="breakfast service" position="6" RelTerm="acceptable" category="service" polarity="neutral"/>
+    </aspects>
+</sentence>
+
+<sentence id="AS876" polarity="neutral">
+    <text>the payment options are varied, and the maintenance of common areas is regular</text>
+    <aspects>
+        <aspectTerm term="payment options" position="2" RelTerm="varied" category="service" polarity="neutral"/>
+        <aspectTerm term="maintenance of common areas" position="6" RelTerm="regular" category="service" polarity="neutral"/>
+    </aspects>
+</sentence>
+
+<sentence id="AS877" polarity="neutral">
+    <text>the guest management system is reliable, and the pool area is maintained properly</text>
+    <aspects>
+        <aspectTerm term="guest management system" position="2" RelTerm="reliable" category="service" polarity="neutral"/>
+        <aspectTerm term="pool area" position="6" RelTerm="maintained properly" category="facility" polarity="neutral"/>
+    </aspects>
+</sentence>
+
+<sentence id="AS878" polarity="neutral">
+    <text>the fitness center is available, and the reservation management is straightforward</text>
+    <aspects>
+        <aspectTerm term="fitness center" position="2" RelTerm="available" category="facility" polarity="neutral"/>
+        <aspectTerm term="reservation management" position="6" RelTerm="straightforward" category="service" polarity="neutral"/>
+    </aspects>
+</sentence>
+
+<sentence id="AS879" polarity="neutral">
+    <text>the Wi-Fi service is consistent, and the mobile app provides essential features</text>
+    <aspects>
+        <aspectTerm term="Wi-Fi service" position="2" RelTerm="consistent" category="facility" polarity="neutral"/>
+        <aspectTerm term="mobile app" position="6" RelTerm="provides essential features" category="service" polarity="neutral"/>
+    </aspects>
+</sentence>
+
+<sentence id="AS880" polarity="neutral">
+    <text>the security management is thorough, and the breakfast offerings are standard</text>
+    <aspects>
+        <aspectTerm term="security management" position="2" RelTerm="thorough" category="service" polarity="neutral"/>
+        <aspectTerm term="breakfast offerings" position="6" RelTerm="standard" category="service" polarity="neutral"/>
+    </aspects>
+</sentence>
+
+<sentence id="AS881" polarity="neutral">
+    <text>the mobile app interface is user-friendly, and the fitness center equipment is functional</text>
+    <aspects>
+        <aspectTerm term="mobile app interface" position="2" RelTerm="user-friendly" category="service" polarity="neutral"/>
+        <aspectTerm term="fitness center equipment" position="6" RelTerm="functional" category="facility" polarity="neutral"/>
+    </aspects>
+</sentence>
+
+<sentence id="AS882" polarity="neutral">
+    <text>the payment system is secure, and the guest rooms are adequately maintained</text>
+    <aspects>
+        <aspectTerm term="payment system" position="2" RelTerm="secure" category="service" polarity="neutral"/>
+        <aspectTerm term="guest rooms" position="6" RelTerm="adequately maintained" category="facility" polarity="neutral"/>
+    </aspects>
+</sentence>
+
+<sentence id="AS883" polarity="neutral">
+    <text>the pool area is clean, and the reservation process is efficient</text>
+    <aspects>
+        <aspectTerm term="pool area" position="2" RelTerm="clean" category="facility" polarity="neutral"/>
+        <aspectTerm term="reservation process" position="6" RelTerm="efficient" category="service" polarity="neutral"/>
+    </aspects>
+</sentence>
+
+<sentence id="AS884" polarity="neutral">
+    <text>the breakfast is served on time, and the security system is up-to-date</text>
+    <aspects>
+        <aspectTerm term="breakfast" position="2" RelTerm="served on time" category="service" polarity="neutral"/>
+        <aspectTerm term="security system" position="6" RelTerm="up-to-date" category="service" polarity="neutral"/>
+    </aspects>
+</sentence>
+
+<sentence id="AS885" polarity="neutral">
+    <text>the mobile app provides easy navigation, and the fitness center is well-organized</text>
+    <aspects>
+        <aspectTerm term="mobile app" position="2" RelTerm="easy navigation" category="service" polarity="neutral"/>
+        <aspectTerm term="fitness center" position="6" RelTerm="well-organized" category="facility" polarity="neutral"/>
+    </aspects>
+</sentence>
+
+<sentence id="AS886" polarity="neutral">
+    <text>the payment procedures are straightforward, and the pool cleanliness is acceptable</text>
+    <aspects>
+        <aspectTerm term="payment procedures" position="2" RelTerm="straightforward" category="service" polarity="neutral"/>
+        <aspectTerm term="pool cleanliness" position="6" RelTerm="acceptable" category="facility" polarity="neutral"/>
+    </aspects>
+</sentence>
+
+<sentence id="AS887" polarity="neutral">
+    <text>the guest management system is efficient, and the Wi-Fi connection is reliable</text>
+    <aspects>
+        <aspectTerm term="guest management system" position="2" RelTerm="efficient" category="service" polarity="neutral"/>
+        <aspectTerm term="Wi-Fi connection" position="6" RelTerm="reliable" category="facility" polarity="neutral"/>
+    </aspects>
+</sentence>
+
+<sentence id="AS888" polarity="neutral">
+    <text>the fitness center hours are convenient, and the reservation management is effective</text>
+    <aspects>
+        <aspectTerm term="fitness center hours" position="2" RelTerm="convenient" category="facility" polarity="neutral"/>
+        <aspectTerm term="reservation management" position="6" RelTerm="effective" category="service" polarity="neutral"/>
+    </aspects>
+</sentence>
+
+<sentence id="AS889" polarity="neutral">
+    <text>the breakfast choices are varied, and the maintenance of amenities is routine</text>
+    <aspects>
+        <aspectTerm term="breakfast choices" position="2" RelTerm="varied" category="service" polarity="neutral"/>
+        <aspectTerm term="maintenance of amenities" position="6" RelTerm="routine" category="service" polarity="neutral"/>
+    </aspects>
+</sentence>
+
+<sentence id="AS890" polarity="neutral">
+    <text>the security management is thorough, and the mobile app is consistently functional</text>
+    <aspects>
+        <aspectTerm term="security management" position="2" RelTerm="thorough" category="service" polarity="neutral"/>
+        <aspectTerm term="mobile app" position="6" RelTerm="consistently functional" category="service" polarity="neutral"/>
+    </aspects>
+</sentence>
+
+<sentence id="AS891" polarity="neutral">
+    <text>the guest rooms are well-equipped, and the pool area maintenance is reliable</text>
+    <aspects>
+        <aspectTerm term="guest rooms" position="2" RelTerm="well-equipped" category="facility" polarity="neutral"/>
+        <aspectTerm term="pool area maintenance" position="6" RelTerm="reliable" category="service" polarity="neutral"/>
+    </aspects>
+</sentence>
+
+<sentence id="AS892" polarity="neutral">
+    <text>the breakfast options are sufficient, and the guest management system is functional</text>
+    <aspects>
+        <aspectTerm term="breakfast options" position="2" RelTerm="sufficient" category="service" polarity="neutral"/>
+        <aspectTerm term="guest management system" position="6" RelTerm="functional" category="service" polarity="neutral"/>
+    </aspects>
+</sentence>
+
+<sentence id="AS893" polarity="neutral">
+    <text>the Wi-Fi speed is adequate, and the security system is reliable</text>
+    <aspects>
+        <aspectTerm term="Wi-Fi speed" position="2" RelTerm="adequate" category="facility" polarity="neutral"/>
+        <aspectTerm term="security system" position="6" RelTerm="reliable" category="service" polarity="neutral"/>
+    </aspects>
+</sentence>
+
+<sentence id="AS894" polarity="neutral">
+    <text>the mobile app features are basic, and the fitness center is clean</text>
+    <aspects>
+        <aspectTerm term="mobile app features" position="2" RelTerm="basic" category="service" polarity="neutral"/>
+        <aspectTerm term="fitness center" position="6" RelTerm="clean" category="facility" polarity="neutral"/>
+    </aspects>
+</sentence>
+
+<sentence id="AS895" polarity="neutral">
+    <text>the pool is well-kept, and the reservation management is straightforward</text>
+    <aspects>
+        <aspectTerm term="pool" position="2" RelTerm="well-kept" category="facility" polarity="neutral"/>
+        <aspectTerm term="reservation management" position="6" RelTerm="straightforward" category="service" polarity="neutral"/>
+    </aspects>
+</sentence>
+
+<sentence id="AS896" polarity="neutral">
+    <text>the payment process is efficient, and the guest management is satisfactory</text>
+    <aspects>
+        <aspectTerm term="payment process" position="2" RelTerm="efficient" category="service" polarity="neutral"/>
+        <aspectTerm term="guest management" position="6" RelTerm="satisfactory" category="service" polarity="neutral"/>
+    </aspects>
+</sentence>
+
+<sentence id="AS897" polarity="neutral">
+    <text>the breakfast service is punctual, and the mobile app performance is stable</text>
+    <aspects>
+        <aspectTerm term="breakfast service" position="2" RelTerm="punctual" category="service" polarity="neutral"/>
+        <aspectTerm term="mobile app performance" position="6" RelTerm="stable" category="service" polarity="neutral"/>
+    </aspects>
+</sentence>
+
+<sentence id="AS898" polarity="neutral">
+    <text>the fitness center equipment is in good condition, and the reservation system is user-friendly</text>
+    <aspects>
+        <aspectTerm term="fitness center equipment" position="2" RelTerm="in good condition" category="facility" polarity="neutral"/>
+        <aspectTerm term="reservation system" position="6" RelTerm="user-friendly" category="service" polarity="neutral"/>
+    </aspects>
+</sentence>
+
+<sentence id="AS899" polarity="neutral">
+    <text>the pool area is well-maintained, and the payment system is straightforward</text>
+    <aspects>
+        <aspectTerm term="pool area" position="2" RelTerm="well-maintained" category="facility" polarity="neutral"/>
+        <aspectTerm term="payment system" position="6" RelTerm="straightforward" category="service" polarity="neutral"/>
+    </aspects>
+</sentence>
+
+<sentence id="AS900" polarity="neutral">
+    <text>the mobile app is reliable, and the breakfast options are acceptable</text>
+    <aspects>
+        <aspectTerm term="mobile app" position="2" RelTerm="reliable" category="service" polarity="neutral"/>
+        <aspectTerm term="breakfast options" position="6" RelTerm="acceptable" category="service" polarity="neutral"/>
+    </aspects>
+</sentence>
+
+<sentence id="AS901" polarity="neutral">
+    <text>the fitness center is available throughout the day, and the guest management system is efficient</text>
+    <aspects>
+        <aspectTerm term="fitness center" position="2" RelTerm="available throughout the day" category="facility" polarity="neutral"/>
+        <aspectTerm term="guest management system" position="6" RelTerm="efficient" category="service" polarity="neutral"/>
+    </aspects>
+</sentence>
+
+<sentence id="AS902" polarity="neutral">
+    <text>the security features are functional, and the mobile app is straightforward to use</text>
+    <aspects>
+        <aspectTerm term="security features" position="2" RelTerm="functional" category="service" polarity="neutral"/>
+        <aspectTerm term="mobile app" position="6" RelTerm="straightforward to use" category="service" polarity="neutral"/>
+    </aspects>
+</sentence>
+
+<sentence id="AS903" polarity="neutral">
+    <text>the reservation process is smooth, and the pool area is well-kept</text>
+    <aspects>
+        <aspectTerm term="reservation process" position="2" RelTerm="smooth" category="service" polarity="neutral"/>
+        <aspectTerm term="pool area" position="6" RelTerm="well-kept" category="facility" polarity="neutral"/>
+    </aspects>
+</sentence>
+
+<sentence id="AS904" polarity="neutral">
+    <text>the payment system is user-friendly, and the fitness center is clean</text>
+    <aspects>
+        <aspectTerm term="payment system" position="2" RelTerm="user-friendly" category="service" polarity="neutral"/>
+        <aspectTerm term="fitness center" position="6" RelTerm="clean" category="facility" polarity="neutral"/>
+    </aspects>
+</sentence>
+
+<sentence id="AS905" polarity="neutral">
+    <text>the breakfast quality is standard, and the security management is adequate</text>
+    <aspects>
+        <aspectTerm term="breakfast quality" position="2" RelTerm="standard" category="service" polarity="neutral"/>
+        <aspectTerm term="security management" position="6" RelTerm="adequate" category="service" polarity="neutral"/>
+    </aspects>
+</sentence>
+
+<sentence id="AS906" polarity="neutral">
+    <text>the mobile app performance is acceptable, and the guest rooms are well-maintained</text>
+    <aspects>
+        <aspectTerm term="mobile app performance" position="2" RelTerm="acceptable" category="service" polarity="neutral"/>
+        <aspectTerm term="guest rooms" position="6" RelTerm="well-maintained" category="facility" polarity="neutral"/>
+    </aspects>
+</sentence>
+
+<sentence id="AS907" polarity="neutral">
+    <text>the pool is clean, and the reservation system is efficient</text>
+    <aspects>
+        <aspectTerm term="pool" position="2" RelTerm="clean" category="facility" polarity="neutral"/>
+        <aspectTerm term="reservation system" position="6" RelTerm="efficient" category="service" polarity="neutral"/>
+    </aspects>
+</sentence>
+
+<sentence id="AS908" polarity="neutral">
+    <text>the fitness center is equipped with basic amenities, and the payment system is reliable</text>
+    <aspects>
+        <aspectTerm term="fitness center" position="2" RelTerm="equipped with basic amenities" category="facility" polarity="neutral"/>
+        <aspectTerm term="payment system" position="6" RelTerm="reliable" category="service" polarity="neutral"/>
+    </aspects>
+</sentence>
+
+<sentence id="AS909" polarity="neutral">
+    <text>the guest management system is user-friendly, and the Wi-Fi connection is steady</text>
+    <aspects>
+        <aspectTerm term="guest management system" position="2" RelTerm="user-friendly" category="service" polarity="neutral"/>
+        <aspectTerm term="Wi-Fi connection" position="6" RelTerm="steady" category="facility" polarity="neutral"/>
+    </aspects>
+</sentence>
+
+<sentence id="AS910" polarity="neutral">
+    <text>the breakfast options are varied, and the security system is functional</text>
+    <aspects>
+        <aspectTerm term="breakfast options" position="2" RelTerm="varied" category="service" polarity="neutral"/>
+        <aspectTerm term="security system" position="6" RelTerm="functional" category="service" polarity="neutral"/>
+    </aspects>
+</sentence>
+
+<sentence id="AS911" polarity="neutral">
+    <text>the mobile app is responsive, and the pool maintenance is satisfactory</text>
+    <aspects>
+        <aspectTerm term="mobile app" position="2" RelTerm="responsive" category="service" polarity="neutral"/>
+        <aspectTerm term="pool maintenance" position="6" RelTerm="satisfactory" category="service" polarity="neutral"/>
+    </aspects>
+</sentence>
+
+<sentence id="AS912" polarity="neutral">
+    <text>the fitness center is spacious, and the reservation system is straightforward</text>
+    <aspects>
+        <aspectTerm term="fitness center" position="2" RelTerm="spacious" category="facility" polarity="neutral"/>
+        <aspectTerm term="reservation system" position="6" RelTerm="straightforward" category="service" polarity="neutral"/>
+    </aspects>
+</sentence>
+
+<sentence id="AS913" polarity="neutral">
+    <text>the guest rooms are well-appointed, and the breakfast service is punctual</text>
+    <aspects>
+        <aspectTerm term="guest rooms" position="2" RelTerm="well-appointed" category="facility" polarity="neutral"/>
+        <aspectTerm term="breakfast service" position="6" RelTerm="punctual" category="service" polarity="neutral"/>
+    </aspects>
+</sentence>
+
+<sentence id="AS914" polarity="neutral">
+    <text>the mobile app is easy to navigate, and the pool area is clean</text>
+    <aspects>
+        <aspectTerm term="mobile app" position="2" RelTerm="easy to navigate" category="service" polarity="neutral"/>
+        <aspectTerm term="pool area" position="6" RelTerm="clean" category="facility" polarity="neutral"/>
+    </aspects>
+</sentence>
+
+<sentence id="AS915" polarity="neutral">
+    <text>the payment process is simple, and the guest management system is effective</text>
+    <aspects>
+        <aspectTerm term="payment process" position="2" RelTerm="simple" category="service" polarity="neutral"/>
+        <aspectTerm term="guest management system" position="6" RelTerm="effective" category="service" polarity="neutral"/>
+    </aspects>
+</sentence>
+
+<sentence id="AS916" polarity="neutral">
+    <text>the fitness center has modern equipment, and the mobile app is functional</text>
+    <aspects>
+        <aspectTerm term="fitness center" position="2" RelTerm="modern equipment" category="facility" polarity="neutral"/>
+        <aspectTerm term="mobile app" position="6" RelTerm="functional" category="service" polarity="neutral"/>
+    </aspects>
+</sentence>
+
+<sentence id="AS917" polarity="neutral">
+    <text>the breakfast quality is acceptable, and the pool is well-maintained</text>
+    <aspects>
+        <aspectTerm term="breakfast quality" position="2" RelTerm="acceptable" category="service" polarity="neutral"/>
+        <aspectTerm term="pool" position="6" RelTerm="well-maintained" category="facility" polarity="neutral"/>
+    </aspects>
+</sentence>
+
+<sentence id="AS918" polarity="neutral">
+    <text>the guest management system is reliable, and the reservation process is efficient</text>
+    <aspects>
+        <aspectTerm term="guest management system" position="2" RelTerm="reliable" category="service" polarity="neutral"/>
+        <aspectTerm term="reservation process" position="6" RelTerm="efficient" category="service" polarity="neutral"/>
+    </aspects>
+</sentence>
+
+<sentence id="AS919" polarity="neutral">
+    <text>the pool area is well-maintained, and the breakfast service is timely</text>
+    <aspects>
+        <aspectTerm term="pool area" position="2" RelTerm="well-maintained" category="facility" polarity="neutral"/>
+        <aspectTerm term="breakfast service" position="6" RelTerm="timely" category="service" polarity="neutral"/>
+    </aspects>
+</sentence>
+
+<sentence id="AS920" polarity="neutral">
+    <text>the mobile app is updated regularly, and the guest rooms are comfortable</text>
+    <aspects>
+        <aspectTerm term="mobile app" position="2" RelTerm="updated regularly" category="service" polarity="neutral"/>
+        <aspectTerm term="guest rooms" position="6" RelTerm="comfortable" category="facility" polarity="neutral"/>
+    </aspects>
+</sentence>
+<sentence id="AS921" polarity="neutral">
+    <text>the reservation management is adequate, and the pool maintenance is consistent</text>
+    <aspects>
+        <aspectTerm term="reservation management" position="2" RelTerm="adequate" category="service" polarity="neutral"/>
+        <aspectTerm term="pool maintenance" position="6" RelTerm="consistent" category="service" polarity="neutral"/>
+    </aspects>
+</sentence>
+
+<sentence id="AS922" polarity="neutral">
+    <text>the guest management system is functional, and the fitness center has essential equipment</text>
+    <aspects>
+        <aspectTerm term="guest management system" position="2" RelTerm="functional" category="service" polarity="neutral"/>
+        <aspectTerm term="fitness center" position="6" RelTerm="essential equipment" category="facility" polarity="neutral"/>
+    </aspects>
+</sentence>
+
+<sentence id="AS923" polarity="neutral">
+    <text>the breakfast service is prompt, and the mobile app is easy to use</text>
+    <aspects>
+        <aspectTerm term="breakfast service" position="2" RelTerm="prompt" category="service" polarity="neutral"/>
+        <aspectTerm term="mobile app" position="6" RelTerm="easy to use" category="service" polarity="neutral"/>
+    </aspects>
+</sentence>
+
+<sentence id="AS924" polarity="neutral">
+    <text>the payment process is secure, and the guest rooms are clean</text>
+    <aspects>
+        <aspectTerm term="payment process" position="2" RelTerm="secure" category="service" polarity="neutral"/>
+        <aspectTerm term="guest rooms" position="6" RelTerm="clean" category="facility" polarity="neutral"/>
+    </aspects>
+</sentence>
+
+<sentence id="AS925" polarity="neutral">
+    <text>the pool area is well-maintained, and the security management is effective</text>
+    <aspects>
+        <aspectTerm term="pool area" position="2" RelTerm="well-maintained" category="facility" polarity="neutral"/>
+        <aspectTerm term="security management" position="6" RelTerm="effective" category="service" polarity="neutral"/>
+    </aspects>
+</sentence>
+
+<sentence id="AS926" polarity="neutral">
+    <text>the fitness center is accessible, and the reservation system is straightforward</text>
+    <aspects>
+        <aspectTerm term="fitness center" position="2" RelTerm="accessible" category="facility" polarity="neutral"/>
+        <aspectTerm term="reservation system" position="6" RelTerm="straightforward" category="service" polarity="neutral"/>
+    </aspects>
+</sentence>
+
+<sentence id="AS927" polarity="neutral">
+    <text>the mobile app features are sufficient, and the breakfast quality is standard</text>
+    <aspects>
+        <aspectTerm term="mobile app features" position="2" RelTerm="sufficient" category="service" polarity="neutral"/>
+        <aspectTerm term="breakfast quality" position="6" RelTerm="standard" category="service" polarity="neutral"/>
+    </aspects>
+</sentence>
+
+<sentence id="AS928" polarity="neutral">
+    <text>the security system is operational, and the guest management system is reliable</text>
+    <aspects>
+        <aspectTerm term="security system" position="2" RelTerm="operational" category="service" polarity="neutral"/>
+        <aspectTerm term="guest management system" position="6" RelTerm="reliable" category="service" polarity="neutral"/>
+    </aspects>
+</sentence>
+
+<sentence id="AS929" polarity="neutral">
+    <text>the pool is clean, and the mobile app functions as expected</text>
+    <aspects>
+        <aspectTerm term="pool" position="2" RelTerm="clean" category="facility" polarity="neutral"/>
+        <aspectTerm term="mobile app" position="6" RelTerm="functions as expected" category="service" polarity="neutral"/>
+    </aspects>
+</sentence>
+
+<sentence id="AS930" polarity="neutral">
+    <text>the reservation process is hassle-free, and the fitness center is well-equipped</text>
+    <aspects>
+        <aspectTerm term="reservation process" position="2" RelTerm="hassle-free" category="service" polarity="neutral"/>
+        <aspectTerm term="fitness center" position="6" RelTerm="well-equipped" category="facility" polarity="neutral"/>
+    </aspects>
+</sentence>
+
+<sentence id="AS931" polarity="neutral">
+    <text>the breakfast service is reliable, and the payment system is convenient</text>
+    <aspects>
+        <aspectTerm term="breakfast service" position="2" RelTerm="reliable" category="service" polarity="neutral"/>
+        <aspectTerm term="payment system" position="6" RelTerm="convenient" category="service" polarity="neutral"/>
+    </aspects>
+</sentence>
+
+<sentence id="AS932" polarity="neutral">
+    <text>the guest management system is adequate, and the pool area is well-kept</text>
+    <aspects>
+        <aspectTerm term="guest management system" position="2" RelTerm="adequate" category="service" polarity="neutral"/>
+        <aspectTerm term="pool area" position="6" RelTerm="well-kept" category="facility" polarity="neutral"/>
+    </aspects>
+</sentence>
+
+<sentence id="AS933" polarity="neutral">
+    <text>the fitness center is accessible, and the reservation management system is efficient</text>
+    <aspects>
+        <aspectTerm term="fitness center" position="2" RelTerm="accessible" category="facility" polarity="neutral"/>
+        <aspectTerm term="reservation management system" position="6" RelTerm="efficient" category="service" polarity="neutral"/>
+    </aspects>
+</sentence>
+
+<sentence id="AS934" polarity="neutral">
+    <text>the Wi-Fi connection is steady, and the breakfast options are varied</text>
+    <aspects>
+        <aspectTerm term="Wi-Fi connection" position="2" RelTerm="steady" category="facility" polarity="neutral"/>
+        <aspectTerm term="breakfast options" position="6" RelTerm="varied" category="service" polarity="neutral"/>
+    </aspects>
+</sentence>
+
+<sentence id="AS935" polarity="neutral">
+    <text>the security features are adequate, and the mobile app is updated regularly</text>
+    <aspects>
+        <aspectTerm term="security features" position="2" RelTerm="adequate" category="service" polarity="neutral"/>
+        <aspectTerm term="mobile app" position="6" RelTerm="updated regularly" category="service" polarity="neutral"/>
+    </aspects>
+</sentence>
+
+<sentence id="AS936" polarity="neutral">
+    <text>the guest rooms are comfortable, and the pool area is clean</text>
+    <aspects>
+        <aspectTerm term="guest rooms" position="2" RelTerm="comfortable" category="facility" polarity="neutral"/>
+        <aspectTerm term="pool area" position="6" RelTerm="clean" category="facility" polarity="neutral"/>
+    </aspects>
+</sentence>
+
+<sentence id="AS937" polarity="neutral">
+    <text>the breakfast quality is acceptable, and the security management is reliable</text>
+    <aspects>
+        <aspectTerm term="breakfast quality" position="2" RelTerm="acceptable" category="service" polarity="neutral"/>
+        <aspectTerm term="security management" position="6" RelTerm="reliable" category="service" polarity="neutral"/>
+    </aspects>
+</sentence>
+
+<sentence id="AS938" polarity="neutral">
+    <text>the reservation system is user-friendly, and the fitness center is well-maintained</text>
+    <aspects>
+        <aspectTerm term="reservation system" position="2" RelTerm="user-friendly" category="service" polarity="neutral"/>
+        <aspectTerm term="fitness center" position="6" RelTerm="well-maintained" category="facility" polarity="neutral"/>
+    </aspects>
+</sentence>
+
+<sentence id="AS939" polarity="neutral">
+    <text>the guest management system is effective, and the mobile app is functional</text>
+    <aspects>
+        <aspectTerm term="guest management system" position="2" RelTerm="effective" category="service" polarity="neutral"/>
+        <aspectTerm term="mobile app" position="6" RelTerm="functional" category="service" polarity="neutral"/>
+    </aspects>
+</sentence>
+
+<sentence id="AS940" polarity="neutral">
+    <text>the pool is regularly cleaned, and the breakfast service is on time</text>
+    <aspects>
+        <aspectTerm term="pool" position="2" RelTerm="regularly cleaned" category="facility" polarity="neutral"/>
+        <aspectTerm term="breakfast service" position="6" RelTerm="on time" category="service" polarity="neutral"/>
+    </aspects>
+</sentence>
+
+<sentence id="AS941" polarity="neutral">
+    <text>the mobile app provides adequate features, and the reservation process is smooth</text>
+    <aspects>
+        <aspectTerm term="mobile app features" position="2" RelTerm="adequate" category="service" polarity="neutral"/>
+        <aspectTerm term="reservation process" position="6" RelTerm="smooth" category="service" polarity="neutral"/>
+    </aspects>
+</sentence>
+
+<sentence id="AS942" polarity="neutral">
+    <text>the fitness center has essential equipment, and the guest management system is functional</text>
+    <aspects>
+        <aspectTerm term="fitness center" position="2" RelTerm="essential equipment" category="facility" polarity="neutral"/>
+        <aspectTerm term="guest management system" position="6" RelTerm="functional" category="service" polarity="neutral"/>
+    </aspects>
+</sentence>
+
+<sentence id="AS943" polarity="neutral">
+    <text>the payment system is straightforward, and the breakfast options are satisfactory</text>
+    <aspects>
+        <aspectTerm term="payment system" position="2" RelTerm="straightforward" category="service" polarity="neutral"/>
+        <aspectTerm term="breakfast options" position="6" RelTerm="satisfactory" category="service" polarity="neutral"/>
+    </aspects>
+</sentence>
+
+<sentence id="AS944" polarity="neutral">
+    <text>the security system is functional, and the pool area is well-maintained</text>
+    <aspects>
+        <aspectTerm term="security system" position="2" RelTerm="functional" category="service" polarity="neutral"/>
+        <aspectTerm term="pool area" position="6" RelTerm="well-maintained" category="facility" polarity="neutral"/>
+    </aspects>
+</sentence>
+
+<sentence id="AS945" polarity="neutral">
+    <text>the guest management system operates efficiently, and the fitness center is clean</text>
+    <aspects>
+        <aspectTerm term="guest management system" position="2" RelTerm="efficiently" category="service" polarity="neutral"/>
+        <aspectTerm term="fitness center" position="6" RelTerm="clean" category="facility" polarity="neutral"/>
+    </aspects>
+</sentence>
+
+<sentence id="AS946" polarity="neutral">
+    <text>the mobile app provides necessary features, and the breakfast service is timely</text>
+    <aspects>
+        <aspectTerm term="mobile app features" position="2" RelTerm="necessary" category="service" polarity="neutral"/>
+        <aspectTerm term="breakfast service" position="6" RelTerm="timely" category="service" polarity="neutral"/>
+    </aspects>
+</sentence>
+
+<sentence id="AS947" polarity="neutral">
+    <text>the payment process is uncomplicated, and the pool maintenance is regular</text>
+    <aspects>
+        <aspectTerm term="payment process" position="2" RelTerm="uncomplicated" category="service" polarity="neutral"/>
+        <aspectTerm term="pool maintenance" position="6" RelTerm="regular" category="service" polarity="neutral"/>
+    </aspects>
+</sentence>
+
+<sentence id="AS948" polarity="neutral">
+    <text>the fitness center is functional, and the guest management system is user-friendly</text>
+    <aspects>
+        <aspectTerm term="fitness center" position="2" RelTerm="functional" category="facility" polarity="neutral"/>
+        <aspectTerm term="guest management system" position="6" RelTerm="user-friendly" category="service" polarity="neutral"/>
+    </aspects>
+</sentence>
+
+<sentence id="AS949" polarity="neutral">
+    <text>the pool area is clean, and the mobile app is reliable</text>
+    <aspects>
+        <aspectTerm term="pool area" position="2" RelTerm="clean" category="facility" polarity="neutral"/>
+        <aspectTerm term="mobile app" position="6" RelTerm="reliable" category="service" polarity="neutral"/>
+    </aspects>
+</sentence>
+
+<sentence id="AS950" polarity="neutral">
+    <text>the reservation system is functional, and the fitness center is adequately equipped</text>
+    <aspects>
+        <aspectTerm term="reservation system" position="2" RelTerm="functional" category="service" polarity="neutral"/>
+        <aspectTerm term="fitness center" position="6" RelTerm="adequately equipped" category="facility" polarity="neutral"/>
+    </aspects>
+</sentence>
+
+<sentence id="AS951" polarity="neutral">
+    <text>the guest management system is reliable, and the breakfast options are diverse</text>
+    <aspects>
+        <aspectTerm term="guest management system" position="2" RelTerm="reliable" category="service" polarity="neutral"/>
+        <aspectTerm term="breakfast options" position="6" RelTerm="diverse" category="service" polarity="neutral"/>
+    </aspects>
+</sentence>
+
+<sentence id="AS952" polarity="neutral">
+    <text>the mobile app features are sufficient, and the pool area is well-maintained</text>
+    <aspects>
+        <aspectTerm term="mobile app features" position="2" RelTerm="sufficient" category="service" polarity="neutral"/>
+        <aspectTerm term="pool area" position="6" RelTerm="well-maintained" category="facility" polarity="neutral"/>
+    </aspects>
+</sentence>
+
+<sentence id="AS953" polarity="neutral">
+    <text>the breakfast service is acceptable, and the security management is efficient</text>
+    <aspects>
+        <aspectTerm term="breakfast service" position="2" RelTerm="acceptable" category="service" polarity="neutral"/>
+        <aspectTerm term="security management" position="6" RelTerm="efficient" category="service" polarity="neutral"/>
+    </aspects>
+</sentence>
+
+<sentence id="AS954" polarity="neutral">
+    <text>the fitness center is accessible, and the mobile app is well-designed</text>
+    <aspects>
+        <aspectTerm term="fitness center" position="2" RelTerm="accessible" category="facility" polarity="neutral"/>
+        <aspectTerm term="mobile app" position="6" RelTerm="well-designed" category="service" polarity="neutral"/>
+    </aspects>
+</sentence>
+
+<sentence id="AS955" polarity="neutral">
+    <text>the pool maintenance is satisfactory, and the reservation system is user-friendly</text>
+    <aspects>
+        <aspectTerm term="pool maintenance" position="2" RelTerm="satisfactory" category="service" polarity="neutral"/>
+        <aspectTerm term="reservation system" position="6" RelTerm="user-friendly" category="service" polarity="neutral"/>
+    </aspects>
+</sentence>
+
+<sentence id="AS956" polarity="neutral">
+    <text>the guest management system is effective, and the breakfast quality is adequate</text>
+    <aspects>
+        <aspectTerm term="guest management system" position="2" RelTerm="effective" category="service" polarity="neutral"/>
+        <aspectTerm term="breakfast quality" position="6" RelTerm="adequate" category="service" polarity="neutral"/>
+    </aspects>
+</sentence>
+
+<sentence id="AS957" polarity="neutral">
+    <text>the fitness center is well-equipped, and the mobile app is functional</text>
+    <aspects>
+        <aspectTerm term="fitness center" position="2" RelTerm="well-equipped" category="facility" polarity="neutral"/>
+        <aspectTerm term="mobile app" position="6" RelTerm="functional" category="service" polarity="neutral"/>
+    </aspects>
+</sentence>
+
+<sentence id="AS958" polarity="neutral">
+    <text>the breakfast service is timely, and the pool area is clean</text>
+    <aspects>
+        <aspectTerm term="breakfast service" position="2" RelTerm="timely" category="service" polarity="neutral"/>
+        <aspectTerm term="pool area" position="6" RelTerm="clean" category="facility" polarity="neutral"/>
+    </aspects>
+</sentence>
+
+<sentence id="AS959" polarity="neutral">
+    <text>the reservation system is functional, and the guest rooms are comfortable</text>
+    <aspects>
+        <aspectTerm term="reservation system" position="2" RelTerm="functional" category="service" polarity="neutral"/>
+        <aspectTerm term="guest rooms" position="6" RelTerm="comfortable" category="facility" polarity="neutral"/>
+    </aspects>
+</sentence>
+
+<sentence id="AS960" polarity="neutral">
+    <text>the security system is reliable, and the fitness center is well-maintained</text>
+    <aspects>
+        <aspectTerm term="security system" position="2" RelTerm="reliable" category="service" polarity="neutral"/>
+        <aspectTerm term="fitness center" position="6" RelTerm="well-maintained" category="facility" polarity="neutral"/>
+    </sects>
+</sentence>
+
+<sentence id="AS961" polarity="neutral">
+    <text>the mobile app is user-friendly, and the breakfast quality meets expectations</text>
+    <aspects>
+        <aspectTerm term="mobile app" position="2" RelTerm="user-friendly" category="service" polarity="neutral"/>
+        <aspectTerm term="breakfast quality" position="6" RelTerm="meets expectations" category="service" polarity="neutral"/>
+    </aspects>
+</sentence>
+
+<sentence id="AS962" polarity="neutral">
+    <text>the pool area is well-maintained, and the payment system is convenient</text>
+    <aspects>
+        <aspectTerm term="pool area" position="2" RelTerm="well-maintained" category="facility" polarity="neutral"/>
+        <aspectTerm term="payment system" position="6" RelTerm="convenient" category="service" polarity="neutral"/>
+    </aspects>
+</sentence>
+
+<sentence id="AS963" polarity="neutral">
+    <text>the reservation process is straightforward, and the fitness center is well-stocked</text>
+    <aspects>
+        <aspectTerm term="reservation process" position="2" RelTerm="straightforward" category="service" polarity="neutral"/>
+        <aspectTerm term="fitness center" position="6" RelTerm="well-stocked" category="facility" polarity="neutral"/>
+    </aspects>
+</sentence>
+
+<sentence id="AS964" polarity="neutral">
+    <text>the guest management system is dependable, and the pool area is clean</text>
+    <aspects>
+        <aspectTerm term="guest management system" position="2" RelTerm="dependable" category="service" polarity="neutral"/>
+        <aspectTerm term="pool area" position="6" RelTerm="clean" category="facility" polarity="neutral"/>
+    </aspects>
+</sentence>
+
+<sentence id="AS965" polarity="neutral">
+    <text>the breakfast options are acceptable, and the mobile app is functional</text>
+    <aspects>
+        <aspectTerm term="breakfast options" position="2" RelTerm="acceptable" category="service" polarity="neutral"/>
+        <aspectTerm term="mobile app" position="6" RelTerm="functional" category="service" polarity="neutral"/>
+    </aspects>
+</sentence>
+
+<sentence id="AS966" polarity="neutral">
+    <text>the payment system is reliable, and the guest management system is efficient</text>
+    <aspects>
+        <aspectTerm term="payment system" position="2" RelTerm="reliable" category="service" polarity="neutral"/>
+        <aspectTerm term="guest management system" position="6" RelTerm="efficient" category="service" polarity="neutral"/>
+    </aspects>
+</sentence>
+
+<sentence id="AS967" polarity="neutral">
+    <text>the mobile app features are adequate, and the breakfast service is on schedule</text>
+    <aspects>
+        <aspectTerm term="mobile app features" position="2" RelTerm="adequate" category="service" polarity="neutral"/>
+        <aspectTerm term="breakfast service" position="6" RelTerm="on schedule" category="service" polarity="neutral"/>
+    </aspects>
+</sentence>
+
+<sentence id="AS968" polarity="neutral">
+    <text>the pool area is well-kept, and the reservation system is operational</text>
+    <aspects>
+        <aspectTerm term="pool area" position="2" RelTerm="well-kept" category="facility" polarity="neutral"/>
+        <aspectTerm term="reservation system" position="6" RelTerm="operational" category="service" polarity="neutral"/>
+    </aspects>
+</sentence>
+
+<sentence id="AS969" polarity="neutral">
+    <text>the guest management system is reliable, and the breakfast options are varied</text>
+    <aspects>
+        <aspectTerm term="guest management system" position="2" RelTerm="reliable" category="service" polarity="neutral"/>
+        <aspectTerm term="breakfast options" position="6" RelTerm="varied" category="service" polarity="neutral"/>
+    </aspects>
+</sentence>
+
+<sentence id="AS970" polarity="neutral">
+    <text>the fitness center is functional, and the mobile app is user-friendly</text>
+    <aspects>
+        <aspectTerm term="fitness center" position="2" RelTerm="functional" category="facility" polarity="neutral"/>
+        <aspectTerm term="mobile app" position="6" RelTerm="user-friendly" category="service" polarity="neutral"/>
+    </aspects>
+</sentence>
+
+<sentence id="AS971" polarity="neutral">
+    <text>the reservation management system is effective, and the Wi-Fi connection is stable</text>
+    <aspects>
+        <aspectTerm term="reservation management system" position="2" RelTerm="effective" category="service" polarity="neutral"/>
+        <aspectTerm term="Wi-Fi connection" position="6" RelTerm="stable" category="facility" polarity="neutral"/>
+    </aspects>
+</sentence>

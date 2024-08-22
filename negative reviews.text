@@ -1,0 +1,2735 @@
+<sentence id="AS301" polarity="negative">
+    <text>poor breakfast quality, unreliable Wi-Fi, and dirty pool</text>
+    <aspects>
+        <aspectTerm term="breakfast" position="2" RelTerm="poor" category="meals" polarity="negative"/>
+        <aspectTerm term="Wi-Fi" position="4" RelTerm="unreliable" category="service" polarity="negative"/>
+        <aspectTerm term="pool" position="6" RelTerm="dirty" category="maintenance" polarity="negative"/>
+    </aspects>
+</sentence>
+<sentence id="AS302" polarity="negative">
+    <text>uncomfortable beds, slow reservation system, and unresponsive staff</text>
+    <aspects>
+        <aspectTerm term="beds" position="2" RelTerm="uncomfortable" category="room" polarity="negative"/>
+        <aspectTerm term="reservation system" position="4" RelTerm="slow" category="service" polarity="negative"/>
+        <aspectTerm term="staff" position="6" RelTerm="unresponsive" category="service" polarity="negative"/>
+    </aspects>
+</sentence>
+
+<sentence id="AS303" polarity="negative">
+    <text>disorganized breakfast service, noisy rooms, and inadequate security</text>
+    <aspects>
+        <aspectTerm term="breakfast service" position="2" RelTerm="disorganized" category="meals" polarity="negative"/>
+        <aspectTerm term="rooms" position="4" RelTerm="noisy" category="room" polarity="negative"/>
+        <aspectTerm term="security" position="6" RelTerm="inadequate" category="security" polarity="negative"/>
+    </aspects>
+</sentence>
+
+<sentence id="AS304" polarity="negative">
+    <text>dirty fitness center, broken mobile app, and overpriced room rent</text>
+    <aspects>
+        <aspectTerm term="fitness center" position="2" RelTerm="dirty" category="maintenance" polarity="negative"/>
+        <aspectTerm term="mobile app" position="4" RelTerm="broken" category="service" polarity="negative"/>
+        <aspectTerm term="room rent" position="6" RelTerm="overpriced" category="rent" polarity="negative"/>
+    </aspects>
+</sentence>
+
+<sentence id="AS305" polarity="negative">
+    <text>slow check-in process, uncomfortable beds, and unfriendly staff</text>
+    <aspects>
+        <aspectTerm term="check-in process" position="2" RelTerm="slow" category="service" polarity="negative"/>
+        <aspectTerm term="beds" position="4" RelTerm="uncomfortable" category="room" polarity="negative"/>
+        <aspectTerm term="staff" position="6" RelTerm="unfriendly" category="service" polarity="negative"/>
+    </aspects>
+</sentence>
+
+<sentence id="AS306" polarity="negative">
+    <text>messy breakfast area, poor mobile accessibility, and noisy hallways</text>
+    <aspects>
+        <aspectTerm term="breakfast area" position="2" RelTerm="messy" category="meals" polarity="negative"/>
+        <aspectTerm term="mobile accessibility" position="4" RelTerm="poor" category="service" polarity="negative"/>
+        <aspectTerm term="hallways" position="6" RelTerm="noisy" category="room" polarity="negative"/>
+    </aspects>
+</sentence>
+
+<sentence id="AS307" polarity="negative">
+    <text>unsecure payment system, broken fitness center equipment, and disorganized front desk</text>
+    <aspects>
+        <aspectTerm term="payment system" position="2" RelTerm="unsecure" category="payments" polarity="negative"/>
+        <aspectTerm term="fitness center equipment" position="4" RelTerm="broken" category="maintenance" polarity="negative"/>
+        <aspectTerm term="front desk" position="6" RelTerm="disorganized" category="service" polarity="negative"/>
+    </aspects>
+</sentence>
+
+<sentence id="AS308" polarity="negative">
+    <text>poor meal options, uncomfortable lounge chairs, and dirty rooms</text>
+    <aspects>
+        <aspectTerm term="meal options" position="2" RelTerm="poor" category="meals" polarity="negative"/>
+        <aspectTerm term="lounge chairs" position="4" RelTerm="uncomfortable" category="room" polarity="negative"/>
+        <aspectTerm term="rooms" position="6" RelTerm="dirty" category="room" polarity="negative"/>
+    </aspects>
+</sentence>
+
+<sentence id="AS309" polarity="negative">
+    <text>inefficient reservation system, broken Wi-Fi, and unclean pool</text>
+    <aspects>
+        <aspectTerm term="reservation system" position="2" RelTerm="inefficient" category="service" polarity="negative"/>
+        <aspectTerm term="Wi-Fi" position="4" RelTerm="broken" category="service" polarity="negative"/>
+        <aspectTerm term="pool" position="6" RelTerm="unclean" category="maintenance" polarity="negative"/>
+    </aspects>
+</sentence>
+
+<sentence id="AS310" polarity="negative">
+    <text>unfriendly staff, broken mobile app, and poor room cleanliness</text>
+    <aspects>
+        <aspectTerm term="staff" position="2" RelTerm="unfriendly" category="service" polarity="negative"/>
+        <aspectTerm term="mobile app" position="4" RelTerm="broken" category="service" polarity="negative"/>
+        <aspectTerm term="room cleanliness" position="6" RelTerm="poor" category="room" polarity="negative"/>
+    </aspects>
+</sentence>
+
+<sentence id="AS311" polarity="negative">
+    <text>slow mobile check-in, unresponsive maintenance team, and overpriced breakfast</text>
+    <aspects>
+        <aspectTerm term="mobile check-in" position="2" RelTerm="slow" category="service" polarity="negative"/>
+        <aspectTerm term="maintenance team" position="4" RelTerm="unresponsive" category="maintenance" polarity="negative"/>
+        <aspectTerm term="breakfast" position="6" RelTerm="overpriced" category="meals" polarity="negative"/>
+    </aspects>
+</sentence>
+
+<sentence id="AS312" polarity="negative">
+    <text>disappointing meal quality, uncomfortable beds, and noisy air conditioning</text>
+    <aspects>
+        <aspectTerm term="meal quality" position="2" RelTerm="disappointing" category="meals" polarity="negative"/>
+        <aspectTerm term="beds" position="4" RelTerm="uncomfortable" category="room" polarity="negative"/>
+        <aspectTerm term="air conditioning" position="6" RelTerm="noisy" category="room" polarity="negative"/>
+    </aspects>
+</sentence>
+
+<sentence id="AS313" polarity="negative">
+    <text>unreliable Wi-Fi, poor breakfast service, and uncomfortable seating in lobby</text>
+    <aspects>
+        <aspectTerm term="Wi-Fi" position="2" RelTerm="unreliable" category="service" polarity="negative"/>
+        <aspectTerm term="breakfast service" position="4" RelTerm="poor" category="meals" polarity="negative"/>
+        <aspectTerm term="seating in lobby" position="6" RelTerm="uncomfortable" category="room" polarity="negative"/>
+    </aspects>
+</sentence>
+
+<sentence id="AS314" polarity="negative">
+    <text>disorganized reservation management, broken gym equipment, and unclean pool</text>
+    <aspects>
+        <aspectTerm term="reservation management" position="2" RelTerm="disorganized" category="service" polarity="negative"/>
+        <aspectTerm term="gym equipment" position="4" RelTerm="broken" category="maintenance" polarity="negative"/>
+        <aspectTerm term="pool" position="6" RelTerm="unclean" category="maintenance" polarity="negative"/>
+    </aspects>
+</sentence>
+
+<sentence id="AS315" polarity="negative">
+    <text>insecure payment system, broken mobile app, and disorganized breakfast area</text>
+    <aspects>
+        <aspectTerm term="payment system" position="2" RelTerm="insecure" category="payments" polarity="negative"/>
+        <aspectTerm term="mobile app" position="4" RelTerm="broken" category="service" polarity="negative"/>
+        <aspectTerm term="breakfast area" position="6" RelTerm="disorganized" category="meals" polarity="negative"/>
+    </aspects>
+</sentence>
+
+<sentence id="AS316" polarity="negative">
+    <text>slow check-in, uncomfortable beds, and unclean fitness center</text>
+    <aspects>
+        <aspectTerm term="check-in" position="2" RelTerm="slow" category="service" polarity="negative"/>
+        <aspectTerm term="beds" position="4" RelTerm="uncomfortable" category="room" polarity="negative"/>
+        <aspectTerm term="fitness center" position="6" RelTerm="unclean" category="maintenance" polarity="negative"/>
+    </aspects>
+</sentence>
+
+<sentence id="AS317" polarity="negative">
+    <text>inefficient reservation system, dirty rooms, and noisy hallways</text>
+    <aspects>
+        <aspectTerm term="reservation system" position="2" RelTerm="inefficient" category="service" polarity="negative"/>
+        <aspectTerm term="rooms" position="4" RelTerm="dirty" category="room" polarity="negative"/>
+        <aspectTerm term="hallways" position="6" RelTerm="noisy" category="room" polarity="negative"/>
+    </aspects>
+</sentence>
+
+<sentence id="AS318" polarity="negative">
+    <text>unfriendly staff, broken Wi-Fi, and poor maintenance of facilities</text>
+    <aspects>
+        <aspectTerm term="staff" position="2" RelTerm="unfriendly" category="service" polarity="negative"/>
+        <aspectTerm term="Wi-Fi" position="4" RelTerm="broken" category="service" polarity="negative"/>
+        <aspectTerm term="facilities" position="6" RelTerm="poorly maintained" category="maintenance" polarity="negative"/>
+    </aspects>
+</sentence>
+
+<sentence id="AS319" polarity="negative">
+    <text>disorganized breakfast, broken air conditioning, and noisy neighbors</text>
+    <aspects>
+        <aspectTerm term="breakfast" position="2" RelTerm="disorganized" category="meals" polarity="negative"/>
+        <aspectTerm term="air conditioning" position="4" RelTerm="broken" category="room" polarity="negative"/>
+        <aspectTerm term="neighbors" position="6" RelTerm="noisy" category="room" polarity="negative"/>
+    </aspects>
+</sentence>
+
+<sentence id="AS320" polarity="negative">
+    <text>inefficient front desk service, uncomfortable beds, and broken gym equipment</text>
+    <aspects>
+        <aspectTerm term="front desk service" position="2" RelTerm="inefficient" category="service" polarity="negative"/>
+        <aspectTerm term="beds" position="4" RelTerm="uncomfortable" category="room" polarity="negative"/>
+        <aspectTerm term="gym equipment" position="6" RelTerm="broken" category="maintenance" polarity="negative"/>
+    </aspects>
+</sentence>
+
+<sentence id="AS321" polarity="negative">
+    <text>poor meal options, broken mobile app, and dirty pool area</text>
+    <aspects>
+        <aspectTerm term="meal options" position="2" RelTerm="poor" category="meals" polarity="negative"/>
+        <aspectTerm term="mobile app" position="4" RelTerm="broken" category="service" polarity="negative"/>
+        <aspectTerm term="pool area" position="6" RelTerm="dirty" category="maintenance" polarity="negative"/>
+    </aspects>
+</sentence>
+
+<sentence id="AS322" polarity="negative">
+    <text>slow reservation system, noisy air conditioning, and unclean rooms</text>
+    <aspects>
+        <aspectTerm term="reservation system" position="2" RelTerm="slow" category="service" polarity="negative"/>
+        <aspectTerm term="air conditioning" position="4" RelTerm="noisy" category="room" polarity="negative"/>
+        <aspectTerm term="rooms" position="6" RelTerm="unclean" category="room" polarity="negative"/>
+    </aspects>
+</sentence>
+
+<sentence id="AS323" polarity="negative">
+    <text>broken Wi-Fi, unhelpful staff, and uncomfortable beds</text>
+    <aspects>
+        <aspectTerm term="Wi-Fi" position="2" RelTerm="broken" category="service" polarity="negative"/>
+        <aspectTerm term="staff" position="4" RelTerm="unhelpful" category="service" polarity="negative"/>
+        <aspectTerm term="beds" position="6" RelTerm="uncomfortable" category="room" polarity="negative"/>
+    </aspects>
+</sentence>
+
+<sentence id="AS324" polarity="negative">
+    <text>disorganized breakfast service, broken gym equipment, and dirty fitness center</text>
+    <aspects>
+        <aspectTerm term="breakfast service" position="2" RelTerm="disorganized" category="meals" polarity="negative"/>
+        <aspectTerm term="gym equipment" position="4" RelTerm="broken" category="maintenance" polarity="negative"/>
+        <aspectTerm term="fitness center" position="6" RelTerm="dirty" category="maintenance" polarity="negative"/>
+    </aspects>
+</sentence>
+
+<sentence id="AS325" polarity="negative">
+    <text>unresponsive maintenance team, noisy neighbors, and poor breakfast options</text>
+    <aspects>
+        <aspectTerm term="maintenance team" position="2" RelTerm="unresponsive" category="maintenance" polarity="negative"/>
+        <aspectTerm term="neighbors" position="4" RelTerm="noisy" category="room" polarity="negative"/>
+        <aspectTerm term="breakfast options" position="6" RelTerm="poor" category="meals" polarity="negative"/>
+    </aspects>
+</sentence>
+
+<sentence id="AS326" polarity="negative">
+    <text>inefficient reservation process, uncomfortable lounge chairs, and broken air conditioning</text>
+    <aspects>
+        <aspectTerm term="reservation process" position="2" RelTerm="inefficient" category="service" polarity="negative"/>
+        <aspectTerm term="lounge chairs" position="4" RelTerm="uncomfortable" category="room" polarity="negative"/>
+        <aspectTerm term="air conditioning" position="6" RelTerm="broken" category="room" polarity="negative"/>
+    </aspects>
+</sentence>
+
+<sentence id="AS327" polarity="negative">
+    <text>dirty breakfast area, broken mobile app, and inefficient front desk</text>
+    <aspects>
+        <aspectTerm term="breakfast area" position="2" RelTerm="dirty" category="meals" polarity="negative"/>
+        <aspectTerm term="mobile app" position="4" RelTerm="broken" category="service" polarity="negative"/>
+        <aspectTerm term="front desk" position="6" RelTerm="inefficient" category="service" polarity="negative"/>
+    </aspects>
+</sentence>
+
+<sentence id="AS328" polarity="negative">
+    <text>uncomfortable room temperature, broken Wi-Fi, and noisy hallways</text>
+    <aspects>
+        <aspectTerm term="room temperature" position="2" RelTerm="uncomfortable" category="room" polarity="negative"/>
+        <aspectTerm term="Wi-Fi" position="4" RelTerm="broken" category="service" polarity="negative"/>
+        <aspectTerm term="hallways" position="6" RelTerm="noisy" category="room" polarity="negative"/>
+    </aspects>
+</sentence>
+
+<sentence id="AS329" polarity="negative">
+    <text>disorganized breakfast, slow check-in, and unclean rooms</text>
+    <aspects>
+        <aspectTerm term="breakfast" position="2" RelTerm="disorganized" category="meals" polarity="negative"/>
+        <aspectTerm term="check-in" position="4" RelTerm="slow" category="service" polarity="negative"/>
+        <aspectTerm term="rooms" position="6" RelTerm="unclean" category="room" polarity="negative"/>
+    </aspects>
+</sentence>
+
+<sentence id="AS330" polarity="negative">
+    <text>broken mobile app, unclean fitness center, and uncomfortable beds</text>
+    <aspects>
+        <aspectTerm term="mobile app" position="2" RelTerm="broken" category="service" polarity="negative"/>
+        <aspectTerm term="fitness center" position="4" RelTerm="unclean" category="maintenance" polarity="negative"/>
+        <aspectTerm term="beds" position="6" RelTerm="uncomfortable" category="room" polarity="negative"/>
+    </aspects>
+</sentence>
+
+<sentence id="AS331" polarity="negative">
+    <text>unfriendly staff, broken gym equipment, and noisy air conditioning</text>
+    <aspects>
+        <aspectTerm term="staff" position="2" RelTerm="unfriendly" category="service" polarity="negative"/>
+        <aspectTerm term="gym equipment" position="4" RelTerm="broken" category="maintenance" polarity="negative"/>
+        <aspectTerm term="air conditioning" position="6" RelTerm="noisy" category="room" polarity="negative"/>
+    </aspects>
+</sentence>
+
+<sentence id="AS332" polarity="negative">
+    <text>slow check-in, broken Wi-Fi, and dirty pool area</text>
+    <aspects>
+        <aspectTerm term="check-in" position="2" RelTerm="slow" category="service" polarity="negative"/>
+        <aspectTerm term="Wi-Fi" position="4" RelTerm="broken" category="service" polarity="negative"/>
+        <aspectTerm term="pool area" position="6" RelTerm="dirty" category="maintenance" polarity="negative"/>
+    </aspects>
+</sentence>
+
+<sentence id="AS333" polarity="negative">
+    <text>inefficient reservation system, uncomfortable lounge chairs, and poor breakfast</text>
+    <aspects>
+        <aspectTerm term="reservation system" position="2" RelTerm="inefficient" category="service" polarity="negative"/>
+        <aspectTerm term="lounge chairs" position="4" RelTerm="uncomfortable" category="room" polarity="negative"/>
+        <aspectTerm term="breakfast" position="6" RelTerm="poor" category="meals" polarity="negative"/>
+    </aspects>
+</sentence>
+
+<sentence id="AS334" polarity="negative">
+    <text>unresponsive staff, broken air conditioning, and unclean rooms</text>
+    <aspects>
+        <aspectTerm term="staff" position="2" RelTerm="unresponsive" category="service" polarity="negative"/>
+        <aspectTerm term="air conditioning" position="4" RelTerm="broken" category="room" polarity="negative"/>
+        <aspectTerm term="rooms" position="6" RelTerm="unclean" category="room" polarity="negative"/>
+    </aspects>
+</sentence>
+
+<sentence id="AS335" polarity="negative">
+    <text>poor meal options, uncomfortable lounge chairs, and broken fitness center</text>
+    <aspects>
+        <aspectTerm term="meal options" position="2" RelTerm="poor" category="meals" polarity="negative"/>
+        <aspectTerm term="lounge chairs" position="4" RelTerm="uncomfortable" category="room" polarity="negative"/>
+        <aspectTerm term="fitness center" position="6" RelTerm="broken" category="maintenance" polarity="negative"/>
+    </aspects>
+</sentence>
+
+<sentence id="AS336" polarity="negative">
+    <text>slow check-in, unclean pool, and broken Wi-Fi</text>
+    <aspects>
+        <aspectTerm term="check-in" position="2" RelTerm="slow" category="service" polarity="negative"/>
+        <aspectTerm term="pool" position="4" RelTerm="unclean" category="maintenance" polarity="negative"/>
+        <aspectTerm term="Wi-Fi" position="6" RelTerm="broken" category="service" polarity="negative"/>
+    </aspects>
+</sentence>
+
+<sentence id="AS337" polarity="negative">
+    <text>uncomfortable beds, inefficient reservation process, and dirty breakfast area</text>
+    <aspects>
+        <aspectTerm term="beds" position="2" RelTerm="uncomfortable" category="room" polarity="negative"/>
+        <aspectTerm term="reservation process" position="4" RelTerm="inefficient" category="service" polarity="negative"/>
+        <aspectTerm term="breakfast area" position="6" RelTerm="dirty" category="meals" polarity="negative"/>
+    </aspects>
+</sentence>
+
+<sentence id="AS338" polarity="negative">
+    <text>inefficient reservation management, broken fitness equipment, and uncomfortable lounge</text>
+    <aspects>
+        <aspectTerm term="reservation management" position="2" RelTerm="inefficient" category="service" polarity="negative"/>
+        <aspectTerm term="fitness equipment" position="4" RelTerm="broken" category="maintenance" polarity="negative"/>
+        <aspectTerm term="lounge" position="6" RelTerm="uncomfortable" category="room" polarity="negative"/>
+    </aspects>
+</sentence>
+
+<sentence id="AS339" polarity="negative">
+    <text>poor breakfast quality, unresponsive security, and dirty fitness center</text>
+    <aspects>
+        <aspectTerm term="breakfast quality" position="2" RelTerm="poor" category="meals" polarity="negative"/>
+        <aspectTerm term="security" position="4" RelTerm="unresponsive" category="service" polarity="negative"/>
+        <aspectTerm term="fitness center" position="6" RelTerm="dirty" category="maintenance" polarity="negative"/>
+    </aspects>
+</sentence>
+
+<sentence id="AS340" polarity="negative">
+    <text>slow mobile app, broken pool heater, and uncomfortable beds</text>
+    <aspects>
+        <aspectTerm term="mobile app" position="2" RelTerm="slow" category="service" polarity="negative"/>
+        <aspectTerm term="pool heater" position="4" RelTerm="broken" category="maintenance" polarity="negative"/>
+        <aspectTerm term="beds" position="6" RelTerm="uncomfortable" category="room" polarity="negative"/>
+    </aspects>
+</sentence>
+
+<sentence id="AS341" polarity="negative">
+    <text>inefficient guest management, dirty breakfast area, and broken air conditioning</text>
+    <aspects>
+        <aspectTerm term="guest management" position="2" RelTerm="inefficient" category="service" polarity="negative"/>
+        <aspectTerm term="breakfast area" position="4" RelTerm="dirty" category="meals" polarity="negative"/>
+        <aspectTerm term="air conditioning" position="6" RelTerm="broken" category="room" polarity="negative"/>
+    </aspects>
+</sentence>
+
+<sentence id="AS342" polarity="negative">
+    <text>noisy neighbors, broken reservation system, and unclean rooms</text>
+    <aspects>
+        <aspectTerm term="neighbors" position="2" RelTerm="noisy" category="room" polarity="negative"/>
+        <aspectTerm term="reservation system" position="4" RelTerm="broken" category="service" polarity="negative"/>
+        <aspectTerm term="rooms" position="6" RelTerm="unclean" category="room" polarity="negative"/>
+    </aspects>
+</sentence>
+
+<sentence id="AS343" polarity="negative">
+    <text>unfriendly staff, broken Wi-Fi, and unmaintained fitness center</text>
+    <aspects>
+        <aspectTerm term="staff" position="2" RelTerm="unfriendly" category="service" polarity="negative"/>
+        <aspectTerm term="Wi-Fi" position="4" RelTerm="broken" category="service" polarity="negative"/>
+        <aspectTerm term="fitness center" position="6" RelTerm="unmaintained" category="maintenance" polarity="negative"/>
+    </aspects>
+</sentence>
+
+<sentence id="AS344" polarity="negative">
+    <text>disorganized breakfast service, uncomfortable beds, and slow check-in process</text>
+    <aspects>
+        <aspectTerm term="breakfast service" position="2" RelTerm="disorganized" category="meals" polarity="negative"/>
+        <aspectTerm term="beds" position="4" RelTerm="uncomfortable" category="room" polarity="negative"/>
+        <aspectTerm term="check-in process" position="6" RelTerm="slow" category="service" polarity="negative"/>
+    </aspects>
+</sentence>
+
+<sentence id="AS345" polarity="negative">
+    <text>broken fitness equipment, dirty pool area, and unresponsive staff</text>
+    <aspects>
+        <aspectTerm term="fitness equipment" position="2" RelTerm="broken" category="maintenance" polarity="negative"/>
+        <aspectTerm term="pool area" position="4" RelTerm="dirty" category="maintenance" polarity="negative"/>
+        <aspectTerm term="staff" position="6" RelTerm="unresponsive" category="service" polarity="negative"/>
+    </aspects>
+</sentence>
+
+<sentence id="AS346" polarity="negative">
+    <text>poor meal options, broken mobile app, and uncomfortable lounge chairs</text>
+    <aspects>
+        <aspectTerm term="meal options" position="2" RelTerm="poor" category="meals" polarity="negative"/>
+        <aspectTerm term="mobile app" position="4" RelTerm="broken" category="service" polarity="negative"/>
+        <aspectTerm term="lounge chairs" position="6" RelTerm="uncomfortable" category="room" polarity="negative"/>
+    </aspects>
+</sentence>
+
+<sentence id="AS347" polarity="negative">
+    <text>dirty breakfast area, inefficient reservation system, and broken air conditioning</text>
+    <aspects>
+        <aspectTerm term="breakfast area" position="2" RelTerm="dirty" category="meals" polarity="negative"/>
+        <aspectTerm term="reservation system" position="4" RelTerm="inefficient" category="service" polarity="negative"/>
+        <aspectTerm term="air conditioning" position="6" RelTerm="broken" category="room" polarity="negative"/>
+    </aspects>
+</sentence>
+
+<sentence id="AS348" polarity="negative">
+    <text>uncomfortable beds, noisy air conditioning, and broken Wi-Fi</text>
+    <aspects>
+        <aspectTerm term="beds" position="2" RelTerm="uncomfortable" category="room" polarity="negative"/>
+        <aspectTerm term="air conditioning" position="4" RelTerm="noisy" category="room" polarity="negative"/>
+        <aspectTerm term="Wi-Fi" position="6" RelTerm="broken" category="service" polarity="negative"/>
+    </aspects>
+</sentence>
+
+<sentence id="AS349" polarity="negative">
+    <text>unresponsive front desk, dirty pool, and uncomfortable beds</text>
+    <aspects>
+        <aspectTerm term="front desk" position="2" RelTerm="unresponsive" category="service" polarity="negative"/>
+        <aspectTerm term="pool" position="4" RelTerm="dirty" category="maintenance" polarity="negative"/>
+        <aspectTerm term="beds" position="6" RelTerm="uncomfortable" category="room" polarity="negative"/>
+    </aspects>
+</sentence>
+
+<sentence id="AS350" polarity="negative">
+    <text>broken mobile app, disorganized breakfast, and noisy hallways</text>
+    <aspects>
+        <aspectTerm term="mobile app" position="2" RelTerm="broken" category="service" polarity="negative"/>
+        <aspectTerm term="breakfast" position="4" RelTerm="disorganized" category="meals" polarity="negative"/>
+        <aspectTerm term="hallways" position="6" RelTerm="noisy" category="room" polarity="negative"/>
+    </aspects>
+</sentence>
+
+<sentence id="AS351" polarity="negative">
+    <text>unfriendly staff, broken gym equipment, and inefficient reservation system</text>
+    <aspects>
+        <aspectTerm term="staff" position="2" RelTerm="unfriendly" category="service" polarity="negative"/>
+        <aspectTerm term="gym equipment" position="4" RelTerm="broken" category="maintenance" polarity="negative"/>
+        <aspectTerm term="reservation system" position="6" RelTerm="inefficient" category="service" polarity="negative"/>
+    </aspects>
+</sentence>
+
+<sentence id="AS352" polarity="negative">
+    <text>dirty breakfast area, noisy neighbors, and broken fitness center</text>
+    <aspects>
+        <aspectTerm term="breakfast area" position="2" RelTerm="dirty" category="meals" polarity="negative"/>
+        <aspectTerm term="neighbors" position="4" RelTerm="noisy" category="room" polarity="negative"/>
+        <aspectTerm term="fitness center" position="6" RelTerm="broken" category="maintenance" polarity="negative"/>
+    </aspects>
+</sentence>
+
+<sentence id="AS353" polarity="negative">
+    <text>unavailable pool, slow Wi-Fi, and broken security system</text>
+    <aspects>
+        <aspectTerm term="pool" position="2" RelTerm="unavailable" category="facility" polarity="negative"/>
+        <aspectTerm term="Wi-Fi" position="4" RelTerm="slow" category="service" polarity="negative"/>
+        <aspectTerm term="security system" position="6" RelTerm="broken" category="service" polarity="negative"/>
+    </aspects>
+</sentence>
+
+<sentence id="AS354" polarity="negative">
+    <text>dirty pool area, unresponsive security staff, and malfunctioning fitness center</text>
+    <aspects>
+        <aspectTerm term="pool area" position="2" RelTerm="dirty" category="maintenance" polarity="negative"/>
+        <aspectTerm term="security staff" position="4" RelTerm="unresponsive" category="service" polarity="negative"/>
+        <aspectTerm term="fitness center" position="6" RelTerm="malfunctioning" category="maintenance" polarity="negative"/>
+    </aspects>
+</sentence>
+
+<sentence id="AS355" polarity="negative">
+    <text>broken Wi-Fi, unclean pool, and outdated fitness center equipment</text>
+    <aspects>
+        <aspectTerm term="Wi-Fi" position="2" RelTerm="broken" category="service" polarity="negative"/>
+        <aspectTerm term="pool" position="4" RelTerm="unclean" category="maintenance" polarity="negative"/>
+        <aspectTerm term="fitness center equipment" position="6" RelTerm="outdated" category="maintenance" polarity="negative"/>
+    </aspects>
+</sentence>
+
+<sentence id="AS356" polarity="negative">
+    <text>inadequate pool security, unreliable Wi-Fi, and neglected fitness center</text>
+    <aspects>
+        <aspectTerm term="pool security" position="2" RelTerm="inadequate" category="service" polarity="negative"/>
+        <aspectTerm term="Wi-Fi" position="4" RelTerm="unreliable" category="service" polarity="negative"/>
+        <aspectTerm term="fitness center" position="6" RelTerm="neglected" category="maintenance" polarity="negative"/>
+    </aspects>
+</sentence>
+
+<sentence id="AS357" polarity="negative">
+    <text>poor Wi-Fi connectivity, dirty pool, and broken gym equipment</text>
+    <aspects>
+        <aspectTerm term="Wi-Fi connectivity" position="2" RelTerm="poor" category="service" polarity="negative"/>
+        <aspectTerm term="pool" position="4" RelTerm="dirty" category="maintenance" polarity="negative"/>
+        <aspectTerm term="gym equipment" position="6" RelTerm="broken" category="maintenance" polarity="negative"/>
+    </aspects>
+</sentence>
+
+<sentence id="AS358" polarity="negative">
+    <text>unattentive pool staff, malfunctioning security cameras, and low-quality fitness center</text>
+    <aspects>
+        <aspectTerm term="pool staff" position="2" RelTerm="unattentive" category="service" polarity="negative"/>
+        <aspectTerm term="security cameras" position="4" RelTerm="malfunctioning" category="service" polarity="negative"/>
+        <aspectTerm term="fitness center" position="6" RelTerm="low-quality" category="maintenance" polarity="negative"/>
+    </aspects>
+</sentence>
+
+<sentence id="AS359" polarity="negative">
+    <text>broken pool heater, slow Wi-Fi, and poorly maintained fitness center</text>
+    <aspects>
+        <aspectTerm term="pool heater" position="2" RelTerm="broken" category="maintenance" polarity="negative"/>
+        <aspectTerm term="Wi-Fi" position="4" RelTerm="slow" category="service" polarity="negative"/>
+        <aspectTerm term="fitness center" position="6" RelTerm="poorly maintained" category="maintenance" polarity="negative"/>
+    </aspects>
+</sentence>
+
+<sentence id="AS360" polarity="negative">
+    <text>broken Wi-Fi, unclean pool area, and malfunctioning security systems</text>
+    <aspects>
+        <aspectTerm term="Wi-Fi" position="2" RelTerm="broken" category="service" polarity="negative"/>
+        <aspectTerm term="pool area" position="4" RelTerm="unclean" category="maintenance" polarity="negative"/>
+        <aspectTerm term="security systems" position="6" RelTerm="malfunctioning" category="service" polarity="negative"/>
+    </aspects>
+</sentence>
+
+<sentence id="AS361" polarity="negative">
+    <text>unreliable pool heating, broken Wi-Fi, and outdated security measures</text>
+    <aspects>
+        <aspectTerm term="pool heating" position="2" RelTerm="unreliable" category="maintenance" polarity="negative"/>
+        <aspectTerm term="Wi-Fi" position="4" RelTerm="broken" category="service" polarity="negative"/>
+        <aspectTerm term="security measures" position="6" RelTerm="outdated" category="service" polarity="negative"/>
+    </aspects>
+</sentence>
+
+<sentence id="AS362" polarity="negative">
+    <text>dirty fitness center, broken pool area, and slow Wi-Fi</text>
+    <aspects>
+        <aspectTerm term="fitness center" position="2" RelTerm="dirty" category="maintenance" polarity="negative"/>
+        <aspectTerm term="pool area" position="4" RelTerm="broken" category="maintenance" polarity="negative"/>
+        <aspectTerm term="Wi-Fi" position="6" RelTerm="slow" category="service" polarity="negative"/>
+    </aspects>
+</sentence>
+
+<sentence id="AS363" polarity="negative">
+    <text>insecure pool area, malfunctioning fitness center, and broken Wi-Fi</text>
+    <aspects>
+        <aspectTerm term="pool area" position="2" RelTerm="insecure" category="service" polarity="negative"/>
+        <aspectTerm term="fitness center" position="4" RelTerm="malfunctioning" category="maintenance" polarity="negative"/>
+        <aspectTerm term="Wi-Fi" position="6" RelTerm="broken" category="service" polarity="negative"/>
+    </aspects>
+</sentence>
+
+<sentence id="AS364" polarity="negative">
+    <text>noisy security alarms, broken pool lights, and unreliable Wi-Fi</text>
+    <aspects>
+        <aspectTerm term="security alarms" position="2" RelTerm="noisy" category="service" polarity="negative"/>
+        <aspectTerm term="pool lights" position="4" RelTerm="broken" category="maintenance" polarity="negative"/>
+        <aspectTerm term="Wi-Fi" position="6" RelTerm="unreliable" category="service" polarity="negative"/>
+    </aspects>
+</sentence>
+
+<sentence id="AS365" polarity="negative">
+    <text>unfriendly security staff, unclean pool, and outdated Wi-Fi</text>
+    <aspects>
+        <aspectTerm term="security staff" position="2" RelTerm="unfriendly" category="service" polarity="negative"/>
+        <aspectTerm term="pool" position="4" RelTerm="unclean" category="maintenance" polarity="negative"/>
+        <aspectTerm term="Wi-Fi" position="6" RelTerm="outdated" category="service" polarity="negative"/>
+    </aspects>
+</sentence>
+
+<sentence id="AS366" polarity="negative">
+    <text>unmaintained fitness center, broken Wi-Fi, and poorly secured pool area</text>
+    <aspects>
+        <aspectTerm term="fitness center" position="2" RelTerm="unmaintained" category="maintenance" polarity="negative"/>
+        <aspectTerm term="Wi-Fi" position="4" RelTerm="broken" category="service" polarity="negative"/>
+        <aspectTerm term="pool area" position="6" RelTerm="poorly secured" category="service" polarity="negative"/>
+    </aspects>
+</sentence>
+
+<sentence id="AS367" polarity="negative">
+    <text>slow pool service, outdated fitness equipment, and broken Wi-Fi</text>
+    <aspects>
+        <aspectTerm term="pool service" position="2" RelTerm="slow" category="service" polarity="negative"/>
+        <aspectTerm term="fitness equipment" position="4" RelTerm="outdated" category="maintenance" polarity="negative"/>
+        <aspectTerm term="Wi-Fi" position="6" RelTerm="broken" category="service" polarity="negative"/>
+    </aspects>
+</sentence>
+
+<sentence id="AS368" polarity="negative">
+    <text>dirty pool area, broken fitness center equipment, and slow Wi-Fi</text>
+    <aspects>
+        <aspectTerm term="pool area" position="2" RelTerm="dirty" category="maintenance" polarity="negative"/>
+        <aspectTerm term="fitness center equipment" position="4" RelTerm="broken" category="maintenance" polarity="negative"/>
+        <aspectTerm term="Wi-Fi" position="6" RelTerm="slow" category="service" polarity="negative"/>
+    </aspects>
+</sentence>
+
+<sentence id="AS369" polarity="negative">
+    <text>ineffective security system, broken pool, and unreliable Wi-Fi</text>
+    <aspects>
+        <aspectTerm term="security system" position="2" RelTerm="ineffective" category="service" polarity="negative"/>
+        <aspectTerm term="pool" position="4" RelTerm="broken" category="maintenance" polarity="negative"/>
+        <aspectTerm term="Wi-Fi" position="6" RelTerm="unreliable" category="service" polarity="negative"/>
+    </aspects>
+</sentence>
+
+<sentence id="AS370" polarity="negative">
+    <text>unfriendly pool staff, broken Wi-Fi, and poorly maintained fitness center</text>
+    <aspects>
+        <aspectTerm term="pool staff" position="2" RelTerm="unfriendly" category="service" polarity="negative"/>
+        <aspectTerm term="Wi-Fi" position="4" RelTerm="broken" category="service" polarity="negative"/>
+        <aspectTerm term="fitness center" position="6" RelTerm="poorly maintained" category="maintenance" polarity="negative"/>
+    </aspects>
+</sentence>
+
+<sentence id="AS371" polarity="negative">
+    <text>poor Wi-Fi, neglected pool area, and outdated fitness center</text>
+    <aspects>
+        <aspectTerm term="Wi-Fi" position="2" RelTerm="poor" category="service" polarity="negative"/>
+        <aspectTerm term="pool area" position="4" RelTerm="neglected" category="maintenance" polarity="negative"/>
+        <aspectTerm term="fitness center" position="6" RelTerm="outdated" category="maintenance" polarity="negative"/>
+    </aspects>
+</sentence>
+
+<sentence id="AS372" polarity="negative">
+    <text>broken pool, malfunctioning security system, and slow Wi-Fi</text>
+    <aspects>
+        <aspectTerm term="pool" position="2" RelTerm="broken" category="maintenance" polarity="negative"/>
+        <aspectTerm term="security system" position="4" RelTerm="malfunctioning" category="service" polarity="negative"/>
+        <aspectTerm term="Wi-Fi" position="6" RelTerm="slow" category="service" polarity="negative"/>
+    </aspects>
+</sentence>
+
+<sentence id="AS373" polarity="negative">
+    <text>broken fitness center equipment, poor pool cleanliness, and unreliable Wi-Fi</text>
+    <aspects>
+        <aspectTerm term="fitness center equipment" position="2" RelTerm="broken" category="maintenance" polarity="negative"/>
+        <aspectTerm term="pool cleanliness" position="4" RelTerm="poor" category="maintenance" polarity="negative"/>
+        <aspectTerm term="Wi-Fi" position="6" RelTerm="unreliable" category="service" polarity="negative"/>
+    </aspects>
+</sentence>
+
+<sentence id="AS374" polarity="negative">
+    <text>poor Wi-Fi coverage, broken pool facilities, and inadequate fitness center equipment</text>
+    <aspects>
+        <aspectTerm term="Wi-Fi coverage" position="2" RelTerm="poor" category="service" polarity="negative"/>
+        <aspectTerm term="pool facilities" position="4" RelTerm="broken" category="maintenance" polarity="negative"/>
+        <aspectTerm term="fitness center equipment" position="6" RelTerm="inadequate" category="maintenance" polarity="negative"/>
+    </aspects>
+</sentence>
+
+<sentence id="AS375" polarity="negative">
+    <text>unhelpful security staff, dirty pool area, and malfunctioning fitness center</text>
+    <aspects>
+        <aspectTerm term="security staff" position="2" RelTerm="unhelpful" category="service" polarity="negative"/>
+        <aspectTerm term="pool area" position="4" RelTerm="dirty" category="maintenance" polarity="negative"/>
+        <aspectTerm term="fitness center" position="6" RelTerm="malfunctioning" category="maintenance" polarity="negative"/>
+    </aspects>
+</sentence>
+
+<sentence id="AS376" polarity="negative">
+    <text>broken Wi-Fi, neglected pool area, and outdated fitness center</text>
+    <aspects>
+        <aspectTerm term="Wi-Fi" position="2" RelTerm="broken" category="service" polarity="negative"/>
+        <aspectTerm term="pool area" position="4" RelTerm="neglected" category="maintenance" polarity="negative"/>
+        <aspectTerm term="fitness center" position="6" RelTerm="outdated" category="maintenance" polarity="negative"/>
+    </aspects>
+</sentence>
+
+<sentence id="AS377" polarity="negative">
+    <text>insecure pool area, broken Wi-Fi, and dirty fitness center</text>
+    <aspects>
+        <aspectTerm term="pool area" position="2" RelTerm="insecure" category="service" polarity="negative"/>
+        <aspectTerm term="Wi-Fi" position="4" RelTerm="broken" category="service" polarity="negative"/>
+        <aspectTerm term="fitness center" position="6" RelTerm="dirty" category="maintenance" polarity="negative"/>
+    </aspects>
+</sentence>
+
+<sentence id="AS378" polarity="negative">
+    <text>poorly maintained fitness center, broken pool area, and unreliable Wi-Fi</text>
+    <aspects>
+        <aspectTerm term="fitness center" position="2" RelTerm="poorly maintained" category="maintenance" polarity="negative"/>
+        <aspectTerm term="pool area" position="4" RelTerm="broken" category="maintenance" polarity="negative"/>
+        <aspectTerm term="Wi-Fi" position="6" RelTerm="unreliable" category="service" polarity="negative"/>
+    </aspects>
+</sentence>
+
+<sentence id="AS379" polarity="negative">
+    <text>unresponsive security team, malfunctioning pool, and slow Wi-Fi</text>
+    <aspects>
+        <aspectTerm term="security team" position="2" RelTerm="unresponsive" category="service" polarity="negative"/>
+        <aspectTerm term="pool" position="4" RelTerm="malfunctioning" category="maintenance" polarity="negative"/>
+        <aspectTerm term="Wi-Fi" position="6" RelTerm="slow" category="service" polarity="negative"/>
+    </aspects>
+</sentence>
+
+<sentence id="AS380" polarity="negative">
+    <text>dirty pool area, broken fitness center equipment, and unreliable Wi-Fi</text>
+    <aspects>
+        <aspectTerm term="pool area" position="2" RelTerm="dirty" category="maintenance" polarity="negative"/>
+        <aspectTerm term="fitness center equipment" position="4" RelTerm="broken" category="maintenance" polarity="negative"/>
+        <aspectTerm term="Wi-Fi" position="6" RelTerm="unreliable" category="service" polarity="negative"/>
+    </aspects>
+</sentence>
+
+<sentence id="AS381" polarity="negative">
+    <text>ineffective security measures, broken pool heater, and poor Wi-Fi signal</text>
+    <aspects>
+        <aspectTerm term="security measures" position="2" RelTerm="ineffective" category="service" polarity="negative"/>
+        <aspectTerm term="pool heater" position="4" RelTerm="broken" category="maintenance" polarity="negative"/>
+        <aspectTerm term="Wi-Fi signal" position="6" RelTerm="poor" category="service" polarity="negative"/>
+    </aspects>
+</sentence>
+
+<sentence id="AS382" polarity="negative">
+    <text>unmaintained fitness center, slow Wi-Fi, and broken pool facilities</text>
+    <aspects>
+        <aspectTerm term="fitness center" position="2" RelTerm="unmaintained" category="maintenance" polarity="negative"/>
+        <aspectTerm term="Wi-Fi" position="4" RelTerm="slow" category="service" polarity="negative"/>
+        <aspectTerm term="pool facilities" position="6" RelTerm="broken" category="maintenance" polarity="negative"/>
+    </aspects>
+</sentence>
+
+<sentence id="AS383" polarity="negative">
+    <text>dirty fitness center, broken Wi-Fi, and neglected pool</text>
+    <aspects>
+        <aspectTerm term="fitness center" position="2" RelTerm="dirty" category="maintenance" polarity="negative"/>
+        <aspectTerm term="Wi-Fi" position="4" RelTerm="broken" category="service" polarity="negative"/>
+        <aspectTerm term="pool" position="6" RelTerm="neglected" category="maintenance" polarity="negative"/>
+    </aspects>
+</sentence>
+
+<sentence id="AS384" polarity="negative">
+    <text>unresponsive security personnel, broken pool area, and poor fitness center</text>
+    <aspects>
+        <aspectTerm term="security personnel" position="2" RelTerm="unresponsive" category="service" polarity="negative"/>
+        <aspectTerm term="pool area" position="4" RelTerm="broken" category="maintenance" polarity="negative"/>
+        <aspectTerm term="fitness center" position="6" RelTerm="poor" category="maintenance" polarity="negative"/>
+    </aspects>
+</sentence>
+
+<sentence id="AS385" polarity="negative">
+    <text>broken Wi-Fi, dirty pool, and outdated fitness center equipment</text>
+    <aspects>
+        <aspectTerm term="Wi-Fi" position="2" RelTerm="broken" category="service" polarity="negative"/>
+        <aspectTerm term="pool" position="4" RelTerm="dirty" category="maintenance" polarity="negative"/>
+        <aspectTerm term="fitness center equipment" position="6" RelTerm="outdated" category="maintenance" polarity="negative"/>
+    </aspects>
+</sentence>
+
+<sentence id="AS386" polarity="negative">
+    <text>poor pool maintenance, ineffective security, and broken Wi-Fi</text>
+    <aspects>
+        <aspectTerm term="pool maintenance" position="2" RelTerm="poor" category="maintenance" polarity="negative"/>
+        <aspectTerm term="security" position="4" RelTerm="ineffective" category="service" polarity="negative"/>
+        <aspectTerm term="Wi-Fi" position="6" RelTerm="broken" category="service" polarity="negative"/>
+    </aspects>
+</sentence>
+
+<sentence id="AS387" polarity="negative">
+    <text>dirty fitness center, broken pool area, and malfunctioning Wi-Fi</text>
+    <aspects>
+        <aspectTerm term="fitness center" position="2" RelTerm="dirty" category="maintenance" polarity="negative"/>
+        <aspectTerm term="pool area" position="4" RelTerm="broken" category="maintenance" polarity="negative"/>
+        <aspectTerm term="Wi-Fi" position="6" RelTerm="malfunctioning" category="service" polarity="negative"/>
+    </aspects>
+</sentence>
+
+<sentence id="AS388" polarity="negative">
+    <text>unreliable Wi-Fi, dirty pool, and broken fitness center equipment</text>
+    <aspects>
+        <aspectTerm term="Wi-Fi" position="2" RelTerm="unreliable" category="service" polarity="negative"/>
+        <aspectTerm term="pool" position="4" RelTerm="dirty" category="maintenance" polarity="negative"/>
+        <aspectTerm term="fitness center equipment" position="6" RelTerm="broken" category="maintenance" polarity="negative"/>
+    </aspects>
+</sentence>
+
+<sentence id="AS389" polarity="negative">
+    <text>ineffective security, broken fitness center, and poor Wi-Fi</text>
+    <aspects>
+        <aspectTerm term="security" position="2" RelTerm="ineffective" category="service" polarity="negative"/>
+        <aspectTerm term="fitness center" position="4" RelTerm="broken" category="maintenance" polarity="negative"/>
+        <aspectTerm term="Wi-Fi" position="6" RelTerm="poor" category="service" polarity="negative"/>
+    </aspects>
+</sentence>
+
+<sentence id="AS390" polarity="negative">
+    <text>unreliable pool area, broken Wi-Fi, and poorly maintained fitness center</text>
+    <aspects>
+        <aspectTerm term="pool area" position="2" RelTerm="unreliable" category="service" polarity="negative"/>
+        <aspectTerm term="Wi-Fi" position="4" RelTerm="broken" category="service" polarity="negative"/>
+        <aspectTerm term="fitness center" position="6" RelTerm="poorly maintained" category="maintenance" polarity="negative"/>
+    </aspects>
+</sentence>
+
+<sentence id="AS391" polarity="negative">
+    <text>dirty pool area, outdated fitness center, and unreliable Wi-Fi</text>
+    <aspects>
+        <aspectTerm term="pool area" position="2" RelTerm="dirty" category="maintenance" polarity="negative"/>
+        <aspectTerm term="fitness center" position="4" RelTerm="outdated" category="maintenance" polarity="negative"/>
+        <aspectTerm term="Wi-Fi" position="6" RelTerm="unreliable" category="service" polarity="negative"/>
+    </aspects>
+</sentence>
+
+<sentence id="AS392" polarity="negative">
+    <text>broken pool equipment, slow Wi-Fi, and unclean fitness center</text>
+    <aspects>
+        <aspectTerm term="pool equipment" position="2" RelTerm="broken" category="maintenance" polarity="negative"/>
+        <aspectTerm term="Wi-Fi" position="4" RelTerm="slow" category="service" polarity="negative"/>
+        <aspectTerm term="fitness center" position="6" RelTerm="unclean" category="maintenance" polarity="negative"/>
+    </aspects>
+</sentence>
+
+<sentence id="AS393" polarity="negative">
+    <text>unresponsive pool staff, broken Wi-Fi, and neglected fitness center</text>
+    <aspects>
+        <aspectTerm term="pool staff" position="2" RelTerm="unresponsive" category="service" polarity="negative"/>
+        <aspectTerm term="Wi-Fi" position="4" RelTerm="broken" category="service" polarity="negative"/>
+        <aspectTerm term="fitness center" position="6" RelTerm="neglected" category="maintenance" polarity="negative"/>
+    </aspects>
+</sentence>
+
+<sentence id="AS394" polarity="negative">
+    <text>unhelpful security, broken pool, and outdated fitness center equipment</text>
+    <aspects>
+        <aspectTerm term="security" position="2" RelTerm="unhelpful" category="service" polarity="negative"/>
+        <aspectTerm term="pool" position="4" RelTerm="broken" category="maintenance" polarity="negative"/>
+        <aspectTerm term="fitness center equipment" position="6" RelTerm="outdated" category="maintenance" polarity="negative"/>
+    </aspects>
+</sentence>
+
+<sentence id="AS395" polarity="negative">
+    <text>poorly maintained fitness center, slow Wi-Fi, and dirty pool</text>
+    <aspects>
+        <aspectTerm term="fitness center" position="2" RelTerm="poorly maintained" category="maintenance" polarity="negative"/>
+        <aspectTerm term="Wi-Fi" position="4" RelTerm="slow" category="service" polarity="negative"/>
+        <aspectTerm term="pool" position="6" RelTerm="dirty" category="maintenance" polarity="negative"/>
+    </aspects>
+</sentence>
+
+<sentence id="AS396" polarity="negative">
+    <text>broken Wi-Fi, unclean fitness center, and neglected pool</text>
+    <aspects>
+        <aspectTerm term="Wi-Fi" position="2" RelTerm="broken" category="service" polarity="negative"/>
+        <aspectTerm term="fitness center" position="4" RelTerm="unclean" category="maintenance" polarity="negative"/>
+        <aspectTerm term="pool" position="6" RelTerm="neglected" category="maintenance" polarity="negative"/>
+    </aspects>
+</sentence>
+
+<sentence id="AS397" polarity="negative">
+    <text>ineffective security, broken pool facilities, and poor Wi-Fi</text>
+    <aspects>
+        <aspectTerm term="security" position="2" RelTerm="ineffective" category="service" polarity="negative"/>
+        <aspectTerm term="pool facilities" position="4" RelTerm="broken" category="maintenance" polarity="negative"/>
+        <aspectTerm term="Wi-Fi" position="6" RelTerm="poor" category="service" polarity="negative"/>
+    </aspects>
+</sentence>
+
+<sentence id="AS398" polarity="negative">
+    <text>unfriendly pool area, broken Wi-Fi, and poorly maintained fitness center</text>
+    <aspects>
+        <aspectTerm term="pool area" position="2" RelTerm="unfriendly" category="service" polarity="negative"/>
+        <aspectTerm term="Wi-Fi" position="4" RelTerm="broken" category="service" polarity="negative"/>
+        <aspectTerm term="fitness center" position="6" RelTerm="poorly maintained" category="maintenance" polarity="negative"/>
+    </aspects>
+</sentence>
+
+<sentence id="AS399" polarity="negative">
+    <text>broken fitness center equipment, dirty pool area, and unreliable Wi-Fi</text>
+    <aspects>
+        <aspectTerm term="fitness center equipment" position="2" RelTerm="broken" category="maintenance" polarity="negative"/>
+        <aspectTerm term="pool area" position="4" RelTerm="dirty" category="maintenance" polarity="negative"/>
+        <aspectTerm term="Wi-Fi" position="6" RelTerm="unreliable" category="service" polarity="negative"/>
+    </aspects>
+</sentence>
+
+<sentence id="AS400" polarity="negative">
+    <text>slow Wi-Fi, outdated fitness center equipment, and dirty pool</text>
+    <aspects>
+        <aspectTerm term="Wi-Fi" position="2" RelTerm="slow" category="service" polarity="negative"/>
+        <aspectTerm term="fitness center equipment" position="4" RelTerm="outdated" category="maintenance" polarity="negative"/>
+        <aspectTerm term="pool" position="6" RelTerm="dirty" category="maintenance" polarity="negative"/>
+    </aspects>
+</sentence>
+<sentence id="AS401" polarity="negative">
+    <text>unhelpful staff, malfunctioning Wi-Fi, and dirty pool</text>
+    <aspects>
+        <aspectTerm term="staff" position="2" RelTerm="unhelpful" category="service" polarity="negative"/>
+        <aspectTerm term="Wi-Fi" position="4" RelTerm="malfunctioning" category="service" polarity="negative"/>
+        <aspectTerm term="pool" position="6" RelTerm="dirty" category="maintenance" polarity="negative"/>
+    </aspects>
+</sentence>
+
+<sentence id="AS402" polarity="negative">
+    <text>unreliable Wi-Fi, neglected fitness center, and outdated pool area</text>
+    <aspects>
+        <aspectTerm term="Wi-Fi" position="2" RelTerm="unreliable" category="service" polarity="negative"/>
+        <aspectTerm term="fitness center" position="4" RelTerm="neglected" category="maintenance" polarity="negative"/>
+        <aspectTerm term="pool area" position="6" RelTerm="outdated" category="maintenance" polarity="negative"/>
+    </aspects>
+</sentence>
+
+<sentence id="AS403" polarity="negative">
+    <text>broken fitness center machines, poor Wi-Fi, and unclean pool</text>
+    <aspects>
+        <aspectTerm term="fitness center machines" position="2" RelTerm="broken" category="maintenance" polarity="negative"/>
+        <aspectTerm term="Wi-Fi" position="4" RelTerm="poor" category="service" polarity="negative"/>
+        <aspectTerm term="pool" position="6" RelTerm="unclean" category="maintenance" polarity="negative"/>
+    </aspects>
+</sentence>
+
+<sentence id="AS404" polarity="negative">
+    <text>slow Wi-Fi, broken security system, and dirty fitness center</text>
+    <aspects>
+        <aspectTerm term="Wi-Fi" position="2" RelTerm="slow" category="service" polarity="negative"/>
+        <aspectTerm term="security system" position="4" RelTerm="broken" category="service" polarity="negative"/>
+        <aspectTerm term="fitness center" position="6" RelTerm="dirty" category="maintenance" polarity="negative"/>
+    </aspects>
+</sentence>
+
+<sentence id="AS405" polarity="negative">
+    <text>unresponsive security, broken pool equipment, and outdated Wi-Fi</text>
+    <aspects>
+        <aspectTerm term="security" position="2" RelTerm="unresponsive" category="service" polarity="negative"/>
+        <aspectTerm term="pool equipment" position="4" RelTerm="broken" category="maintenance" polarity="negative"/>
+        <aspectTerm term="Wi-Fi" position="6" RelTerm="outdated" category="service" polarity="negative"/>
+    </aspects>
+</sentence>
+
+<sentence id="AS406" polarity="negative">
+    <text>dirty fitness center, ineffective security, and malfunctioning pool</text>
+    <aspects>
+        <aspectTerm term="fitness center" position="2" RelTerm="dirty" category="maintenance" polarity="negative"/>
+        <aspectTerm term="security" position="4" RelTerm="ineffective" category="service" polarity="negative"/>
+        <aspectTerm term="pool" position="6" RelTerm="malfunctioning" category="maintenance" polarity="negative"/>
+    </aspects>
+</sentence>
+
+<sentence id="AS407" polarity="negative">
+    <text>broken Wi-Fi, dirty pool, and outdated fitness center</text>
+    <aspects>
+        <aspectTerm term="Wi-Fi" position="2" RelTerm="broken" category="service" polarity="negative"/>
+        <aspectTerm term="pool" position="4" RelTerm="dirty" category="maintenance" polarity="negative"/>
+        <aspectTerm term="fitness center" position="6" RelTerm="outdated" category="maintenance" polarity="negative"/>
+    </aspects>
+</sentence>
+
+<sentence id="AS408" polarity="negative">
+    <text>unreliable pool area, dirty fitness center, and poor Wi-Fi</text>
+    <aspects>
+        <aspectTerm term="pool area" position="2" RelTerm="unreliable" category="service" polarity="negative"/>
+        <aspectTerm term="fitness center" position="4" RelTerm="dirty" category="maintenance" polarity="negative"/>
+        <aspectTerm term="Wi-Fi" position="6" RelTerm="poor" category="service" polarity="negative"/>
+    </aspects>
+</sentence>
+
+<sentence id="AS409" polarity="negative">
+    <text>ineffective security, broken fitness center, and unclean pool area</text>
+    <aspects>
+        <aspectTerm term="security" position="2" RelTerm="ineffective" category="service" polarity="negative"/>
+        <aspectTerm term="fitness center" position="4" RelTerm="broken" category="maintenance" polarity="negative"/>
+        <aspectTerm term="pool area" position="6" RelTerm="unclean" category="maintenance" polarity="negative"/>
+    </aspects>
+</sentence>
+
+<sentence id="AS410" polarity="negative">
+    <text>dirty pool, outdated fitness center equipment, and unreliable Wi-Fi</text>
+    <aspects>
+        <aspectTerm term="pool" position="2" RelTerm="dirty" category="maintenance" polarity="negative"/>
+        <aspectTerm term="fitness center equipment" position="4" RelTerm="outdated" category="maintenance" polarity="negative"/>
+        <aspectTerm term="Wi-Fi" position="6" RelTerm="unreliable" category="service" polarity="negative"/>
+    </aspects>
+</sentence>
+
+<sentence id="AS411" polarity="negative">
+    <text>unhelpful security personnel, broken Wi-Fi, and dirty fitness center</text>
+    <aspects>
+        <aspectTerm term="security personnel" position="2" RelTerm="unhelpful" category="service" polarity="negative"/>
+        <aspectTerm term="Wi-Fi" position="4" RelTerm="broken" category="service" polarity="negative"/>
+        <aspectTerm term="fitness center" position="6" RelTerm="dirty" category="maintenance" polarity="negative"/>
+    </aspects>
+</sentence>
+
+<sentence id="AS412" polarity="negative">
+    <text>unreliable Wi-Fi, dirty pool area, and neglected fitness center</text>
+    <aspects>
+        <aspectTerm term="Wi-Fi" position="2" RelTerm="unreliable" category="service" polarity="negative"/>
+        <aspectTerm term="pool area" position="4" RelTerm="dirty" category="maintenance" polarity="negative"/>
+        <aspectTerm term="fitness center" position="6" RelTerm="neglected" category="maintenance" polarity="negative"/>
+    </aspects>
+</sentence>
+
+<sentence id="AS413" polarity="negative">
+    <text>broken pool area, outdated fitness equipment, and slow Wi-Fi</text>
+    <aspects>
+        <aspectTerm term="pool area" position="2" RelTerm="broken" category="maintenance" polarity="negative"/>
+        <aspectTerm term="fitness equipment" position="4" RelTerm="outdated" category="maintenance" polarity="negative"/>
+        <aspectTerm term="Wi-Fi" position="6" RelTerm="slow" category="service" polarity="negative"/>
+    </aspects>
+</sentence>
+
+<sentence id="AS414" polarity="negative">
+    <text>dirty fitness center, broken Wi-Fi, and ineffective pool maintenance</text>
+    <aspects>
+        <aspectTerm term="fitness center" position="2" RelTerm="dirty" category="maintenance" polarity="negative"/>
+        <aspectTerm term="Wi-Fi" position="4" RelTerm="broken" category="service" polarity="negative"/>
+        <aspectTerm term="pool maintenance" position="6" RelTerm="ineffective" category="maintenance" polarity="negative"/>
+    </aspects>
+</sentence>
+
+<sentence id="AS415" polarity="negative">
+    <text>unreliable pool, broken fitness center equipment, and dirty Wi-Fi area</text>
+    <aspects>
+        <aspectTerm term="pool" position="2" RelTerm="unreliable" category="service" polarity="negative"/>
+        <aspectTerm term="fitness center equipment" position="4" RelTerm="broken" category="maintenance" polarity="negative"/>
+        <aspectTerm term="Wi-Fi area" position="6" RelTerm="dirty" category="service" polarity="negative"/>
+    </aspects>
+</sentence>
+
+<sentence id="AS416" polarity="negative">
+    <text>broken Wi-Fi, outdated pool facilities, and unclean fitness center</text>
+    <aspects>
+        <aspectTerm term="Wi-Fi" position="2" RelTerm="broken" category="service" polarity="negative"/>
+        <aspectTerm term="pool facilities" position="4" RelTerm="outdated" category="maintenance" polarity="negative"/>
+        <aspectTerm term="fitness center" position="6" RelTerm="unclean" category="maintenance" polarity="negative"/>
+    </aspects>
+</sentence>
+
+<sentence id="AS417" polarity="negative">
+    <text>unresponsive security, malfunctioning pool, and outdated fitness center</text>
+    <aspects>
+        <aspectTerm term="security" position="2" RelTerm="unresponsive" category="service" polarity="negative"/>
+        <aspectTerm term="pool" position="4" RelTerm="malfunctioning" category="maintenance" polarity="negative"/>
+        <aspectTerm term="fitness center" position="6" RelTerm="outdated" category="maintenance" polarity="negative"/>
+    </aspects>
+</sentence>
+
+<sentence id="AS418" polarity="negative">
+    <text>dirty Wi-Fi area, broken pool equipment, and ineffective fitness center</text>
+    <aspects>
+        <aspectTerm term="Wi-Fi area" position="2" RelTerm="dirty" category="service" polarity="negative"/>
+        <aspectTerm term="pool equipment" position="4" RelTerm="broken" category="maintenance" polarity="negative"/>
+        <aspectTerm term="fitness center" position="6" RelTerm="ineffective" category="maintenance" polarity="negative"/>
+    </aspects>
+</sentence>
+
+<sentence id="AS419" polarity="negative">
+    <text>unhelpful fitness center staff, outdated Wi-Fi, and dirty pool</text>
+    <aspects>
+        <aspectTerm term="fitness center staff" position="2" RelTerm="unhelpful" category="service" polarity="negative"/>
+        <aspectTerm term="Wi-Fi" position="4" RelTerm="outdated" category="service" polarity="negative"/>
+        <aspectTerm term="pool" position="6" RelTerm="dirty" category="maintenance" polarity="negative"/>
+    </aspects>
+</sentence>
+
+<sentence id="AS420" polarity="negative">
+    <text>malfunctioning pool, neglected Wi-Fi, and unclean fitness center</text>
+    <aspects>
+        <aspectTerm term="pool" position="2" RelTerm="malfunctioning" category="maintenance" polarity="negative"/>
+        <aspectTerm term="Wi-Fi" position="4" RelTerm="neglected" category="service" polarity="negative"/>
+        <aspectTerm term="fitness center" position="6" RelTerm="unclean" category="maintenance" polarity="negative"/>
+    </aspects>
+</sentence>
+<sentence id="AS421" polarity="negative">
+    <text>inefficient reservation system, poor guest management, and inadequate security management</text>
+    <aspects>
+        <aspectTerm term="reservation system" position="2" RelTerm="inefficient" category="service" polarity="negative"/>
+        <aspectTerm term="guest management" position="4" RelTerm="poor" category="service" polarity="negative"/>
+        <aspectTerm term="security management" position="6" RelTerm="inadequate" category="service" polarity="negative"/>
+    </aspects>
+</sentence>
+
+<sentence id="AS422" polarity="negative">
+    <text>broken reservation system, unresponsive guest management, and ineffective security management</text>
+    <aspects>
+        <aspectTerm term="reservation system" position="2" RelTerm="broken" category="service" polarity="negative"/>
+        <aspectTerm term="guest management" position="4" RelTerm="unresponsive" category="service" polarity="negative"/>
+        <aspectTerm term="security management" position="6" RelTerm="ineffective" category="service" polarity="negative"/>
+    </aspects>
+</sentence>
+
+<sentence id="AS423" polarity="negative">
+    <text>slow reservation process, poor customer experience, and inadequate guest management</text>
+    <aspects>
+        <aspectTerm term="reservation process" position="2" RelTerm="slow" category="service" polarity="negative"/>
+        <aspectTerm term="customer experience" position="4" RelTerm="poor" category="service" polarity="negative"/>
+        <aspectTerm term="guest management" position="6" RelTerm="inadequate" category="service" polarity="negative"/>
+    </aspects>
+</sentence>
+
+<sentence id="AS424" polarity="negative">
+    <text>unfriendly guest management, broken reservation system, and poor security management</text>
+    <aspects>
+        <aspectTerm term="guest management" position="2" RelTerm="unfriendly" category="service" polarity="negative"/>
+        <aspectTerm term="reservation system" position="4" RelTerm="broken" category="service" polarity="negative"/>
+        <aspectTerm term="security management" position="6" RelTerm="poor" category="service" polarity="negative"/>
+    </aspects>
+</sentence>
+
+<sentence id="AS425" polarity="negative">
+    <text>ineffective reservation system, unhelpful guest management, and inadequate security measures</text>
+    <aspects>
+        <aspectTerm term="reservation system" position="2" RelTerm="ineffective" category="service" polarity="negative"/>
+        <aspectTerm term="guest management" position="4" RelTerm="unhelpful" category="service" polarity="negative"/>
+        <aspectTerm term="security measures" position="6" RelTerm="inadequate" category="service" polarity="negative"/>
+    </aspects>
+</sentence>
+
+<sentence id="AS426" polarity="negative">
+    <text>poor reservation management, slow check-in process, and bad security</text>
+    <aspects>
+        <aspectTerm term="reservation management" position="2" RelTerm="poor" category="service" polarity="negative"/>
+        <aspectTerm term="check-in process" position="4" RelTerm="slow" category="service" polarity="negative"/>
+        <aspectTerm term="security" position="6" RelTerm="bad" category="service" polarity="negative"/>
+    </aspects>
+</sentence>
+
+<sentence id="AS427" polarity="negative">
+    <text>ineffective guest management, outdated reservation system, and insufficient security</text>
+    <aspects>
+        <aspectTerm term="guest management" position="2" RelTerm="ineffective" category="service" polarity="negative"/>
+        <aspectTerm term="reservation system" position="4" RelTerm="outdated" category="service" polarity="negative"/>
+        <aspectTerm term="security" position="6" RelTerm="insufficient" category="service" polarity="negative"/>
+    </aspects>
+</sentence>
+
+<sentence id="AS428" polarity="negative">
+    <text>poor reservation service, unorganized guest management, and ineffective security</text>
+    <aspects>
+        <aspectTerm term="reservation service" position="2" RelTerm="poor" category="service" polarity="negative"/>
+        <aspectTerm term="guest management" position="4" RelTerm="unorganized" category="service" polarity="negative"/>
+        <aspectTerm term="security" position="6" RelTerm="ineffective" category="service" polarity="negative"/>
+    </aspects>
+</sentence>
+
+<sentence id="AS429" polarity="negative">
+    <text>inefficient reservation process, poor guest experience, and inadequate security protocols</text>
+    <aspects>
+        <aspectTerm term="reservation process" position="2" RelTerm="inefficient" category="service" polarity="negative"/>
+        <aspectTerm term="guest experience" position="4" RelTerm="poor" category="service" polarity="negative"/>
+        <aspectTerm term="security protocols" position="6" RelTerm="inadequate" category="service" polarity="negative"/>
+    </aspects>
+</sentence>
+
+<sentence id="AS430" polarity="negative">
+    <text>ineffective guest management, slow reservation system, and poor security</text>
+    <aspects>
+        <aspectTerm term="guest management" position="2" RelTerm="ineffective" category="service" polarity="negative"/>
+        <aspectTerm term="reservation system" position="4" RelTerm="slow" category="service" polarity="negative"/>
+        <aspectTerm term="security" position="6" RelTerm="poor" category="service" polarity="negative"/>
+    </aspects>
+</sentence>
+
+<sentence id="AS431" polarity="negative">
+    <text>inefficient reservation handling, inadequate guest services, and poor security measures</text>
+    <aspects>
+        <aspectTerm term="reservation handling" position="2" RelTerm="inefficient" category="service" polarity="negative"/>
+        <aspectTerm term="guest services" position="4" RelTerm="inadequate" category="service" polarity="negative"/>
+        <aspectTerm term="security measures" position="6" RelTerm="poor" category="service" polarity="negative"/>
+    </aspects>
+</sentence>
+
+<sentence id="AS432" polarity="negative">
+    <text>unresponsive reservation system, unhelpful guest management, and ineffective security protocols</text>
+    <aspects>
+        <aspectTerm term="reservation system" position="2" RelTerm="unresponsive" category="service" polarity="negative"/>
+        <aspectTerm term="guest management" position="4" RelTerm="unhelpful" category="service" polarity="negative"/>
+        <aspectTerm term="security protocols" position="6" RelTerm="ineffective" category="service" polarity="negative"/>
+    </aspects>
+</sentence>
+
+<sentence id="AS433" polarity="negative">
+    <text>outdated reservation system, uncooperative guest management, and poor security</text>
+    <aspects>
+        <aspectTerm term="reservation system" position="2" RelTerm="outdated" category="service" polarity="negative"/>
+        <aspectTerm term="guest management" position="4" RelTerm="uncooperative" category="service" polarity="negative"/>
+        <aspectTerm term="security" position="6" RelTerm="poor" category="service" polarity="negative"/>
+    </aspects>
+</sentence>
+
+<sentence id="AS434" polarity="negative">
+    <text>disorganized reservation process, poor guest handling, and inadequate security</text>
+    <aspects>
+        <aspectTerm term="reservation process" position="2" RelTerm="disorganized" category="service" polarity="negative"/>
+        <aspectTerm term="guest handling" position="4" RelTerm="poor" category="service" polarity="negative"/>
+        <aspectTerm term="security" position="6" RelTerm="inadequate" category="service" polarity="negative"/>
+    </aspects>
+</sentence>
+
+<sentence id="AS435" polarity="negative">
+    <text>ineffective reservation system, slow guest management, and poor security measures</text>
+    <aspects>
+        <aspectTerm term="reservation system" position="2" RelTerm="ineffective" category="service" polarity="negative"/>
+        <aspectTerm term="guest management" position="4" RelTerm="slow" category="service" polarity="negative"/>
+        <aspectTerm term="security measures" position="6" RelTerm="poor" category="service" polarity="negative"/>
+    </aspects>
+</sentence>
+<sentence id="AS436" polarity="negative">
+    <text>slow reservation process, poor guest services, and insecure security measures</text>
+    <aspects>
+        <aspectTerm term="reservation process" position="2" RelTerm="slow" category="service" polarity="negative"/>
+        <aspectTerm term="guest services" position="4" RelTerm="poor" category="service" polarity="negative"/>
+        <aspectTerm term="security measures" position="6" RelTerm="insecure" category="service" polarity="negative"/>
+    </aspects>
+</sentence>
+
+<sentence id="AS437" polarity="negative">
+    <text>inefficient reservation handling, inadequate guest management, and insufficient security</text>
+    <aspects>
+        <aspectTerm term="reservation handling" position="2" RelTerm="inefficient" category="service" polarity="negative"/>
+        <aspectTerm term="guest management" position="4" RelTerm="inadequate" category="service" polarity="negative"/>
+        <aspectTerm term="security" position="6" RelTerm="insufficient" category="service" polarity="negative"/>
+    </aspects>
+</sentence>
+
+<sentence id="AS438" polarity="negative">
+    <text>unreliable reservation system, poor guest services, and outdated security</text>
+    <aspects>
+        <aspectTerm term="reservation system" position="2" RelTerm="unreliable" category="service" polarity="negative"/>
+        <aspectTerm term="guest services" position="4" RelTerm="poor" category="service" polarity="negative"/>
+        <aspectTerm term="security" position="6" RelTerm="outdated" category="service" polarity="negative"/>
+    </aspects>
+</sentence>
+
+<sentence id="AS439" polarity="negative">
+    <text>disorganized reservation, slow guest management, and weak security measures</text>
+    <aspects>
+        <aspectTerm term="reservation" position="2" RelTerm="disorganized" category="service" polarity="negative"/>
+        <aspectTerm term="guest management" position="4" RelTerm="slow" category="service" polarity="negative"/>
+        <aspectTerm term="security measures" position="6" RelTerm="weak" category="service" polarity="negative"/>
+    </aspects>
+</sentence>
+
+<sentence id="AS440" polarity="negative">
+    <text>confusing reservation system, unresponsive guest management, and lacking security</text>
+    <aspects>
+        <aspectTerm term="reservation system" position="2" RelTerm="confusing" category="service" polarity="negative"/>
+        <aspectTerm term="guest management" position="4" RelTerm="unresponsive" category="service" polarity="negative"/>
+        <aspectTerm term="security" position="6" RelTerm="lacking" category="service" polarity="negative"/>
+    </aspects>
+</sentence>
+
+<sentence id="AS441" polarity="negative">
+    <text>broken reservation system, ineffective guest management, and poor security protocols</text>
+    <aspects>
+        <aspectTerm term="reservation system" position="2" RelTerm="broken" category="service" polarity="negative"/>
+        <aspectTerm term="guest management" position="4" RelTerm="ineffective" category="service" polarity="negative"/>
+        <aspectTerm term="security protocols" position="6" RelTerm="poor" category="service" polarity="negative"/>
+    </aspects>
+</sentence>
+
+<sentence id="AS442" polarity="negative">
+    <text>inefficient reservation process, disorganized guest management, and outdated security system</text>
+    <aspects>
+        <aspectTerm term="reservation process" position="2" RelTerm="inefficient" category="service" polarity="negative"/>
+        <aspectTerm term="guest management" position="4" RelTerm="disorganized" category="service" polarity="negative"/>
+        <aspectTerm term="security system" position="6" RelTerm="outdated" category="service" polarity="negative"/>
+    </aspects>
+</sentence>
+
+<sentence id="AS443" polarity="negative">
+    <text>unreliable reservation handling, poor guest experience, and inadequate security</text>
+    <aspects>
+        <aspectTerm term="reservation handling" position="2" RelTerm="unreliable" category="service" polarity="negative"/>
+        <aspectTerm term="guest experience" position="4" RelTerm="poor" category="service" polarity="negative"/>
+        <aspectTerm term="security" position="6" RelTerm="inadequate" category="service" polarity="negative"/>
+    </aspects>
+</sentence>
+
+<sentence id="AS444" polarity="negative">
+    <text>ineffective reservation system, unprofessional guest management, and low security</text>
+    <aspects>
+        <aspectTerm term="reservation system" position="2" RelTerm="ineffective" category="service" polarity="negative"/>
+        <aspectTerm term="guest management" position="4" RelTerm="unprofessional" category="service" polarity="negative"/>
+        <aspectTerm term="security" position="6" RelTerm="low" category="service" polarity="negative"/>
+    </aspects>
+</sentence>
+
+<sentence id="AS445" polarity="negative">
+    <text>confusing reservation system, poor guest management, and inadequate security measures</text>
+    <aspects>
+        <aspectTerm term="reservation system" position="2" RelTerm="confusing" category="service" polarity="negative"/>
+        <aspectTerm term="guest management" position="4" RelTerm="poor" category="service" polarity="negative"/>
+        <aspectTerm term="security measures" position="6" RelTerm="inadequate" category="service" polarity="negative"/>
+    </aspects>
+</sentence>
+
+<sentence id="AS446" polarity="negative">
+    <text>broken reservation system, slow guest handling, and weak security management</text>
+    <aspects>
+        <aspectTerm term="reservation system" position="2" RelTerm="broken" category="service" polarity="negative"/>
+        <aspectTerm term="guest handling" position="4" RelTerm="slow" category="service" polarity="negative"/>
+        <aspectTerm term="security management" position="6" RelTerm="weak" category="service" polarity="negative"/>
+    </aspects>
+</sentence>
+
+<sentence id="AS447" polarity="negative">
+    <text>ineffective reservation management, unresponsive guest services, and poor security protocols</text>
+    <aspects>
+        <aspectTerm term="reservation management" position="2" RelTerm="ineffective" category="service" polarity="negative"/>
+        <aspectTerm term="guest services" position="4" RelTerm="unresponsive" category="service" polarity="negative"/>
+        <aspectTerm term="security protocols" position="6" RelTerm="poor" category="service" polarity="negative"/>
+    </aspects>
+</sentence>
+
+<sentence id="AS448" polarity="negative">
+    <text>outdated reservation system, ineffective guest management, and unsecure security</text>
+    <aspects>
+        <aspectTerm term="reservation system" position="2" RelTerm="outdated" category="service" polarity="negative"/>
+        <aspectTerm term="guest management" position="4" RelTerm="ineffective" category="service" polarity="negative"/>
+        <aspectTerm term="security" position="6" RelTerm="unsecure" category="service" polarity="negative"/>
+    </aspects>
+</sentence>
+
+<sentence id="AS449" polarity="negative">
+    <text>inefficient reservation handling, poor guest experience, and inadequate security measures</text>
+    <aspects>
+        <aspectTerm term="reservation handling" position="2" RelTerm="inefficient" category="service" polarity="negative"/>
+        <aspectTerm term="guest experience" position="4" RelTerm="poor" category="service" polarity="negative"/>
+        <aspectTerm term="security measures" position="6" RelTerm="inadequate" category="service" polarity="negative"/>
+    </aspects>
+</sentence>
+
+<sentence id="AS450" polarity="negative">
+    <text>confusing reservation process, ineffective guest services, and low security</text>
+    <aspects>
+        <aspectTerm term="reservation process" position="2" RelTerm="confusing" category="service" polarity="negative"/>
+        <aspectTerm term="guest services" position="4" RelTerm="ineffective" category="service" polarity="negative"/>
+        <aspectTerm term="security" position="6" RelTerm="low" category="service" polarity="negative"/>
+    </aspects>
+</sentence>
+
+<sentence id="AS451" polarity="negative">
+    <text>poor reservation management, unresponsive guest handling, and ineffective security management</text>
+    <aspects>
+        <aspectTerm term="reservation management" position="2" RelTerm="poor" category="service" polarity="negative"/>
+        <aspectTerm term="guest handling" position="4" RelTerm="unresponsive" category="service" polarity="negative"/>
+        <aspectTerm term="security management" position="6" RelTerm="ineffective" category="service" polarity="negative"/>
+    </aspects>
+</sentence>
+
+<sentence id="AS452" polarity="negative">
+    <text>unreliable reservation system, slow guest services, and inadequate security protocols</text>
+    <aspects>
+        <aspectTerm term="reservation system" position="2" RelTerm="unreliable" category="service" polarity="negative"/>
+        <aspectTerm term="guest services" position="4" RelTerm="slow" category="service" polarity="negative"/>
+        <aspectTerm term="security protocols" position="6" RelTerm="inadequate" category="service" polarity="negative"/>
+    </aspects>
+</sentence>
+
+<sentence id="AS453" polarity="negative">
+    <text>confusing reservation system, poor guest experience, and weak security</text>
+    <aspects>
+        <aspectTerm term="reservation system" position="2" RelTerm="confusing" category="service" polarity="negative"/>
+        <aspectTerm term="guest experience" position="4" RelTerm="poor" category="service" polarity="negative"/>
+        <aspectTerm term="security" position="6" RelTerm="weak" category="service" polarity="negative"/>
+    </aspects>
+</sentence>
+
+<sentence id="AS454" polarity="negative">
+    <text>outdated reservation system, disorganized guest management, and low security</text>
+    <aspects>
+        <aspectTerm term="reservation system" position="2" RelTerm="outdated" category="service" polarity="negative"/>
+        <aspectTerm term="guest management" position="4" RelTerm="disorganized" category="service" polarity="negative"/>
+        <aspectTerm term="security" position="6" RelTerm="low" category="service" polarity="negative"/>
+    </aspects>
+</sentence>
+
+<sentence id="AS455" polarity="negative">
+    <text>inefficient reservation handling, inadequate guest services, and poor security</text>
+    <aspects>
+        <aspectTerm term="reservation handling" position="2" RelTerm="inefficient" category="service" polarity="negative"/>
+        <aspectTerm term="guest services" position="4" RelTerm="inadequate" category="service" polarity="negative"/>
+        <aspectTerm term="security" position="6" RelTerm="poor" category="service" polarity="negative"/>
+    </aspects>
+</sentence>
+
+<sentence id="AS456" polarity="negative">
+    <text>unreliable reservation process, ineffective guest handling, and outdated security</text>
+    <aspects>
+        <aspectTerm term="reservation process" position="2" RelTerm="unreliable" category="service" polarity="negative"/>
+        <aspectTerm term="guest handling" position="4" RelTerm="ineffective" category="service" polarity="negative"/>
+        <aspectTerm term="security" position="6" RelTerm="outdated" category="service" polarity="negative"/>
+    </aspects>
+</sentence>
+
+<sentence id="AS457" polarity="negative">
+    <text>disorganized reservation system, slow guest services, and insecure security</text>
+    <aspects>
+        <aspectTerm term="reservation system" position="2" RelTerm="disorganized" category="service" polarity="negative"/>
+        <aspectTerm term="guest services" position="4" RelTerm="slow" category="service" polarity="negative"/>
+        <aspectTerm term="security" position="6" RelTerm="insecure" category="service" polarity="negative"/>
+    </aspects>
+</sentence>
+
+<sentence id="AS458" polarity="negative">
+    <text>inefficient reservation process, unprofessional guest management, and poor security</text>
+    <aspects>
+        <aspectTerm term="reservation process" position="2" RelTerm="inefficient" category="service" polarity="negative"/>
+        <aspectTerm term="guest management" position="4" RelTerm="unprofessional" category="service" polarity="negative"/>
+        <aspectTerm term="security" position="6" RelTerm="poor" category="service" polarity="negative"/>
+    </aspects>
+</sentence>
+
+<sentence id="AS459" polarity="negative">
+    <text>confusing reservation system, slow guest handling, and ineffective security</text>
+    <aspects>
+        <aspectTerm term="reservation system" position="2" RelTerm="confusing" category="service" polarity="negative"/>
+        <aspectTerm term="guest handling" position="4" RelTerm="slow" category="service" polarity="negative"/>
+        <aspectTerm term="security" position="6" RelTerm="ineffective" category="service" polarity="negative"/>
+    </aspects>
+</sentence>
+
+<sentence id="AS460" polarity="negative">
+    <text>poor reservation management, disorganized guest services, and weak security</text>
+    <aspects>
+        <aspectTerm term="reservation management" position="2" RelTerm="poor" category="service" polarity="negative"/>
+        <aspectTerm term="guest services" position="4" RelTerm="disorganized" category="service" polarity="negative"/>
+        <aspectTerm term="security" position="6" RelTerm="weak" category="service" polarity="negative"/>
+    </aspects>
+</sentence>
+
+<sentence id="AS461" polarity="negative">
+    <text>broken reservation system, unresponsive guest management, and inadequate security</text>
+    <aspects>
+        <aspectTerm term="reservation system" position="2" RelTerm="broken" category="service" polarity="negative"/>
+        <aspectTerm term="guest management" position="4" RelTerm="unresponsive" category="service" polarity="negative"/>
+        <aspectTerm term="security" position="6" RelTerm="inadequate" category="service" polarity="negative"/>
+    </aspects>
+</sentence>
+
+<sentence id="AS462" polarity="negative">
+    <text>unreliable reservation system, poor guest services, and ineffective security measures</text>
+    <aspects>
+        <aspectTerm term="reservation system" position="2" RelTerm="unreliable" category="service" polarity="negative"/>
+        <aspectTerm term="guest services" position="4" RelTerm="poor" category="service" polarity="negative"/>
+        <aspectTerm term="security measures" position="6" RelTerm="ineffective" category="service" polarity="negative"/>
+    </aspects>
+</sentence>
+
+<sentence id="AS463" polarity="negative">
+    <text>disorganized reservation system, slow guest handling, and outdated security</text>
+    <aspects>
+        <aspectTerm term="reservation system" position="2" RelTerm="disorganized" category="service" polarity="negative"/>
+        <aspectTerm term="guest handling" position="4" RelTerm="slow" category="service" polarity="negative"/>
+        <aspectTerm term="security" position="6" RelTerm="outdated" category="service" polarity="negative"/>
+
+<sentence id="AS464" polarity="negative">
+    <text>ineffective reservation management, poor guest services, and weak security</text>
+    <aspects>
+        <aspectTerm term="reservation management" position="2" RelTerm="ineffective" category="service" polarity="negative"/>
+        <aspectTerm term="guest services" position="4" RelTerm="poor" category="service" polarity="negative"/>
+        <aspectTerm term="security" position="6" RelTerm="weak" category="service" polarity="negative"/>
+    </aspects>
+</sentence>
+
+<sentence id="AS465" polarity="negative">
+    <text>inefficient reservation system, unresponsive guest management, and poor security</text>
+    <aspects>
+        <aspectTerm term="reservation system" position="2" RelTerm="inefficient" category="service" polarity="negative"/>
+        <aspectTerm term="guest management" position="4" RelTerm="unresponsive" category="service" polarity="negative"/>
+        <aspectTerm term="security" position="6" RelTerm="poor" category="service" polarity="negative"/>
+    </aspects>
+</sentence>
+
+<sentence id="AS466" polarity="negative">
+    <text>unreliable reservation system, ineffective guest services, and lacking security</text>
+    <aspects>
+        <aspectTerm term="reservation system" position="2" RelTerm="unreliable" category="service" polarity="negative"/>
+        <aspectTerm term="guest services" position="4" RelTerm="ineffective" category="service" polarity="negative"/>
+        <aspectTerm term="security" position="6" RelTerm="lacking" category="service" polarity="negative"/>
+    </aspects>
+</sentence>
+
+<sentence id="AS467" polarity="negative">
+    <text>inefficient reservation handling, poor guest management, and insecure security measures</text>
+    <aspects>
+        <aspectTerm term="reservation handling" position="2" RelTerm="inefficient" category="service" polarity="negative"/>
+        <aspectTerm term="guest management" position="4" RelTerm="poor" category="service" polarity="negative"/>
+        <aspectTerm term="security measures" position="6" RelTerm="insecure" category="service" polarity="negative"/>
+    </aspects>
+</sentence>
+
+<sentence id="AS468" polarity="negative">
+    <text>confusing reservation system, slow guest service, and low security standards</text>
+    <aspects>
+        <aspectTerm term="reservation system" position="2" RelTerm="confusing" category="service" polarity="negative"/>
+        <aspectTerm term="guest service" position="4" RelTerm="slow" category="service" polarity="negative"/>
+        <aspectTerm term="security standards" position="6" RelTerm="low" category="service" polarity="negative"/>
+    </aspects>
+</sentence>
+
+<sentence id="AS469" polarity="negative">
+    <text>disorganized reservation process, slow guest responses, and outdated security</text>
+    <aspects>
+        <aspectTerm term="reservation process" position="2" RelTerm="disorganized" category="service" polarity="negative"/>
+        <aspectTerm term="guest responses" position="4" RelTerm="slow" category="service" polarity="negative"/>
+        <aspectTerm term="security" position="6" RelTerm="outdated" category="service" polarity="negative"/>
+    </aspects>
+</sentence>
+
+<sentence id="AS470" polarity="negative">
+    <text>inefficient reservation system, inadequate guest services, and poor security</text>
+    <aspects>
+        <aspectTerm term="reservation system" position="2" RelTerm="inefficient" category="service" polarity="negative"/>
+        <aspectTerm term="guest services" position="4" RelTerm="inadequate" category="service" polarity="negative"/>
+        <aspectTerm term="security" position="6" RelTerm="poor" category="service" polarity="negative"/>
+    </aspects>
+</sentence>
+
+<sentence id="AS471" polarity="negative">
+    <text>unreliable reservation system, slow guest handling, and ineffective security measures</text>
+    <aspects>
+        <aspectTerm term="reservation system" position="2" RelTerm="unreliable" category="service" polarity="negative"/>
+        <aspectTerm term="guest handling" position="4" RelTerm="slow" category="service" polarity="negative"/>
+        <aspectTerm term="security measures" position="6" RelTerm="ineffective" category="service" polarity="negative"/>
+    </aspects>
+</sentence>
+
+<sentence id="AS472" polarity="negative">
+    <text>outdated reservation system, unresponsive guest services, and weak security</text>
+    <aspects>
+        <aspectTerm term="reservation system" position="2" RelTerm="outdated" category="service" polarity="negative"/>
+        <aspectTerm term="guest services" position="4" RelTerm="unresponsive" category="service" polarity="negative"/>
+        <aspectTerm term="security" position="6" RelTerm="weak" category="service" polarity="negative"/>
+    </aspects>
+</sentence>
+
+<sentence id="AS473" polarity="negative">
+    <text>confusing reservation system, disorganized guest handling, and poor security</text>
+    <aspects>
+        <aspectTerm term="reservation system" position="2" RelTerm="confusing" category="service" polarity="negative"/>
+        <aspectTerm term="guest handling" position="4" RelTerm="disorganized" category="service" polarity="negative"/>
+        <aspectTerm term="security" position="6" RelTerm="poor" category="service" polarity="negative"/>
+    </aspects>
+</sentence>
+
+<sentence id="AS474" polarity="negative">
+    <text>ineffective reservation system, slow guest services, and lacking security measures</text>
+    <aspects>
+        <aspectTerm term="reservation system" position="2" RelTerm="ineffective" category="service" polarity="negative"/>
+        <aspectTerm term="guest services" position="4" RelTerm="slow" category="service" polarity="negative"/>
+        <aspectTerm term="security measures" position="6" RelTerm="lacking" category="service" polarity="negative"/>
+    </aspects>
+</sentence>
+
+<sentence id="AS475" polarity="negative">
+    <text>unreliable reservation process, inadequate guest services, and poor security</text>
+    <aspects>
+        <aspectTerm term="reservation process" position="2" RelTerm="unreliable" category="service" polarity="negative"/>
+        <aspectTerm term="guest services" position="4" RelTerm="inadequate" category="service" polarity="negative"/>
+        <aspectTerm term="security" position="6" RelTerm="poor" category="service" polarity="negative"/>
+    </aspects>
+</sentence>
+
+<sentence id="AS476" polarity="negative">
+    <text>disorganized reservation system, ineffective guest services, and outdated security</text>
+    <aspects>
+        <aspectTerm term="reservation system" position="2" RelTerm="disorganized" category="service" polarity="negative"/>
+        <aspectTerm term="guest services" position="4" RelTerm="ineffective" category="service" polarity="negative"/>
+        <aspectTerm term="security" position="6" RelTerm="outdated" category="service" polarity="negative"/>
+    </aspects>
+</sentence>
+
+<sentence id="AS477" polarity="negative">
+    <text>confusing reservation system, slow guest services, and weak security</text>
+    <aspects>
+        <aspectTerm term="reservation system" position="2" RelTerm="confusing" category="service" polarity="negative"/>
+        <aspectTerm term="guest services" position="4" RelTerm="slow" category="service" polarity="negative"/>
+        <aspectTerm term="security" position="6" RelTerm="weak" category="service" polarity="negative"/>
+    </aspects>
+</sentence>
+
+<sentence id="AS478" polarity="negative">
+    <text>inefficient reservation management, poor guest services, and insecure security measures</text>
+    <aspects>
+        <aspectTerm term="reservation management" position="2" RelTerm="inefficient" category="service" polarity="negative"/>
+        <aspectTerm term="guest services" position="4" RelTerm="poor" category="service" polarity="negative"/>
+        <aspectTerm term="security measures" position="6" RelTerm="insecure" category="service" polarity="negative"/>
+    </aspects>
+</sentence>
+
+<sentence id="AS479" polarity="negative">
+    <text>unresponsive reservation system, inadequate guest handling, and outdated security</text>
+    <aspects>
+        <aspectTerm term="reservation system" position="2" RelTerm="unresponsive" category="service" polarity="negative"/>
+        <aspectTerm term="guest handling" position="4" RelTerm="inadequate" category="service" polarity="negative"/>
+        <aspectTerm term="security" position="6" RelTerm="outdated" category="service" polarity="negative"/>
+    </aspects>
+</sentence>
+
+<sentence id="AS480" polarity="negative">
+    <text>broken reservation system, slow guest management, and poor security</text>
+    <aspects>
+        <aspectTerm term="reservation system" position="2" RelTerm="broken" category="service" polarity="negative"/>
+        <aspectTerm term="guest management" position="4" RelTerm="slow" category="service" polarity="negative"/>
+        <aspectTerm term="security" position="6" RelTerm="poor" category="service" polarity="negative"/>
+    </aspects>
+</sentence>
+
+<sentence id="AS481" polarity="negative">
+    <text>confusing reservation system, inadequate guest handling, and weak security</text>
+    <aspects>
+        <aspectTerm term="reservation system" position="2" RelTerm="confusing" category="service" polarity="negative"/>
+        <aspectTerm term="guest handling" position="4" RelTerm="inadequate" category="service" polarity="negative"/>
+        <aspectTerm term="security" position="6" RelTerm="weak" category="service" polarity="negative"/>
+    </aspects>
+</sentence>
+
+<sentence id="AS482" polarity="negative">
+    <text>inefficient reservation process, poor guest services, and insecure security</text>
+    <aspects>
+        <aspectTerm term="reservation process" position="2" RelTerm="inefficient" category="service" polarity="negative"/>
+        <aspectTerm term="guest services" position="4" RelTerm="poor" category="service" polarity="negative"/>
+        <aspectTerm term="security" position="6" RelTerm="insecure" category="service" polarity="negative"/>
+    </aspects>
+</sentence>
+
+<sentence id="AS483" polarity="negative">
+    <text>outdated reservation system, slow guest service, and weak security measures</text>
+    <aspects>
+        <aspectTerm term="reservation system" position="2" RelTerm="outdated" category="service" polarity="negative"/>
+        <aspectTerm term="guest service" position="4" RelTerm="slow" category="service" polarity="negative"/>
+        <aspectTerm term="security measures" position="6" RelTerm="weak" category="service" polarity="negative"/>
+    </aspects>
+</sentence>
+
+<sentence id="AS484" polarity="negative">
+    <text>disorganized reservation system, inadequate guest handling, and outdated security</text>
+    <aspects>
+        <aspectTerm term="reservation system" position="2" RelTerm="disorganized" category="service" polarity="negative"/>
+        <aspectTerm term="guest handling" position="4" RelTerm="inadequate" category="service" polarity="negative"/>
+        <aspectTerm term="security" position="6" RelTerm="outdated" category="service" polarity="negative"/>
+    </aspects>
+</sentence>
+
+<sentence id="AS485" polarity="negative">
+    <text>ineffective reservation system, slow guest services, and poor security measures</text>
+    <aspects>
+        <aspectTerm term="reservation system" position="2" RelTerm="ineffective" category="service" polarity="negative"/>
+        <aspectTerm term="guest services" position="4" RelTerm="slow" category="service" polarity="negative"/>
+        <aspectTerm term="security measures" position="6" RelTerm="poor" category="service" polarity="negative"/>
+    </aspects>
+</sentence>
+
+<sentence id="AS486" polarity="negative">
+    <text>unresponsive reservation system, slow guest handling, and outdated security measures</text>
+    <aspects>
+        <aspectTerm term="reservation system" position="2" RelTerm="unresponsive" category="service" polarity="negative"/>
+        <aspectTerm term="guest handling" position="4" RelTerm="slow" category="service" polarity="negative"/>
+        <aspectTerm term="security measures" position="6" RelTerm="outdated" category="service" polarity="negative"/>
+    </aspects>
+</sentence>
+
+<sentence id="AS487" polarity="negative">
+    <text>inefficient reservation system, inadequate guest services, and weak security</text>
+    <aspects>
+        <aspectTerm term="reservation system" position="2" RelTerm="inefficient" category="service" polarity="negative"/>
+        <aspectTerm term="guest services" position="4" RelTerm="inadequate" category="service" polarity="negative"/>
+        <aspectTerm term="security" position="6" RelTerm="weak" category="service" polarity="negative"/>
+    </aspects>
+</sentence>
+
+<sentence id="AS488" polarity="negative">
+    <text>disorganized reservation system, slow guest responses, and insecure security</text>
+    <aspects>
+        <aspectTerm term="reservation system" position="2" RelTerm="disorganized" category="service" polarity="negative"/>
+        <aspectTerm term="guest responses" position="4" RelTerm="slow" category="service" polarity="negative"/>
+        <aspectTerm term="security" position="6" RelTerm="insecure" category="service" polarity="negative"/>
+    </aspects>
+</sentence>
+
+<sentence id="AS489" polarity="negative">
+    <text>confusing reservation system, inadequate guest services, and poor security</text>
+    <aspects>
+        <aspectTerm term="reservation system" position="2" RelTerm="confusing" category="service" polarity="negative"/>
+        <aspectTerm term="guest services" position="4" RelTerm="inadequate" category="service" polarity="negative"/>
+        <aspectTerm term="security" position="6" RelTerm="poor" category="service" polarity="negative"/>
+    </aspects>
+</sentence>
+
+<sentence id="AS490" polarity="negative">
+    <text>unreliable reservation system, slow guest management, and ineffective security measures</text>
+    <aspects>
+        <aspectTerm term="reservation system" position="2" RelTerm="unreliable" category="service" polarity="negative"/>
+        <aspectTerm term="guest management" position="4" RelTerm="slow" category="service" polarity="negative"/>
+        <aspectTerm term="security measures" position="6" RelTerm="ineffective" category="service" polarity="negative"/>
+    </aspects>
+</sentence>
+
+<sentence id="AS491" polarity="negative">
+    <text>disorganized reservation system, inadequate guest handling, and weak security</text>
+    <aspects>
+        <aspectTerm term="reservation system" position="2" RelTerm="disorganized" category="service" polarity="negative"/>
+        <aspectTerm term="guest handling" position="4" RelTerm="inadequate" category="service" polarity="negative"/>
+        <aspectTerm term="security" position="6" RelTerm="weak" category="service" polarity="negative"/>
+    </aspects>
+</sentence>
+
+<sentence id="AS492" polarity="negative">
+    <text>confusing reservation process, poor guest services, and outdated security</text>
+    <aspects>
+        <aspectTerm term="reservation process" position="2" RelTerm="confusing" category="service" polarity="negative"/>
+        <aspectTerm term="guest services" position="4" RelTerm="poor" category="service" polarity="negative"/>
+        <aspectTerm term="security" position="6" RelTerm="outdated" category="service" polarity="negative"/>
+    </aspects>
+</sentence>
+
+<sentence id="AS493" polarity="negative">
+    <text>ineffective reservation system, slow guest handling, and poor security measures</text>
+    <aspects>
+        <aspectTerm term="reservation system" position="2" RelTerm="ineffective" category="service" polarity="negative"/>
+        <aspectTerm term="guest handling" position="4" RelTerm="slow" category="service" polarity="negative"/>
+        <aspectTerm term="security measures" position="6" RelTerm="poor" category="service" polarity="negative"/>
+    </aspects>
+</sentence>
+
+<sentence id="AS494" polarity="negative">
+    <text>outdated reservation system, unresponsive guest services, and weak security</text>
+    <aspects>
+        <aspectTerm term="reservation system" position="2" RelTerm="outdated" category="service" polarity="negative"/>
+        <aspectTerm term="guest services" position="4" RelTerm="unresponsive" category="service" polarity="negative"/>
+        <aspectTerm term="security" position="6" RelTerm="weak" category="service" polarity="negative"/>
+    </aspects>
+</sentence>
+
+<sentence id="AS495" polarity="negative">
+    <text>disorganized reservation process, slow guest responses, and inadequate security</text>
+    <aspects>
+        <aspectTerm term="reservation process" position="2" RelTerm="disorganized" category="service" polarity="negative"/>
+        <aspectTerm term="guest responses" position="4" RelTerm="slow" category="service" polarity="negative"/>
+        <aspectTerm term="security" position="6" RelTerm="inadequate" category="service" polarity="negative"/>
+    </aspects>
+</sentence>
+<sentence id="AS496" polarity="negative">
+    <text>poor reservation handling, lacking customer experience, and inadequate guest management</text>
+    <aspects>
+        <aspectTerm term="reservation handling" position="2" RelTerm="poor" category="service" polarity="negative"/>
+        <aspectTerm term="customer experience" position="4" RelTerm="lacking" category="service" polarity="negative"/>
+        <aspectTerm term="guest management" position="6" RelTerm="inadequate" category="service" polarity="negative"/>
+    </aspects>
+</sentence>
+
+<sentence id="AS497" polarity="negative">
+    <text>disorganized reservation process, insufficient guest management, and weak security management</text>
+    <aspects>
+        <aspectTerm term="reservation process" position="2" RelTerm="disorganized" category="service" polarity="negative"/>
+        <aspectTerm term="guest management" position="4" RelTerm="insufficient" category="service" polarity="negative"/>
+        <aspectTerm term="security management" position="6" RelTerm="weak" category="service" polarity="negative"/>
+    </aspects>
+</sentence>
+
+<sentence id="AS498" polarity="negative">
+    <text>confusing reservation system, poor customer experience, and inadequate security management</text>
+    <aspects>
+        <aspectTerm term="reservation system" position="2" RelTerm="confusing" category="service" polarity="negative"/>
+        <aspectTerm term="customer experience" position="4" RelTerm="poor" category="service" polarity="negative"/>
+        <aspectTerm term="security management" position="6" RelTerm="inadequate" category="service" polarity="negative"/>
+    </aspects>
+</sentence>
+
+<sentence id="AS499" polarity="negative">
+    <text>ineffective reservation handling, subpar guest management, and outdated security management</text>
+    <aspects>
+        <aspectTerm term="reservation handling" position="2" RelTerm="ineffective" category="service" polarity="negative"/>
+        <aspectTerm term="guest management" position="4" RelTerm="subpar" category="service" polarity="negative"/>
+        <aspectTerm term="security management" position="6" RelTerm="outdated" category="service" polarity="negative"/>
+    </aspects>
+</sentence>
+
+<sentence id="AS500" polarity="negative">
+    <text>inefficient reservation process, poor customer experience, and weak guest management</text>
+    <aspects>
+        <aspectTerm term="reservation process" position="2" RelTerm="inefficient" category="service" polarity="negative"/>
+        <aspectTerm term="customer experience" position="4" RelTerm="poor" category="service" polarity="negative"/>
+        <aspectTerm term="guest management" position="6" RelTerm="weak" category="service" polarity="negative"/>
+    </aspects>
+</sentence>
+
+<sentence id="AS501" polarity="negative">
+    <text>confusing reservation system, inadequate guest management, and poor security management</text>
+    <aspects>
+        <aspectTerm term="reservation system" position="2" RelTerm="confusing" category="service" polarity="negative"/>
+        <aspectTerm term="guest management" position="4" RelTerm="inadequate" category="service" polarity="negative"/>
+        <aspectTerm term="security management" position="6" RelTerm="poor" category="service" polarity="negative"/>
+    </aspects>
+</sentence>
+
+<sentence id="AS502" polarity="negative">
+    <text>disorganized reservation system, slow customer service, and ineffective security management</text>
+    <aspects>
+        <aspectTerm term="reservation system" position="2" RelTerm="disorganized" category="service" polarity="negative"/>
+        <aspectTerm term="customer service" position="4" RelTerm="slow" category="service" polarity="negative"/>
+        <aspectTerm term="security management" position="6" RelTerm="ineffective" category="service" polarity="negative"/>
+    </aspects>
+</sentence>
+
+<sentence id="AS503" polarity="negative">
+    <text>unreliable reservation handling, poor guest management, and inadequate security</text>
+    <aspects>
+        <aspectTerm term="reservation handling" position="2" RelTerm="unreliable" category="service" polarity="negative"/>
+        <aspectTerm term="guest management" position="4" RelTerm="poor" category="service" polarity="negative"/>
+        <aspectTerm term="security" position="6" RelTerm="inadequate" category="service" polarity="negative"/>
+    </aspects>
+</sentence>
+
+<sentence id="AS504" polarity="negative">
+    <text>inefficient reservation system, outdated customer experience, and weak guest management</text>
+    <aspects>
+        <aspectTerm term="reservation system" position="2" RelTerm="inefficient" category="service" polarity="negative"/>
+        <aspectTerm term="customer experience" position="4" RelTerm="outdated" category="service" polarity="negative"/>
+        <aspectTerm term="guest management" position="6" RelTerm="weak" category="service" polarity="negative"/>
+    </aspects>
+</sentence>
+
+<sentence id="AS505" polarity="negative">
+    <text>confusing reservation process, ineffective guest management, and poor security</text>
+    <aspects>
+        <aspectTerm term="reservation process" position="2" RelTerm="confusing" category="service" polarity="negative"/>
+        <aspectTerm term="guest management" position="4" RelTerm="ineffective" category="service" polarity="negative"/>
+        <aspectTerm term="security" position="6" RelTerm="poor" category="service" polarity="negative"/>
+    </aspects>
+</sentence>
+
+<sentence id="AS506" polarity="negative">
+    <text>outdated reservation system, unresponsive customer service, and weak guest management</text>
+    <aspects>
+        <aspectTerm term="reservation system" position="2" RelTerm="outdated" category="service" polarity="negative"/>
+        <aspectTerm term="customer service" position="4" RelTerm="unresponsive" category="service" polarity="negative"/>
+        <aspectTerm term="guest management" position="6" RelTerm="weak" category="service" polarity="negative"/>
+    </aspects>
+</sentence>
+
+<sentence id="AS507" polarity="negative">
+    <text>disorganized reservation handling, poor guest experience, and outdated security management</text>
+    <aspects>
+        <aspectTerm term="reservation handling" position="2" RelTerm="disorganized" category="service" polarity="negative"/>
+        <aspectTerm term="guest experience" position="4" RelTerm="poor" category="service" polarity="negative"/>
+        <aspectTerm term="security management" position="6" RelTerm="outdated" category="service" polarity="negative"/>
+    </aspects>
+</sentence>
+
+<sentence id="AS508" polarity="negative">
+    <text>ineffective reservation system, inadequate guest services, and weak security measures</text>
+    <aspects>
+        <aspectTerm term="reservation system" position="2" RelTerm="ineffective" category="service" polarity="negative"/>
+        <aspectTerm term="guest services" position="4" RelTerm="inadequate" category="service" polarity="negative"/>
+        <aspectTerm term="security measures" position="6" RelTerm="weak" category="service" polarity="negative"/>
+    </aspects>
+</sentence>
+
+<sentence id="AS509" polarity="negative">
+    <text>unresponsive reservation system, poor guest management, and outdated security measures</text>
+    <aspects>
+        <aspectTerm term="reservation system" position="2" RelTerm="unresponsive" category="service" polarity="negative"/>
+        <aspectTerm term="guest management" position="4" RelTerm="poor" category="service" polarity="negative"/>
+        <aspectTerm term="security measures" position="6" RelTerm="outdated" category="service" polarity="negative"/>
+    </aspects>
+</sentence>
+
+<sentence id="AS510" polarity="negative">
+    <text>disorganized reservation system, slow guest services, and ineffective security management</text>
+    <aspects>
+        <aspectTerm term="reservation system" position="2" RelTerm="disorganized" category="service" polarity="negative"/>
+        <aspectTerm term="guest services" position="4" RelTerm="slow" category="service" polarity="negative"/>
+        <aspectTerm term="security management" position="6" RelTerm="ineffective" category="service" polarity="negative"/>
+    </aspects>
+</sentence>
+
+<sentence id="AS511" polarity="negative">
+    <text>inefficient reservation handling, inadequate customer experience, and weak guest management</text>
+    <aspects>
+        <aspectTerm term="reservation handling" position="2" RelTerm="inefficient" category="service" polarity="negative"/>
+        <aspectTerm term="customer experience" position="4" RelTerm="inadequate" category="service" polarity="negative"/>
+        <aspectTerm term="guest management" position="6" RelTerm="weak" category="service" polarity="negative"/>
+    </aspects>
+</sentence>
+
+<sentence id="AS512" polarity="negative">
+    <text>confusing reservation system, insufficient guest services, and outdated security management</text>
+    <aspects>
+        <aspectTerm term="reservation system" position="2" RelTerm="confusing" category="service" polarity="negative"/>
+        <aspectTerm term="guest services" position="4" RelTerm="insufficient" category="service" polarity="negative"/>
+        <aspectTerm term="security management" position="6" RelTerm="outdated" category="service" polarity="negative"/>
+    </aspects>
+</sentence>
+
+<sentence id="AS513" polarity="negative">
+    <text>unreliable reservation process, poor customer experience, and ineffective guest management</text>
+    <aspects>
+        <aspectTerm term="reservation process" position="2" RelTerm="unreliable" category="service" polarity="negative"/>
+        <aspectTerm term="customer experience" position="4" RelTerm="poor" category="service" polarity="negative"/>
+        <aspectTerm term="guest management" position="6" RelTerm="ineffective" category="service" polarity="negative"/>
+    </aspects>
+</sentence>
+
+<sentence id="AS514" polarity="negative">
+    <text>inefficient reservation system, outdated guest management, and weak security management</text>
+    <aspects>
+        <aspectTerm term="reservation system" position="2" RelTerm="inefficient" category="service" polarity="negative"/>
+        <aspectTerm term="guest management" position="4" RelTerm="outdated" category="service" polarity="negative"/>
+        <aspectTerm term="security management" position="6" RelTerm="weak" category="service" polarity="negative"/>
+    </aspects>
+</sentence>
+
+<sentence id="AS515" polarity="negative">
+    <text>confusing reservation process, poor guest management, and outdated security</text>
+    <aspects>
+        <aspectTerm term="reservation process" position="2" RelTerm="confusing" category="service" polarity="negative"/>
+        <aspectTerm term="guest management" position="4" RelTerm="poor" category="service" polarity="negative"/>
+        <aspectTerm term="security" position="6" RelTerm="outdated" category="service" polarity="negative"/>
+    </aspects>
+</sentence>
+
+<sentence id="AS516" polarity="negative">
+    <text>ineffective reservation handling, inadequate customer experience, and poor guest management</text>
+    <aspects>
+        <aspectTerm term="reservation handling" position="2" RelTerm="ineffective" category="service" polarity="negative"/>
+        <aspectTerm term="customer experience" position="4" RelTerm="inadequate" category="service" polarity="negative"/>
+        <aspectTerm term="guest management" position="6" RelTerm="poor" category="service" polarity="negative"/>
+    </aspects>
+</sentence>
+
+<sentence id="AS517" polarity="negative">
+    <text>disorganized reservation system, insufficient customer experience, and weak security management</text>
+    <aspects>
+        <aspectTerm term="reservation system" position="2" RelTerm="disorganized" category="service" polarity="negative"/>
+        <aspectTerm term="customer experience" position="4" RelTerm="insufficient" category="service" polarity="negative"/>
+        <aspectTerm term="security management" position="6" RelTerm="weak" category="service" polarity="negative"/>
+    </aspects>
+</sentence>
+
+<sentence id="AS518" polarity="negative">
+    <text>unresponsive reservation system, poor guest management, and inadequate security</text>
+    <aspects>
+        <aspectTerm term="reservation system" position="2" RelTerm="unresponsive" category="service" polarity="negative"/>
+        <aspectTerm term="guest management" position="4" RelTerm="poor" category="service" polarity="negative"/>
+        <aspectTerm term="security" position="6" RelTerm="inadequate" category="service" polarity="negative"/>
+    </aspects>
+</sentence>
+
+<sentence id="AS519" polarity="negative">
+    <text>confusing reservation system, outdated guest management, and poor security</text>
+    <aspects>
+        <aspectTerm term="reservation system" position="2" RelTerm="confusing" category="service" polarity="negative"/>
+        <aspectTerm term="guest management" position="4" RelTerm="outdated" category="service" polarity="negative"/>
+        <aspectTerm term="security" position="6" RelTerm="poor" category="service" polarity="negative"/>
+    </aspects>
+</sentence>
+
+<sentence id="AS520" polarity="negative">
+    <text>inefficient reservation handling, weak customer service, and ineffective guest management</text>
+    <aspects>
+        <aspectTerm term="reservation handling" position="2" RelTerm="inefficient" category="service" polarity="negative"/>
+        <aspectTerm term="customer service" position="4" RelTerm="weak" category="service" polarity="negative"/>
+        <aspectTerm term="guest management" position="6" RelTerm="ineffective" category="service" polarity="negative"/>
+    </aspects>
+</sentence>
+
+<sentence id="AS521" polarity="negative">
+    <text>unreliable reservation system, poor customer experience, and inadequate security management</text>
+    <aspects>
+        <aspectTerm term="reservation system" position="2" RelTerm="unreliable" category="service" polarity="negative"/>
+        <aspectTerm term="customer experience" position="4" RelTerm="poor" category="service" polarity="negative"/>
+        <aspectTerm term="security management" position="6" RelTerm="inadequate" category="service" polarity="negative"/>
+    </aspects>
+</sentence>
+
+<sentence id="AS522" polarity="negative">
+    <text>disorganized reservation system, slow guest services, and weak security management</text>
+    <aspects>
+        <aspectTerm term="reservation system" position="2" RelTerm="disorganized" category="service" polarity="negative"/>
+        <aspectTerm term="guest services" position="4" RelTerm="slow" category="service" polarity="negative"/>
+        <aspectTerm term="security management" position="6" RelTerm="weak" category="service" polarity="negative"/>
+    </aspects>
+</sentence>
+
+<sentence id="AS523" polarity="negative">
+    <text>ineffective reservation process, poor guest management, and outdated security measures</text>
+    <aspects>
+        <aspectTerm term="reservation process" position="2" RelTerm="ineffective" category="service" polarity="negative"/>
+        <aspectTerm term="guest management" position="4" RelTerm="poor" category="service" polarity="negative"/>
+        <aspectTerm term="security measures" position="6" RelTerm="outdated" category="service" polarity="negative"/>
+    </aspects>
+</sentence>
+
+<sentence id="AS524" polarity="negative">
+    <text>confusing reservation handling, inadequate customer experience, and poor security management</text>
+    <aspects>
+        <aspectTerm term="reservation handling" position="2" RelTerm="confusing" category="service" polarity="negative"/>
+        <aspectTerm term="customer experience" position="4" RelTerm="inadequate" category="service" polarity="negative"/>
+        <aspectTerm term="security management" position="6" RelTerm="poor" category="service" polarity="negative"/>
+    </aspects>
+</sentence>
+
+<sentence id="AS525" polarity="negative">
+    <text>outdated reservation system, unresponsive guest services, and ineffective security management</text>
+    <aspects>
+        <aspectTerm term="reservation system" position="2" RelTerm="outdated" category="service" polarity="negative"/>
+        <aspectTerm term="guest services" position="4" RelTerm="unresponsive" category="service" polarity="negative"/>
+        <aspectTerm term="security management" position="6" RelTerm="ineffective" category="service" polarity="negative"/>
+    </aspects>
+</sentence>
+
+<sentence id="AS526" polarity="negative">
+    <text>inefficient reservation handling, weak guest management, and outdated security</text>
+    <aspects>
+        <aspectTerm term="reservation handling" position="2" RelTerm="inefficient" category="service" polarity="negative"/>
+        <aspectTerm term="guest management" position="4" RelTerm="weak" category="service" polarity="negative"/>
+        <aspectTerm term="security" position="6" RelTerm="outdated" category="service" polarity="negative"/>
+    </aspects>
+</sentence>
+
+<sentence id="AS527" polarity="negative">
+    <text>disorganized reservation system, ineffective guest services, and poor security management</text>
+    <aspects>
+        <aspectTerm term="reservation system" position="2" RelTerm="disorganized" category="service" polarity="negative"/>
+        <aspectTerm term="guest services" position="4" RelTerm="ineffective" category="service" polarity="negative"/>
+        <aspectTerm term="security management" position="6" RelTerm="poor" category="service" polarity="negative"/>
+    </aspects>
+</sentence>
+
+<sentence id="AS528" polarity="negative">
+    <text>unreliable reservation system, inadequate customer service, and weak guest management</text>
+    <aspects>
+        <aspectTerm term="reservation system" position="2" RelTerm="unreliable" category="service" polarity="negative"/>
+        <aspectTerm term="customer service" position="4" RelTerm="inadequate" category="service" polarity="negative"/>
+        <aspectTerm term="guest management" position="6" RelTerm="weak" category="service" polarity="negative"/>
+    </aspects>
+</sentence>
+
+<sentence id="AS529" polarity="negative">
+    <text>confusing reservation system, poor guest services, and inadequate security management</text>
+    <aspects>
+        <aspectTerm term="reservation system" position="2" RelTerm="confusing" category="service" polarity="negative"/>
+        <aspectTerm term="guest services" position="4" RelTerm="poor" category="service" polarity="negative"/>
+        <aspectTerm term="security management" position="6" RelTerm="inadequate" category="service" polarity="negative"/>
+    </aspects>
+</sentence>
+
+<sentence id="AS530" polarity="negative">
+    <text>ineffective reservation system, outdated customer experience, and weak guest management</text>
+    <aspects>
+        <aspectTerm term="reservation system" position="2" RelTerm="ineffective" category="service" polarity="negative"/>
+        <aspectTerm term="customer experience" position="4" RelTerm="outdated" category="service" polarity="negative"/>
+        <aspectTerm term="guest management" position="6" RelTerm="weak" category="service" polarity="negative"/>
+    </aspects>
+</sentence>
+
+<sentence id="AS531" polarity="negative">
+    <text>disorganized reservation handling, inadequate customer service, and poor guest management</text>
+    <aspects>
+        <aspectTerm term="reservation handling" position="2" RelTerm="disorganized" category="service" polarity="negative"/>
+        <aspectTerm term="customer service" position="4" RelTerm="inadequate" category="service" polarity="negative"/>
+        <aspectTerm term="guest management" position="6" RelTerm="poor" category="service" polarity="negative"/>
+    </aspects>
+</sentence>
+
+<sentence id="AS532" polarity="negative">
+    <text>unresponsive reservation system, ineffective customer experience, and weak guest management</text>
+    <aspects>
+        <aspectTerm term="reservation system" position="2" RelTerm="unresponsive" category="service" polarity="negative"/>
+        <aspectTerm term="customer experience" position="4" RelTerm="ineffective" category="service" polarity="negative"/>
+        <aspectTerm term="guest management" position="6" RelTerm="weak" category="service" polarity="negative"/>
+    </aspects>
+</sentence>
+
+<sentence id="AS533" polarity="negative">
+    <text>inefficient reservation system, poor guest services, and inadequate security management</text>
+    <aspects>
+        <aspectTerm term="reservation system" position="2" RelTerm="inefficient" category="service" polarity="negative"/>
+        <aspectTerm term="guest services" position="4" RelTerm="poor" category="service" polarity="negative"/>
+        <aspectTerm term="security management" position="6" RelTerm="inadequate" category="service" polarity="negative"/>
+    </aspects>
+</sentence>
+
+<sentence id="AS534" polarity="negative">
+    <text>confusing reservation system, outdated guest services, and weak security management</text>
+    <aspects>
+        <aspectTerm term="reservation system" position="2" RelTerm="confusing" category="service" polarity="negative"/>
+        <aspectTerm term="guest services" position="4" RelTerm="outdated" category="service" polarity="negative"/>
+        <aspectTerm term="security management" position="6" RelTerm="weak" category="service" polarity="negative"/>
+    </aspects>
+</sentence>
+
+<sentence id="AS535" polarity="negative">
+    <text>ineffective reservation process, poor guest services, and outdated security</text>
+    <aspects>
+        <aspectTerm term="reservation process" position="2" RelTerm="ineffective" category="service" polarity="negative"/>
+        <aspectTerm term="guest services" position="4" RelTerm="poor" category="service" polarity="negative"/>
+        <aspectTerm term="security" position="6" RelTerm="outdated" category="service" polarity="negative"/>
+    </aspects>
+</sentence>
+
+<sentence id="AS536" polarity="negative">
+    <text>unreliable reservation system, inadequate customer experience, and poor guest management</text>
+    <aspects>
+        <aspectTerm term="reservation system" position="2" RelTerm="unreliable" category="service" polarity="negative"/>
+        <aspectTerm term="customer experience" position="4" RelTerm="inadequate" category="service" polarity="negative"/>
+        <aspectTerm term="guest management" position="6" RelTerm="poor" category="service" polarity="negative"/>
+    </aspects>
+</sentence>
+
+<sentence id="AS537" polarity="negative">
+    <text>disorganized reservation system, weak customer service, and ineffective guest management</text>
+    <aspects>
+        <aspectTerm term="reservation system" position="2" RelTerm="disorganized" category="service" polarity="negative"/>
+        <aspectTerm term="customer service" position="4" RelTerm="weak" category="service" polarity="negative"/>
+        <aspectTerm term="guest management" position="6" RelTerm="ineffective" category="service" polarity="negative"/>
+    </aspects>
+</sentence>
+
+<sentence id="AS538" polarity="negative">
+    <text>inefficient reservation handling, outdated guest services, and poor security management</text>
+    <aspects>
+        <aspectTerm term="reservation handling" position="2" RelTerm="inefficient" category="service" polarity="negative"/>
+        <aspectTerm term="guest services" position="4" RelTerm="outdated" category="service" polarity="negative"/>
+        <aspectTerm term="security management" position="6" RelTerm="poor" category="service" polarity="negative"/>
+    </aspects>
+</sentence>
+
+<sentence id="AS539" polarity="negative">
+    <text>confusing reservation process, weak customer experience, and outdated guest management</text>
+    <aspects>
+        <aspectTerm term="reservation process" position="2" RelTerm="confusing" category="service" polarity="negative"/>
+        <aspectTerm term="customer experience" position="4" RelTerm="weak" category="service" polarity="negative"/>
+        <aspectTerm term="guest management" position="6" RelTerm="outdated" category="service" polarity="negative"/>
+    </aspects>
+</sentence>
+
+<sentence id="AS540" polarity="negative">
+    <text>unreliable reservation system, inadequate customer service, and ineffective security management</text>
+    <aspects>
+        <aspectTerm term="reservation system" position="2" RelTerm="unreliable" category="service" polarity="negative"/>
+        <aspectTerm term="customer service" position="4" RelTerm="inadequate" category="service" polarity="negative"/>
+        <aspectTerm term="security management" position="6" RelTerm="ineffective" category="service" polarity="negative"/>
+    </aspects>
+</sentence>
+
+<sentence id="AS541" polarity="negative">
+    <text>inefficient reservation handling, poor guest services, and outdated security</text>
+    <aspects>
+        <aspectTerm term="reservation handling" position="2" RelTerm="inefficient" category="service" polarity="negative"/>
+        <aspectTerm term="guest services" position="4" RelTerm="poor" category="service" polarity="negative"/>
+        <aspectTerm term="security" position="6" RelTerm="outdated" category="service" polarity="negative"/>
+    </aspects>
+</sentence>
+
+<sentence id="AS542" polarity="negative">
+    <text>disorganized reservation system, weak guest management, and inadequate customer service</text>
+    <aspects>
+        <aspectTerm term="reservation system" position="2" RelTerm="disorganized" category="service" polarity="negative"/>
+        <aspectTerm term="guest management" position="4" RelTerm="weak" category="service" polarity="negative"/>
+        <aspectTerm term="customer service" position="6" RelTerm="inadequate" category="service" polarity="negative"/>
+    </aspects>
+</sentence>
+
+<sentence id="AS543" polarity="negative">
+    <text>ineffective reservation process, poor customer service, and outdated guest management</text>
+    <aspects>
+        <aspectTerm term="reservation process" position="2" RelTerm="ineffective" category="service" polarity="negative"/>
+        <aspectTerm term="customer service" position="4" RelTerm="poor" category="service" polarity="negative"/>
+        <aspectTerm term="guest management" position="6" RelTerm="outdated" category="service" polarity="negative"/>
+    </aspects>
+</sentence>
+
+<sentence id="AS544" polarity="negative">
+    <text>unreliable reservation system, weak guest services, and ineffective customer management</text>
+    <aspects>
+        <aspectTerm term="reservation system" position="2" RelTerm="unreliable" category="service" polarity="negative"/>
+        <aspectTerm term="guest services" position="4" RelTerm="weak" category="service" polarity="negative"/>
+        <aspectTerm term="customer management" position="6" RelTerm="ineffective" category="service" polarity="negative"/>
+    </aspects>
+</sentence>
+
+<sentence id="AS545" polarity="negative">
+    <text>disorganized reservation handling, outdated guest services, and ineffective security management</text>
+    <aspects>
+        <aspectTerm term="reservation handling" position="2" RelTerm="disorganized" category="service" polarity="negative"/>
+        <aspectTerm term="guest services" position="4" RelTerm="outdated" category="service" polarity="negative"/>
+        <aspectTerm term="security management" position="6" RelTerm="ineffective" category="service" polarity="negative"/>
+    </aspects>
+</sentence>
+
+<sentence id="AS546" polarity="negative">
+    <text>confusing reservation system, poor customer service, and outdated guest management</text>
+    <aspects>
+        <aspectTerm term="reservation system" position="2" RelTerm="confusing" category="service" polarity="negative"/>
+        <aspectTerm term="customer service" position="4" RelTerm="poor" category="service" polarity="negative"/>
+        <aspectTerm term="guest management" position="6" RelTerm="outdated" category="service" polarity="negative"/>
+    </aspects>
+</sentence>
+
+<sentence id="AS547" polarity="negative">
+    <text>ineffective reservation process, weak guest management, and poor customer service</text>
+    <aspects>
+        <aspectTerm term="reservation process" position="2" RelTerm="ineffective" category="service" polarity="negative"/>
+        <aspectTerm term="guest management" position="4" RelTerm="weak" category="service" polarity="negative"/>
+        <aspectTerm term="customer service" position="6" RelTerm="poor" category="service" polarity="negative"/>
+    </aspects>
+</sentence>
+
+<sentence id="AS548" polarity="negative">
+    <text>unresponsive reservation system, outdated guest services, and ineffective security management</text>
+    <aspects>
+        <aspectTerm term="reservation system" position="2" RelTerm="unresponsive" category="service" polarity="negative"/>
+        <aspectTerm term="guest services" position="4" RelTerm="outdated" category="service" polarity="negative"/>
+        <aspectTerm term="security management" position="6" RelTerm="ineffective" category="service" polarity="negative"/>
+    </aspects>
+</sentence>
+
+<sentence id="AS549" polarity="negative">
+    <text>disorganized reservation system, ineffective customer management, and poor guest services</text>
+    <aspects>
+        <aspectTerm term="reservation system" position="2" RelTerm="disorganized" category="service" polarity="negative"/>
+        <aspectTerm term="customer management" position="4" RelTerm="ineffective" category="service" polarity="negative"/>
+        <aspectTerm term="guest services" position="6" RelTerm="poor" category="service" polarity="negative"/>
+    </aspects>
+</sentence>
+
+<sentence id="AS550" polarity="negative">
+    <text>unreliable reservation system, weak guest management, and outdated customer service</text>
+    <aspects>
+        <aspectTerm term="reservation system" position="2" RelTerm="unreliable" category="service" polarity="negative"/>
+        <aspectTerm term="guest management" position="4" RelTerm="weak" category="service" polarity="negative"/>
+        <aspectTerm term="customer service" position="6" RelTerm="outdated" category="service" polarity="negative"/>
+    </aspects>
+</sentence>
+
+<sentence id="AS551" polarity="negative">
+    <text>ineffective reservation process, poor security management, and weak customer service</text>
+    <aspects>
+        <aspectTerm term="reservation process" position="2" RelTerm="ineffective" category="service" polarity="negative"/>
+        <aspectTerm term="security management" position="4" RelTerm="poor" category="service" polarity="negative"/>
+        <aspectTerm term="customer service" position="6" RelTerm="weak" category="service" polarity="negative"/>
+    </aspects>
+</sentence>
+
+<sentence id="AS552" polarity="negative">
+    <text>confusing reservation system, outdated customer experience, and weak guest management</text>
+    <aspects>
+        <aspectTerm term="reservation system" position="2" RelTerm="confusing" category="service" polarity="negative"/>
+        <aspectTerm term="customer experience" position="4" RelTerm="outdated" category="service" polarity="negative"/>
+        <aspectTerm term="guest management" position="6" RelTerm="weak" category="service" polarity="negative"/>
+    </aspects>
+</sentence>
+
+<sentence id="AS553" polarity="negative">
+    <text>unresponsive reservation system, poor guest management, and outdated security</text>
+    <aspects>
+        <aspectTerm term="reservation system" position="2" RelTerm="unresponsive" category="service" polarity="negative"/>
+        <aspectTerm term="guest management" position="4" RelTerm="poor" category="service" polarity="negative"/>
+        <aspectTerm term="security" position="6" RelTerm="outdated" category="service" polarity="negative"/>
+    </aspects>
+</sentence>
+
+<sentence id="AS554" polarity="negative">
+    <text>inefficient reservation system, outdated guest services, and poor customer management</text>
+    <aspects>
+        <aspectTerm term="reservation system" position="2" RelTerm="inefficient" category="service" polarity="negative"/>
+        <aspectTerm term="guest services" position="4" RelTerm="outdated" category="service" polarity="negative"/>
+        <aspectTerm term="customer management" position="6" RelTerm="poor" category="service" polarity="negative"/>
+    </aspects>
+</sentence>
+
+<sentence id="AS555" polarity="negative">
+    <text>confusing reservation process, ineffective guest management, and outdated customer service</text>
+    <aspects>
+        <aspectTerm term="reservation process" position="2" RelTerm="confusing" category="service" polarity="negative"/>
+        <aspectTerm term="guest management" position="4" RelTerm="ineffective" category="service" polarity="negative"/>
+        <aspectTerm term="customer service" position="6" RelTerm="outdated" category="service" polarity="negative"/>
+    </aspects>
+</sentence>
+
+<sentence id="AS556" polarity="negative">
+    <text>disorganized reservation system, poor customer service, and inadequate security management</text>
+    <aspects>
+        <aspectTerm term="reservation system" position="2" RelTerm="disorganized" category="service" polarity="negative"/>
+        <aspectTerm term="customer service" position="4" RelTerm="poor" category="service" polarity="negative"/>
+        <aspectTerm term="security management" position="6" RelTerm="inadequate" category="service" polarity="negative"/>
+    </aspects>
+</sentence>
+
+<sentence id="AS557" polarity="negative">
+    <text>ineffective reservation system, outdated guest management, and weak customer experience</text>
+    <aspects>
+        <aspectTerm term="reservation system" position="2" RelTerm="ineffective" category="service" polarity="negative"/>
+        <aspectTerm term="guest management" position="4" RelTerm="outdated" category="service" polarity="negative"/>
+        <aspectTerm term="customer experience" position="6" RelTerm="weak" category="service" polarity="negative"/>
+    </aspects>
+</sentence>
+
+<sentence id="AS558" polarity="negative">
+    <text>unresponsive reservation system, poor guest services, and ineffective security management</text>
+    <aspects>
+        <aspectTerm term="reservation system" position="2" RelTerm="unresponsive" category="service" polarity="negative"/>
+        <aspectTerm term="guest services" position="4" RelTerm="poor" category="service" polarity="negative"/>
+        <aspectTerm term="security management" position="6" RelTerm="ineffective" category="service" polarity="negative"/>
+    </aspects>
+</sentence>
+
+<sentence id="AS559" polarity="negative">
+    <text>confusing reservation process, weak customer service, and outdated guest management</text>
+    <aspects>
+        <aspectTerm term="reservation process" position="2" RelTerm="confusing" category="service" polarity="negative"/>
+        <aspectTerm term="customer service" position="4" RelTerm="weak" category="service" polarity="negative"/>
+        <aspectTerm term="guest management" position="6" RelTerm="outdated" category="service" polarity="negative"/>
+    </aspects>
+</sentence>
+
+<sentence id="AS560" polarity="negative">
+    <text>inefficient reservation handling, poor customer experience, and weak guest management</text>
+    <aspects>
+        <aspectTerm term="reservation handling" position="2" RelTerm="inefficient" category="service" polarity="negative"/>
+        <aspectTerm term="customer experience" position="4" RelTerm="poor" category="service" polarity="negative"/>
+        <aspectTerm term="guest management" position="6" RelTerm="weak" category="service" polarity="negative"/>
+    </aspects>
+</sentence>
+
+<sentence id="AS561" polarity="negative">
+    <text>disorganized reservation system, outdated guest services, and ineffective security management</text>
+    <aspects>
+        <aspectTerm term="reservation system" position="2" RelTerm="disorganized" category="service" polarity="negative"/>
+        <aspectTerm term="guest services" position="4" RelTerm="outdated" category="service" polarity="negative"/>
+        <aspectTerm term="security management" position="6" RelTerm="ineffective" category="service" polarity="negative"/>
+    </aspects>
+</sentence>
+
+<sentence id="AS562" polarity="negative">
+    <text>unreliable reservation system, weak customer service, and poor guest management</text>
+    <aspects>
+        <aspectTerm term="reservation system" position="2" RelTerm="unreliable" category="service" polarity="negative"/>
+        <aspectTerm term="customer service" position="4" RelTerm="weak" category="service" polarity="negative"/>
+        <aspectTerm term="guest management" position="6" RelTerm="poor" category="service" polarity="negative"/>
+    </aspects>
+</sentence>
+
+<sentence id="AS563" polarity="negative">
+    <text>ineffective reservation process, outdated security management, and poor guest services</text>
+    <aspects>
+        <aspectTerm term="reservation process" position="2" RelTerm="ineffective" category="service" polarity="negative"/>
+        <aspectTerm term="security management" position="4" RelTerm="outdated" category="service" polarity="negative"/>
+        <aspectTerm term="guest services" position="6" RelTerm="poor" category="service" polarity="negative"/>
+    </aspects>
+</sentence>
+
+<sentence id="AS564" polarity="negative">
+    <text>confusing reservation system, ineffective customer management, and weak guest services</text>
+    <aspects>
+        <aspectTerm term="reservation system" position="2" RelTerm="confusing" category="service" polarity="negative"/>
+        <aspectTerm term="customer management" position="4" RelTerm="ineffective" category="service" polarity="negative"/>
+        <aspectTerm term="guest services" position="6" RelTerm="weak" category="service" polarity="negative"/>
+    </aspects>
+</sentence>
+
+<sentence id="AS565" polarity="negative">
+    <text>unresponsive reservation system, poor guest management, and outdated customer experience</text>
+    <aspects>
+        <aspectTerm term="reservation system" position="2" RelTerm="unresponsive" category="service" polarity="negative"/>
+        <aspectTerm term="guest management" position="4" RelTerm="poor" category="service" polarity="negative"/>
+        <aspectTerm term="customer experience" position="6" RelTerm="outdated" category="service" polarity="negative"/>
+    </aspects>
+</sentence>
+
+<sentence id="AS566" polarity="negative">
+    <text>inefficient reservation system, weak customer service, and poor security management</text>
+    <aspects>
+        <aspectTerm term="reservation system" position="2" RelTerm="inefficient" category="service" polarity="negative"/>
+        <aspectTerm term="customer service" position="4" RelTerm="weak" category="service" polarity="negative"/>
+        <aspectTerm term="security management" position="6" RelTerm="poor" category="service" polarity="negative"/>
+    </aspects>
+</sentence>
+
+<sentence id="AS567" polarity="negative">
+    <text>disorganized reservation handling, outdated guest services, and ineffective customer management</text>
+    <aspects>
+        <aspectTerm term="reservation handling" position="2" RelTerm="disorganized" category="service" polarity="negative"/>
+        <aspectTerm term="guest services" position="4" RelTerm="outdated" category="service" polarity="negative"/>
+        <aspectTerm term="customer management" position="6" RelTerm="ineffective" category="service" polarity="negative"/>
+    </aspects>
+</sentence>
+
+<sentence id="AS568" polarity="negative">
+    <text>unreliable reservation system, weak guest management, and outdated security management</text>
+    <aspects>
+        <aspectTerm term="reservation system" position="2" RelTerm="unreliable" category="service" polarity="negative"/>
+        <aspectTerm term="guest management" position="4" RelTerm="weak" category="service" polarity="negative"/>
+        <aspectTerm term="security management" position="6" RelTerm="outdated" category="service" polarity="negative"/>
+    </aspects>
+</sentence>
+
+<sentence id="AS569" polarity="negative">
+    <text>ineffective reservation process, poor customer experience, and weak guest management</text>
+    <aspects>
+        <aspectTerm term="reservation process" position="2" RelTerm="ineffective" category="service" polarity="negative"/>
+        <aspectTerm term="customer experience" position="4" RelTerm="poor" category="service" polarity="negative"/>
+        <aspectTerm term="guest management" position="6" RelTerm="weak" category="service" polarity="negative"/>
+    </aspects>
+</sentence>
+
+<sentence id="AS570" polarity="negative">
+    <text>confusing reservation system, ineffective security management, and poor guest services</text>
+    <aspects>
+        <aspectTerm term="reservation system" position="2" RelTerm="confusing" category="service" polarity="negative"/>
+        <aspectTerm term="security management" position="4" RelTerm="ineffective" category="service" polarity="negative"/>
+        <aspectTerm term="guest services" position="6" RelTerm="poor" category="service" polarity="negative"/>
+    </aspects>
+</sentence>
+
+<sentence id="AS571" polarity="negative">
+    <text>disorganized reservation process, weak guest services, and ineffective customer experience</text>
+    <aspects>
+        <aspectTerm term="reservation process" position="2" RelTerm="disorganized" category="service" polarity="negative"/>
+        <aspectTerm term="guest services" position="4" RelTerm="weak" category="service" polarity="negative"/>
+        <aspectTerm term="customer experience" position="6" RelTerm="ineffective" category="service" polarity="negative"/>
+    </aspects>
+</sentence>
+
+<sentence id="AS572" polarity="negative">
+    <text>unresponsive reservation system, poor security management, and outdated guest management</text>
+    <aspects>
+        <aspectTerm term="reservation system" position="2" RelTerm="unresponsive" category="service" polarity="negative"/>
+        <aspectTerm term="security management" position="4" RelTerm="poor" category="service" polarity="negative"/>
+        <aspectTerm term="guest management" position="6" RelTerm="outdated" category="service" polarity="negative"/>
+    </aspects>
+</sentence>
+
+<sentence id="AS573" polarity="negative">
+    <text>ineffective reservation system, outdated guest management, and weak customer service</text>
+    <aspects>
+        <aspectTerm term="reservation system" position="2" RelTerm="ineffective" category="service" polarity="negative"/>
+        <aspectTerm term="guest management" position="4" RelTerm="outdated" category="service" polarity="negative"/>
+        <aspectTerm term="customer service" position="6" RelTerm="weak" category="service" polarity="negative"/>
+    </aspects>
+</sentence>
+
+<sentence id="AS574" polarity="negative">
+    <text>disorganized reservation handling, poor security management, and ineffective guest services</text>
+    <aspects>
+        <aspectTerm term="reservation handling" position="2" RelTerm="disorganized" category="service" polarity="negative"/>
+        <aspectTerm term="security management" position="4" RelTerm="poor" category="service" polarity="negative"/>
+        <aspectTerm term="guest services" position="6" RelTerm="ineffective" category="service" polarity="negative"/>
+    </aspects>
+</sentence>
+<sentence id="AS575" polarity="negative">
+    <text>confusing reservation system, weak guest management, and poor customer service</text>
+    <aspects>
+        <aspectTerm term="reservation system" position="2" RelTerm="confusing" category="service" polarity="negative"/>
+        <aspectTerm term="guest management" position="4" RelTerm="weak" category="service" polarity="negative"/>
+        <aspectTerm term="customer service" position="6" RelTerm="poor" category="service" polarity="negative"/>
+    </aspects>
+</sentence>
+
+<sentence id="AS576" polarity="negative">
+    <text>ineffective reservation system, outdated guest management, and weak security management</text>
+    <aspects>
+        <aspectTerm term="reservation system" position="2" RelTerm="ineffective" category="service" polarity="negative"/>
+        <aspectTerm term="guest management" position="4" RelTerm="outdated" category="service" polarity="negative"/>
+        <aspectTerm term="security management" position="6" RelTerm="weak" category="service" polarity="negative"/>
+    </aspects>
+</sentence>
+
+<sentence id="AS577" polarity="negative">
+    <text>unreliable reservation system, poor guest management, and ineffective customer experience</text>
+    <aspects>
+        <aspectTerm term="reservation system" position="2" RelTerm="unreliable" category="service" polarity="negative"/>
+        <aspectTerm term="guest management" position="4" RelTerm="poor" category="service" polarity="negative"/>
+        <aspectTerm term="customer experience" position="6" RelTerm="ineffective" category="service" polarity="negative"/>
+    </aspects>
+</sentence>
+
+<sentence id="AS578" polarity="negative">
+    <text>ineffective reservation process, weak security management, and outdated guest services</text>
+    <aspects>
+        <aspectTerm term="reservation process" position="2" RelTerm="ineffective" category="service" polarity="negative"/>
+        <aspectTerm term="security management" position="4" RelTerm="weak" category="service" polarity="negative"/>
+        <aspectTerm term="guest services" position="6" RelTerm="outdated" category="service" polarity="negative"/>
+    </aspects>
+</sentence>
+
+<sentence id="AS579" polarity="negative">
+    <text>disorganized reservation system, weak customer service, and ineffective guest management</text>
+    <aspects>
+        <aspectTerm term="reservation system" position="2" RelTerm="disorganized" category="service" polarity="negative"/>
+        <aspectTerm term="customer service" position="4" RelTerm="weak" category="service" polarity="negative"/>
+        <aspectTerm term="guest management" position="6" RelTerm="ineffective" category="service" polarity="negative"/>
+    </aspects>
+</sentence>
+
+<sentence id="AS580" polarity="negative">
+    <text>unresponsive reservation process, poor security management, and outdated guest management</text>
+    <aspects>
+        <aspectTerm term="reservation process" position="2" RelTerm="unresponsive" category="service" polarity="negative"/>
+        <aspectTerm term="security management" position="4" RelTerm="poor" category="service" polarity="negative"/>
+        <aspectTerm term="guest management" position="6" RelTerm="outdated" category="service" polarity="negative"/>
+    </aspects>
+</sentence>
+
+<sentence id="AS581" polarity="negative">
+    <text>inefficient reservation system, weak guest management, and poor customer service</text>
+    <aspects>
+        <aspectTerm term="reservation system" position="2" RelTerm="inefficient" category="service" polarity="negative"/>
+        <aspectTerm term="guest management" position="4" RelTerm="weak" category="service" polarity="negative"/>
+        <aspectTerm term="customer service" position="6" RelTerm="poor" category="service" polarity="negative"/>
+    </aspects>
+</sentence>
+
+<sentence id="AS582" polarity="negative">
+    <text>confusing reservation system, ineffective guest management, and outdated customer experience</text>
+    <aspects>
+        <aspectTerm term="reservation system" position="2" RelTerm="confusing" category="service" polarity="negative"/>
+        <aspectTerm term="guest management" position="4" RelTerm="ineffective" category="service" polarity="negative"/>
+        <aspectTerm term="customer experience" position="6" RelTerm="outdated" category="service" polarity="negative"/>
+    </aspects>
+</sentence>
+
+<sentence id="AS583" polarity="negative">
+    <text>unresponsive reservation system, poor guest management, and ineffective security management</text>
+    <aspects>
+        <aspectTerm term="reservation system" position="2" RelTerm="unresponsive" category="service" polarity="negative"/>
+        <aspectTerm term="guest management" position="4" RelTerm="poor" category="service" polarity="negative"/>
+        <aspectTerm term="security management" position="6" RelTerm="ineffective" category="service" polarity="negative"/>
+    </aspects>
+</sentence>
+<sentence id="AS584" polarity="negative">
+    <text>ineffective reservation system, outdated guest management, and poor security management</text>
+    <aspects>
+        <aspectTerm term="reservation system" position="2" RelTerm="ineffective" category="service" polarity="negative"/>
+        <aspectTerm term="guest management" position="4" RelTerm="outdated" category="service" polarity="negative"/>
+        <aspectTerm term="security management" position="6" RelTerm="poor" category="service" polarity="negative"/>
+    </aspects>
+</sentence>
+
+<sentence id="AS585" polarity="negative">
+    <text>disorganized reservation process, weak customer service, and ineffective guest management</text>
+    <aspects>
+        <aspectTerm term="reservation process" position="2" RelTerm="disorganized" category="service" polarity="negative"/>
+        <aspectTerm term="customer service" position="4" RelTerm="weak" category="service" polarity="negative"/>
+        <aspectTerm term="guest management" position="6" RelTerm="ineffective" category="service" polarity="negative"/>
+    </aspects>
+</sentence>
+
+<sentence id="AS586" polarity="negative">
+    <text>inefficient reservation system, poor guest management, and outdated security management</text>
+    <aspects>
+        <aspectTerm term="reservation system" position="2" RelTerm="inefficient" category="service" polarity="negative"/>
+        <aspectTerm term="guest management" position="4" RelTerm="poor" category="service" polarity="negative"/>
+        <aspectTerm term="security management" position="6" RelTerm="outdated" category="service" polarity="negative"/>
+    </aspects>
+</sentence>
+
+<sentence id="AS587" polarity="negative">
+    <text>unreliable reservation system, weak guest services, and ineffective customer experience</text>
+    <aspects>
+        <aspectTerm term="reservation system" position="2" RelTerm="unreliable" category="service" polarity="negative"/>
+        <aspectTerm term="guest services" position="4" RelTerm="weak" category="service" polarity="negative"/>
+        <aspectTerm term="customer experience" position="6" RelTerm="ineffective" category="service" polarity="negative"/>
+    </aspects>
+</sentence>
+
+<sentence id="AS588" polarity="negative">
+    <text>confusing reservation system, poor guest management, and outdated security management</text>
+    <aspects>
+        <aspectTerm term="reservation system" position="2" RelTerm="confusing" category="service" polarity="negative"/>
+        <aspectTerm term="guest management" position="4" RelTerm="poor" category="service" polarity="negative"/>
+        <aspectTerm term="security management" position="6" RelTerm="outdated" category="service" polarity="negative"/>
+    </aspects>
+</sentence>
+
+<sentence id="AS589" polarity="negative">
+    <text>ineffective reservation system, weak guest management, and poor customer experience</text>
+    <aspects>
+        <aspectTerm term="reservation system" position="2" RelTerm="ineffective" category="service" polarity="negative"/>
+        <aspectTerm term="guest management" position="4" RelTerm="weak" category="service" polarity="negative"/>
+        <aspectTerm term="customer experience" position="6" RelTerm="poor" category="service" polarity="negative"/>
+    </aspects>
+</sentence>
+
+<sentence id="AS590" polarity="negative">
+    <text>disorganized reservation system, outdated guest management, and ineffective security management</text>
+    <aspects>
+        <aspectTerm term="reservation system" position="2" RelTerm="disorganized" category="service" polarity="negative"/>
+        <aspectTerm term="guest management" position="4" RelTerm="outdated" category="service" polarity="negative"/>
+        <aspectTerm term="security management" position="6" RelTerm="ineffective" category="service" polarity="negative"/>
+    </aspects>
+</sentence>
+
+<sentence id="AS591" polarity="negative">
+    <text>unresponsive reservation process, poor guest services, and outdated customer experience</text>
+    <aspects>
+        <aspectTerm term="reservation process" position="2" RelTerm="unresponsive" category="service" polarity="negative"/>
+        <aspectTerm term="guest services" position="4" RelTerm="poor" category="service" polarity="negative"/>
+        <aspectTerm term="customer experience" position="6" RelTerm="outdated" category="service" polarity="negative"/>
+    </aspects>
+</sentence>
+
+<sentence id="AS592" polarity="negative">
+    <text>ineffective reservation system, weak guest management, and poor security management</text>
+    <aspects>
+        <aspectTerm term="reservation system" position="2" RelTerm="ineffective" category="service" polarity="negative"/>
+        <aspectTerm term="guest management" position="4" RelTerm="weak" category="service" polarity="negative"/>
+        <aspectTerm term="security management" position="6" RelTerm="poor" category="service" polarity="negative"/>
+    </aspects>
+</sentence>
+
+<sentence id="AS593" polarity="negative">
+    <text>disorganized reservation process, outdated guest services, and weak customer experience</text>
+    <aspects>
+        <aspectTerm term="reservation process" position="2" RelTerm="disorganized" category="service" polarity="negative"/>
+        <aspectTerm term="guest services" position="4" RelTerm="outdated" category="service" polarity="negative"/>
+        <aspectTerm term="customer experience" position="6" RelTerm="weak" category="service" polarity="negative"/>
+    </aspects>
+</sentence>
+
+<sentence id="AS594" polarity="negative">
+    <text>unreliable reservation system, ineffective guest management, and poor security management</text>
+    <aspects>
+        <aspectTerm term="reservation system" position="2" RelTerm="unreliable" category="service" polarity="negative"/>
+        <aspectTerm term="guest management" position="4" RelTerm="ineffective" category="service" polarity="negative"/>
+        <aspectTerm term="security management" position="6" RelTerm="poor" category="service" polarity="negative"/>
+    </aspects>
+</sentence>
+
+<sentence id="AS595" polarity="negative">
+    <text>confusing reservation process, weak guest services, and outdated customer management</text>
+    <aspects>
+        <aspectTerm term="reservation process" position="2" RelTerm="confusing" category="service" polarity="negative"/>
+        <aspectTerm term="guest services" position="4" RelTerm="weak" category="service" polarity="negative"/>
+        <aspectTerm term="customer management" position="6" RelTerm="outdated" category="service" polarity="negative"/>
+    </aspects>
+</sentence>
+
+<sentence id="AS596" polarity="negative">
+    <text>inefficient reservation system, poor guest management, and ineffective security services</text>
+    <aspects>
+        <aspectTerm term="reservation system" position="2" RelTerm="inefficient" category="service" polarity="negative"/>
+        <aspectTerm term="guest management" position="4" RelTerm="poor" category="service" polarity="negative"/>
+        <aspectTerm term="security services" position="6" RelTerm="ineffective" category="service" polarity="negative"/>
+    </aspects>
+</sentence>
+
+<sentence id="AS597" polarity="negative">
+    <text>unresponsive reservation system, outdated guest management, and weak security management</text>
+    <aspects>
+        <aspectTerm term="reservation system" position="2" RelTerm="unresponsive" category="service" polarity="negative"/>
+        <aspectTerm term="guest management" position="4" RelTerm="outdated" category="service" polarity="negative"/>
+        <aspectTerm term="security management" position="6" RelTerm="weak" category="service" polarity="negative"/>
+    </aspects>
+</sentence>
+
+<sentence id="AS598" polarity="negative">
+    <text>disorganized reservation system, poor customer management, and ineffective guest services</text>
+    <aspects>
+        <aspectTerm term="reservation system" position="2" RelTerm="disorganized" category="service" polarity="negative"/>
+        <aspectTerm term="customer management" position="4" RelTerm="poor" category="service" polarity="negative"/>
+        <aspectTerm term="guest services" position="6" RelTerm="ineffective" category="service" polarity="negative"/>
+    </aspects>
+</sentence>
+
+<sentence id="AS599" polarity="negative">
+    <text>inefficient reservation system, weak guest services, and outdated security management</text>
+    <aspects>
+        <aspectTerm term="reservation system" position="2" RelTerm="inefficient" category="service" polarity="negative"/>
+        <aspectTerm term="guest services" position="4" RelTerm="weak" category="service" polarity="negative"/>
+        <aspectTerm term="security management" position="6" RelTerm="outdated" category="service" polarity="negative"/>
+    </aspects>
+</sentence>
+
+<sentence id="AS600" polarity="negative">
+    <text>unreliable reservation process, ineffective guest management, and poor security management</text>
+    <aspects>
+        <aspectTerm term="reservation process" position="2" RelTerm="unreliable" category="service" polarity="negative"/>
+        <aspectTerm term="guest management" position="4" RelTerm="ineffective" category="service" polarity="negative"/>
+        <aspectTerm term="security management" position="6" RelTerm="poor" category="service" polarity="negative"/>
+    </aspects>
+</sentence>
+
+<sentence id="AS601" polarity="negative">
+    <text>disorganized reservation system, ineffective guest management, and outdated security management</text>
+    <aspects>
+        <aspectTerm term="reservation system" position="2" RelTerm="disorganized" category="service" polarity="negative"/>
+        <aspectTerm term="guest management" position="4" RelTerm="ineffective" category="service" polarity="negative"/>
+        <aspectTerm term="security management" position="6" RelTerm="outdated" category="service" polarity="negative"/>
+    </aspects>
+</sentence>
+
+<sentence id="AS602" polarity="negative">
+    <text>confusing reservation system, poor guest services, and ineffective customer management</text>
+    <aspects>
+        <aspectTerm term="reservation system" position="2" RelTerm="confusing" category="service" polarity="negative"/>
+        <aspectTerm term="guest services" position="4" RelTerm="poor" category="service" polarity="negative"/>
+        <aspectTerm term="customer management" position="6" RelTerm="ineffective" category="service" polarity="negative"/>
+    </aspects>
+</sentence>
+
+<sentence id="AS603" polarity="negative">
+    <text>inefficient reservation process, weak guest management, and outdated security services</text>
+    <aspects>
+        <aspectTerm term="reservation process" position="2" RelTerm="inefficient" category="service" polarity="negative"/>
+        <aspectTerm term="guest management" position="4" RelTerm="weak" category="service" polarity="negative"/>
+        <aspectTerm term="security services" position="6" RelTerm="outdated" category="service" polarity="negative"/>
+    </aspects>
+</sentence>
+
+<sentence id="AS604" polarity="negative">
+    <text>unresponsive reservation system, poor guest services, and ineffective security management</text>
+    <aspects>
+        <aspectTerm term="reservation system" position="2" RelTerm="unresponsive" category="service" polarity="negative"/>
+        <aspectTerm term="guest services" position="4" RelTerm="poor" category="service" polarity="negative"/>
+        <aspectTerm term="security management" position="6" RelTerm="ineffective" category="service" polarity="negative"/>
+    </aspects>
+</sentence>
+
+<sentence id="AS605" polarity="negative">
+    <text>confusing reservation process, outdated guest management, and weak security services</text>
+    <aspects>
+        <aspectTerm term="reservation process" position="2" RelTerm="confusing" category="service" polarity="negative"/>
+        <aspectTerm term="guest management" position="4" RelTerm="outdated" category="service" polarity="negative"/>
+        <aspectTerm term="security services" position="6" RelTerm="weak" category="service" polarity="negative"/>
+    </aspects>
+</sentence>

@@ -1,0 +1,2571 @@
+<sentence id="AS001" polarity="positive">
+    <text>impressive and efficient staff, spacious and comfortable rooms, excellent breakfast options</text>
+    <aspects>
+        <aspectTerm term="staff" position="3" RelTerm="impressive and efficient" category="service" polarity="positive"/>
+        <aspectTerm term="rooms" position="6" RelTerm="spacious and comfortable" category="room" polarity="positive"/>
+        <aspectTerm term="breakfast" position="9" RelTerm="excellent" category="food" polarity="positive"/>
+    </aspects>
+</sentence>
+xml
+Copy code
+<sentence id="AS002" polarity="positive">
+    <text>memorable experience, courteous and helpful staff, exceeded expectations in the restaurant</text>
+    <aspects>
+        <aspectTerm term="experience" position="2" RelTerm="memorable" category="overall" polarity="positive"/>
+        <aspectTerm term="staff" position="5" RelTerm="courteous and helpful" category="service" polarity="positive"/>
+        <aspectTerm term="restaurant" position="9" RelTerm="exceeded expectations" category="food" polarity="positive"/>
+    </aspects>
+</sentence>
+xml
+Copy code
+<sentence id="AS003" polarity="positive">
+    <text>fantastic accommodations, friendly and attentive staff, exceeded expectations in the spa</text>
+    <aspects>
+        <aspectTerm term="accommodations" position="2" RelTerm="fantastic" category="room" polarity="positive"/>
+        <aspectTerm term="staff" position="5" RelTerm="friendly and attentive" category="service" polarity="positive"/>
+        <aspectTerm term="spa" position="9" RelTerm="exceeded expectations" category="amenities" polarity="positive"/>
+    </aspects>
+</sentence>
+xml
+Copy code
+<sentence id="AS004" polarity="positive">
+    <text>memorable experience, attentive and courteous staff, exceeded expectations in the pool area</text>
+    <aspects>
+        <aspectTerm term="experience" position="2" RelTerm="memorable" category="overall" polarity="positive"/>
+        <aspectTerm term="staff" position="5" RelTerm="attentive and courteous" category="service" polarity="positive"/>
+        <aspectTerm term="pool area" position="9" RelTerm="exceeded expectations" category="amenities" polarity="positive"/>
+    </aspects>
+</sentence>
+xml
+Copy code
+<sentence id="AS005" polarity="positive">
+    <text>enjoyable stay, cozy and clean rooms, exceptional service at the front desk</text>
+    <aspects>
+        <aspectTerm term="stay" position="2" RelTerm="enjoyable" category="overall" polarity="positive"/>
+        <aspectTerm term="rooms" position="5" RelTerm="cozy and clean" category="room" polarity="positive"/>
+        <aspectTerm term="front desk" position="9" RelTerm="exceptional" category="service" polarity="positive"/>
+    </aspects>
+</sentence>
+xml
+Copy code
+<sentence id="AS006" polarity="positive">
+    <text>impressive service, comfortable and spacious rooms, exceeded expectations in the fitness center</text>
+    <aspects>
+        <aspectTerm term="service" position="2" RelTerm="impressive" category="service" polarity="positive"/>
+        <aspectTerm term="rooms" position="5" RelTerm="comfortable and spacious" category="room" polarity="positive"/>
+        <aspectTerm term="fitness center" position="9" RelTerm="exceeded expectations" category="amenities" polarity="positive"/>
+    </aspects>
+</sentence>
+
+<sentence id="AS007" polarity="positive">
+    <text>excellent accommodations, friendly and accommodating staff, exceptional service at the restaurant</text>
+    <aspects>
+        <aspectTerm term="accommodations" position="2" RelTerm="excellent" category="room" polarity="positive"/>
+        <aspectTerm term="staff" position="5" RelTerm="friendly and accommodating" category="service" polarity="positive"/>
+        <aspectTerm term="restaurant" position="9" RelTerm="exceptional" category="food" polarity="positive"/>
+    </aspects>
+</sentence>
+
+<sentence id="AS008" polarity="positive">
+    <text>wonderful experience, attentive and helpful staff, exceeded expectations in the bar area</text>
+    <aspects>
+        <aspectTerm term="experience" position="2" RelTerm="wonderful" category="overall" polarity="positive"/>
+        <aspectTerm term="staff" position="5" RelTerm="attentive and helpful" category="service" polarity="positive"/>
+        <aspectTerm term="bar area" position="9" RelTerm="exceeded expectations" category="amenities" polarity="positive"/>
+    </aspects>
+</sentence>
+
+<sentence id="AS009" polarity="positive">
+    <text>amazing accommodations, friendly and attentive staff, exceptional service at the spa</text>
+    <aspects>
+        <aspectTerm term="accommodations" position="2" RelTerm="amazing" category="room" polarity="positive"/>
+        <aspectTerm term="staff" position="5" RelTerm="friendly and attentive" category="service" polarity="positive"/>
+        <aspectTerm term="spa" position="9" RelTerm="exceptional" category="amenities" polarity="positive"/>
+    </aspects>
+</sentence>
+
+<sentence id="AS010" polarity="positive">
+    <text>unforgettable experience, courteous and professional staff, exceptional service at the front desk</text>
+    <aspects>
+        <aspectTerm term="experience" position="2" RelTerm="unforgettable" category="overall" polarity="positive"/>
+        <aspectTerm term="staff" position="5" RelTerm="courteous and professional" category="service" polarity="positive"/>
+        <aspectTerm term="front desk" position="9" RelTerm="exceptional" category="service" polarity="positive"/>
+    </aspects>
+</sentence>
+<sentence id="AS011" polarity="positive">
+    <text>excellent service, stylish and comfortable rooms, exceptional service at the restaurant</text>
+    <aspects>
+        <aspectTerm term="service" position="2" RelTerm="excellent" category="service" polarity="positive"/>
+        <aspectTerm term="rooms" position="5" RelTerm="stylish and comfortable" category="room" polarity="positive"/>
+        <aspectTerm term="restaurant" position="9" RelTerm="exceptional" category="food" polarity="positive"/>
+    </aspects>
+</sentence>
+
+<sentence id="AS012" polarity="positive">
+    <text>amazing accommodations, friendly and attentive staff, exceeded expectations in the pool area</text>
+    <aspects>
+        <aspectTerm term="accommodations" position="2" RelTerm="amazing" category="room" polarity="positive"/>
+        <aspectTerm term="staff" position="5" RelTerm="friendly and attentive" category="service" polarity="positive"/>
+        <aspectTerm term="pool area" position="9" RelTerm="exceeded expectations" category="amenities" polarity="positive"/>
+    </aspects>
+</sentence>
+
+<sentence id="AS013" polarity="positive">
+    <text>unforgettable experience, courteous and professional staff, exceptional service at the bar</text>
+    <aspects>
+        <aspectTerm term="experience" position="2" RelTerm="unforgettable" category="overall" polarity="positive"/>
+        <aspectTerm term="staff" position="5" RelTerm="courteous and professional" category="service" polarity="positive"/>
+        <aspectTerm term="bar" position="9" RelTerm="exceptional" category="amenities" polarity="positive"/>
+    </aspects>
+</sentence>
+
+<sentence id="AS014" polarity="positive">
+    <text>amazing service, cozy and clean rooms, exceeded expectations in the fitness center</text>
+    <aspects>
+        <aspectTerm term="service" position="2" RelTerm="amazing" category="service" polarity="positive"/>
+        <aspectTerm term="rooms" position="5" RelTerm="cozy and clean" category="room" polarity="positive"/>
+        <aspectTerm term="fitness center" position="9" RelTerm="exceeded expectations" category="amenities" polarity="positive"/>
+    </aspects>
+</sentence>
+
+<sentence id="AS015" polarity="positive">
+    <text>wonderful stay, attentive and friendly staff, exceptional service at the spa</text>
+    <aspects>
+        <aspectTerm term="stay" position="2" RelTerm="wonderful" category="overall" polarity="positive"/>
+        <aspectTerm term="staff" position="5" RelTerm="attentive and friendly" category="service" polarity="positive"/>
+        <aspectTerm term="spa" position="9" RelTerm="exceptional" category="amenities" polarity="positive"/>
+    </aspects>
+</sentence>
+
+<sentence id="AS016" polarity="positive">
+    <text>excellent experience, professional and courteous staff, exceeded expectations in the restaurant</text>
+    <aspects>
+        <aspectTerm term="experience" position="2" RelTerm="excellent" category="overall" polarity="positive"/>
+        <aspectTerm term="staff" position="5" RelTerm="professional and courteous" category="service" polarity="positive"/>
+        <aspectTerm term="restaurant" position="9" RelTerm="exceeded expectations" category="food" polarity="positive"/>
+    </aspects>
+</sentence>
+
+<sentence id="AS017" polarity="positive">
+    <text>outstanding service, elegant and comfortable rooms, exceptional service at the front desk</text>
+    <aspects>
+        <aspectTerm term="service" position="2" RelTerm="outstanding" category="service" polarity="positive"/>
+        <aspectTerm term="rooms" position="5" RelTerm="elegant and comfortable" category="room" polarity="positive"/>
+        <aspectTerm term="front desk" position="9" RelTerm="exceptional" category="service" polarity="positive"/>
+    </aspects>
+</sentence>
+
+<sentence id="AS018" polarity="positive">
+    <text>fantastic stay, helpful and accommodating staff, exceeded expectations in the lounge</text>
+    <aspects>
+        <aspectTerm term="stay" position="2" RelTerm="fantastic" category="overall" polarity="positive"/>
+        <aspectTerm term="staff" position="5" RelTerm="helpful and accommodating" category="service" polarity="positive"/>
+        <aspectTerm term="lounge" position="9" RelTerm="exceeded expectations" category="amenities" polarity="positive"/>
+    </aspects>
+</sentence>
+
+<sentence id="AS019" polarity="positive">
+    <text>exceptional service, modern and spacious rooms, exceeded expectations in the business center</text>
+    <aspects>
+        <aspectTerm term="service" position="2" RelTerm="exceptional" category="service" polarity="positive"/>
+        <aspectTerm term="rooms" position="5" RelTerm="modern and spacious" category="room" polarity="positive"/>
+        <aspectTerm term="business center" position="9" RelTerm="exceeded expectations" category="amenities" polarity="positive"/>
+    </aspects>
+</sentence>
+
+<sentence id="AS020" polarity="positive">
+    <text>amazing experience, attentive and friendly staff, exceeded expectations in the conference facilities</text>
+    <aspects>
+        <aspectTerm term="experience" position="2" RelTerm="amazing" category="overall" polarity="positive"/>
+        <aspectTerm term="staff" position="5" RelTerm="attentive and friendly" category="service" polarity="positive"/>
+        <aspectTerm term="conference facilities" position="9" RelTerm="exceeded expectations" category="amenities" polarity="positive"/>
+    </aspects>
+</sentence>
+<sentence id="AS021" polarity="positive">
+    <text>exceptional service, luxurious and spacious rooms, exceeded expectations in the dining options</text>
+    <aspects>
+        <aspectTerm term="service" position="2" RelTerm="exceptional" category="service" polarity="positive"/>
+        <aspectTerm term="rooms" position="5" RelTerm="luxurious and spacious" category="room" polarity="positive"/>
+        <aspectTerm term="dining options" position="9" RelTerm="exceeded expectations" category="food" polarity="positive"/>
+    </aspects>
+</sentence>
+xml
+Copy code
+<sentence id="AS022" polarity="positive">
+    <text>outstanding experience, attentive and professional staff, exceeded expectations in the entertainment facilities</text>
+    <aspects>
+        <aspectTerm term="experience" position="2" RelTerm="outstanding" category="overall" polarity="positive"/>
+        <aspectTerm term="staff" position="5" RelTerm="attentive and professional" category="service" polarity="positive"/>
+        <aspectTerm term="entertainment facilities" position="9" RelTerm="exceeded expectations" category="amenities" polarity="positive"/>
+    </aspects>
+</sentence>
+xml
+Copy code
+<sentence id="AS023" polarity="positive">
+    <text>wonderful service, cozy and elegant rooms, exceptional service at the spa</text>
+    <aspects>
+        <aspectTerm term="service" position="2" RelTerm="wonderful" category="service" polarity="positive"/>
+        <aspectTerm term="rooms" position="5" RelTerm="cozy and elegant" category="room" polarity="positive"/>
+        <aspectTerm term="spa" position="9" RelTerm="exceptional" category="amenities" polarity="positive"/>
+    </aspects>
+</sentence>
+xml
+Copy code
+<sentence id="AS024" polarity="positive">
+    <text>excellent experience, friendly and accommodating staff, exceeded expectations in the recreational facilities</text>
+    <aspects>
+        <aspectTerm term="experience" position="2" RelTerm="excellent" category="overall" polarity="positive"/>
+        <aspectTerm term="staff" position="5" RelTerm="friendly and accommodating" category="service" polarity="positive"/>
+        <aspectTerm term="recreational facilities" position="9" RelTerm="exceeded expectations" category="amenities" polarity="positive"/>
+    </aspects>
+</sentence>
+
+<sentence id="AS025" polarity="positive">
+    <text>amazing service, comfortable and modern rooms, exceeded expectations in the business facilities</text>
+    <aspects>
+        <aspectTerm term="service" position="2" RelTerm="amazing" category="service" polarity="positive"/>
+        <aspectTerm term="rooms" position="5" RelTerm="comfortable and modern" category="room" polarity="positive"/>
+        <aspectTerm term="business facilities" position="9" RelTerm="exceeded expectations" category="amenities" polarity="positive"/>
+    </aspects>
+</sentence>
+
+<sentence id="AS026" polarity="positive">
+    <text>exceptional service, stylish and spacious rooms, exceeded expectations in the entertainment options</text>
+    <aspects>
+        <aspectTerm term="service" position="2" RelTerm="exceptional" category="service" polarity="positive"/>
+        <aspectTerm term="rooms" position="5" RelTerm="stylish and spacious" category="room" polarity="positive"/>
+        <aspectTerm term="entertainment options" position="9" RelTerm="exceeded expectations" category="amenities" polarity="positive"/>
+    </aspects>
+</sentence>
+
+<sentence id="AS027" polarity="positive">
+    <text>outstanding experience, attentive and friendly staff, exceeded expectations in the conference facilities</text>
+    <aspects>
+        <aspectTerm term="experience" position="2" RelTerm="outstanding" category="overall" polarity="positive"/>
+        <aspectTerm term="staff" position="5" RelTerm="attentive and friendly" category="service" polarity="positive"/>
+        <aspectTerm term="conference facilities" position="9" RelTerm="exceeded expectations" category="amenities" polarity="positive"/>
+    </aspects>
+</sentence>
+
+<sentence id="AS028" polarity="positive">
+    <text>fantastic service, cozy and comfortable rooms, exceeded expectations in the fitness facilities</text>
+    <aspects>
+        <aspectTerm term="service" position="2" RelTerm="fantastic" category="service" polarity="positive"/>
+        <aspectTerm term="rooms" position="5" RelTerm="cozy and comfortable" category="room" polarity="positive"/>
+        <aspectTerm term="fitness facilities" position="9" RelTerm="exceeded expectations" category="amenities" polarity="positive"/>
+    </aspects>
+</sentence>
+
+<sentence id="AS029" polarity="positive">
+    <text>amazing experience, professional and courteous staff, exceeded expectations in the business facilities</text>
+    <aspects>
+        <aspectTerm term="experience" position="2" RelTerm="amazing" category="overall" polarity="positive"/>
+        <aspectTerm term="staff" position="5" RelTerm="professional and courteous" category="service" polarity="positive"/>
+        <aspectTerm term="business facilities" position="9" RelTerm="exceeded expectations" category="amenities" polarity="positive"/>
+    </aspects>
+</sentence>
+
+<sentence id="AS030" polarity="positive">
+    <text>outstanding service, elegant and spacious rooms, exceeded expectations in the dining options</text>
+    <aspects>
+        <aspectTerm term="service" position="2" RelTerm="outstanding" category="service" polarity="positive"/>
+        <aspectTerm term="rooms" position="5" RelTerm="elegant and spacious" category="room" polarity="positive"/>
+        <aspectTerm term="dining options" position="9" RelTerm="exceeded expectations" category="food" polarity="positive"/>
+    </aspects>
+</sentence>
+<sentence id="AS031" polarity="positive">
+    <text>exceptional service, modern and comfortable rooms, exceeded expectations in the recreational facilities</text>
+    <aspects>
+        <aspectTerm term="service" position="2" RelTerm="exceptional" category="service" polarity="positive"/>
+        <aspectTerm term="rooms" position="5" RelTerm="modern and comfortable" category="room" polarity="positive"/>
+        <aspectTerm term="recreational facilities" position="9" RelTerm="exceeded expectations" category="amenities" polarity="positive"/>
+    </aspects>
+</sentence>
+
+<sentence id="AS032" polarity="positive">
+    <text>amazing experience, friendly and attentive staff, exceeded expectations in the entertainment options</text>
+    <aspects>
+        <aspectTerm term="experience" position="2" RelTerm="amazing" category="overall" polarity="positive"/>
+        <aspectTerm term="staff" position="5" RelTerm="friendly and attentive" category="service" polarity="positive"/>
+        <aspectTerm term="entertainment options" position="9" RelTerm="exceeded expectations" category="amenities" polarity="positive"/>
+    </aspects>
+</sentence>
+
+<sentence id="AS033" polarity="positive">
+    <text>wonderful service, elegant and comfortable rooms, exceeded expectations in the business facilities</text>
+    <aspects>
+        <aspectTerm term="service" position="2" RelTerm="wonderful" category="service" polarity="positive"/>
+        <aspectTerm term="rooms" position="5" RelTerm="elegant and comfortable" category="room" polarity="positive"/>
+        <aspectTerm term="business facilities" position="9" RelTerm="exceeded expectations" category="amenities" polarity="positive"/>
+    </aspects>
+</sentence>
+
+<sentence id="AS034" polarity="positive">
+    <text>excellent service, cozy and modern rooms, exceeded expectations in the dining options</text>
+    <aspects>
+        <aspectTerm term="service" position="2" RelTerm="excellent" category="service" polarity="positive"/>
+        <aspectTerm term="rooms" position="5" RelTerm="cozy and modern" category="room" polarity="positive"/>
+        <aspectTerm term="dining options" position="9" RelTerm="exceeded expectations" category="food" polarity="positive"/>
+    </aspects>
+</sentence>
+
+<sentence id="AS035" polarity="positive">
+    <text>fantastic experience, friendly and helpful staff, exceeded expectations in the recreational facilities</text>
+    <aspects>
+        <aspectTerm term="experience" position="2" RelTerm="fantastic" category="overall" polarity="positive"/>
+        <aspectTerm term="staff" position="5" RelTerm="friendly and helpful" category="service" polarity="positive"/>
+        <aspectTerm term="recreational facilities" position="9" RelTerm="exceeded expectations" category="amenities" polarity="positive"/>
+    </aspects>
+</sentence>
+
+<sentence id="AS036" polarity="positive">
+    <text>amazing service, elegant and spacious rooms, exceeded expectations in the entertainment facilities</text>
+    <aspects>
+        <aspectTerm term="service" position="2" RelTerm="amazing" category="service" polarity="positive"/>
+        <aspectTerm term="rooms" position="5" RelTerm="elegant and spacious" category="room" polarity="positive"/>
+        <aspectTerm term="entertainment facilities" position="9" RelTerm="exceeded expectations" category="amenities" polarity="positive"/>
+    </aspects>
+</sentence>
+
+<sentence id="AS037" polarity="positive">
+    <text>outstanding service, cozy and comfortable rooms, exceeded expectations in the business facilities</text>
+    <aspects>
+        <aspectTerm term="service" position="2" RelTerm="outstanding" category="service" polarity="positive"/>
+        <aspectTerm term="rooms" position="5" RelTerm="cozy and comfortable" category="room" polarity="positive"/>
+        <aspectTerm term="business facilities" position="9" RelTerm="exceeded expectations" category="amenities" polarity="positive"/>
+    </aspects>
+</sentence>
+<sentence id="AS039" polarity="positive">
+    <text>impeccable service, modern and cozy rooms, exceptional pool facilities</text>
+    <aspects>
+        <aspectTerm term="service" position="2" RelTerm="impeccable" category="service" polarity="positive"/>
+        <aspectTerm term="rooms" position="5" RelTerm="modern and cozy" category="room" polarity="positive"/>
+        <aspectTerm term="pool facilities" position="9" RelTerm="exceptional" category="amenities" polarity="positive"/>
+    </aspects>
+</sentence>
+
+<sentence id="AS040" polarity="positive">
+    <text>fantastic stay, attentive and friendly staff, excellent security measures</text>
+    <aspects>
+        <aspectTerm term="stay" position="2" RelTerm="fantastic" category="overall" polarity="positive"/>
+        <aspectTerm term="staff" position="5" RelTerm="attentive and friendly" category="service" polarity="positive"/>
+        <aspectTerm term="security measures" position="9" RelTerm="excellent" category="security" polarity="positive"/>
+    </aspects>
+</sentence>
+
+<sentence id="AS041" polarity="positive">
+    <text>wonderful experience, elegant and spacious rooms, outstanding fitness center</text>
+    <aspects>
+        <aspectTerm term="experience" position="2" RelTerm="wonderful" category="overall" polarity="positive"/>
+        <aspectTerm term="rooms" position="5" RelTerm="elegant and spacious" category="room" polarity="positive"/>
+        <aspectTerm term="fitness center" position="9" RelTerm="outstanding" category="amenities" polarity="positive"/>
+    </aspects>
+</sentence>
+
+<sentence id="AS042" polarity="positive">
+    <text>exceptional service, cozy and comfortable rooms, reliable Wi-Fi connection</text>
+    <aspects>
+        <aspectTerm term="service" position="2" RelTerm="exceptional" category="service" polarity="positive"/>
+        <aspectTerm term="rooms" position="5" RelTerm="cozy and comfortable" category="room" polarity="positive"/>
+        <aspectTerm term="Wi-Fi connection" position="9" RelTerm="reliable" category="technology" polarity="positive"/>
+    </aspects>
+</sentence>
+
+<sentence id="AS043" polarity="positive">
+    <text>amazing service, stylish and modern rooms, impressive pool area</text>
+    <aspects>
+        <aspectTerm term="service" position="2" RelTerm="amazing" category="service" polarity="positive"/>
+        <aspectTerm term="rooms" position="5" RelTerm="stylish and modern" category="room" polarity="positive"/>
+        <aspectTerm term="pool area" position="9" RelTerm="impressive" category="amenities" polarity="positive"/>
+    </aspects>
+</sentence>
+
+<sentence id="AS044" polarity="positive">
+    <text>outstanding experience, attentive and professional staff, excellent security arrangements</text>
+    <aspects>
+        <aspectTerm term="experience" position="2" RelTerm="outstanding" category="overall" polarity="positive"/>
+        <aspectTerm term="staff" position="5" RelTerm="attentive and professional" category="service" polarity="positive"/>
+        <aspectTerm term="security arrangements" position="9" RelTerm="excellent" category="security" polarity="positive"/>
+    </aspects>
+</sentence>
+
+<sentence id="AS045" polarity="positive">
+    <text>impressive service, cozy and comfortable rooms, outstanding fitness facilities</text>
+    <aspects>
+        <aspectTerm term="service" position="2" RelTerm="impressive" category="service" polarity="positive"/>
+        <aspectTerm term="rooms" position="5" RelTerm="cozy and comfortable" category="room" polarity="positive"/>
+        <aspectTerm term="fitness facilities" position="9" RelTerm="outstanding" category="amenities" polarity="positive"/>
+    </aspects>
+</sentence>
+
+<sentence id="AS046" polarity="positive">
+    <text>exceptional service, elegant and spacious rooms, reliable Wi-Fi access</text>
+    <aspects>
+        <aspectTerm term="service" position="2" RelTerm="exceptional" category="service" polarity="positive"/>
+        <aspectTerm term="rooms" position="5" RelTerm="elegant and spacious" category="room" polarity="positive"/>
+        <aspectTerm term="Wi-Fi access" position="9" RelTerm="reliable" category="technology" polarity="positive"/>
+    </aspects>
+</sentence>
+
+<sentence id="AS047" polarity="positive">
+    <text>fantastic experience, friendly and helpful staff, excellent pool facilities</text>
+    <aspects>
+        <aspectTerm term="experience" position="2" RelTerm="fantastic" category="overall" polarity="positive"/>
+        <aspectTerm term="staff" position="5" RelTerm="friendly and helpful" category="service" polarity="positive"/>
+        <aspectTerm term="pool facilities" position="9" RelTerm="excellent" category="amenities" polarity="positive"/>
+    </aspects>
+</sentence>
+<sentence id="AS048" polarity="positive">
+    <text>amazing service, cozy and modern rooms, outstanding security measures</text>
+    <aspects>
+        <aspectTerm term="service" position="2" RelTerm="amazing" category="service" polarity="positive"/>
+        <aspectTerm term="rooms" position="5" RelTerm="cozy and modern" category="room" polarity="positive"/>
+        <aspectTerm term="security measures" position="9" RelTerm="outstanding" category="security" polarity="positive"/>
+    </aspects>
+</sentence>
+
+<sentence id="AS049" polarity="positive">
+    <text>exceptional service, spacious and stylish rooms, top-notch fitness center</text>
+    <aspects>
+        <aspectTerm term="service" position="2" RelTerm="exceptional" category="service" polarity="positive"/>
+        <aspectTerm term="rooms" position="5" RelTerm="spacious and stylish" category="room" polarity="positive"/>
+        <aspectTerm term="fitness center" position="9" RelTerm="top-notch" category="amenities" polarity="positive"/>
+    </aspects>
+</sentence>
+
+<sentence id="AS050" polarity="positive">
+    <text>fantastic service, modern and comfortable rooms, high-speed Wi-Fi connection</text>
+    <aspects>
+        <aspectTerm term="service" position="2" RelTerm="fantastic" category="service" polarity="positive"/>
+        <aspectTerm term="rooms" position="5" RelTerm="modern and comfortable" category="room" polarity="positive"/>
+        <aspectTerm term="Wi-Fi connection" position="9" RelTerm="high-speed" category="technology" polarity="positive"/>
+    </aspects>
+</sentence>
+<sentence id="AS051" polarity="positive">
+    <text>impeccable service, cozy and elegant rooms, exceptional pool area</text>
+    <aspects>
+        <aspectTerm term="service" position="2" RelTerm="impeccable" category="service" polarity="positive"/>
+        <aspectTerm term="rooms" position="5" RelTerm="cozy and elegant" category="room" polarity="positive"/>
+        <aspectTerm term="pool area" position="9" RelTerm="exceptional" category="amenities" polarity="positive"/>
+    </aspects>
+</sentence>
+
+<sentence id="AS052" polarity="positive">
+    <text>excellent service, spacious and stylish rooms, reliable Wi-Fi</text>
+    <aspects>
+        <aspectTerm term="service" position="2" RelTerm="excellent" category="service" polarity="positive"/>
+        <aspectTerm term="rooms" position="5" RelTerm="spacious and stylish" category="room" polarity="positive"/>
+        <aspectTerm term="Wi-Fi" position="9" RelTerm="reliable" category="technology" polarity="positive"/>
+    </aspects>
+</sentence>
+
+<sentence id="AS053" polarity="positive">
+    <text>wonderful service, modern and comfortable rooms, outstanding fitness center</text>
+    <aspects>
+        <aspectTerm term="service" position="2" RelTerm="wonderful" category="service" polarity="positive"/>
+        <aspectTerm term="rooms" position="5" RelTerm="modern and comfortable" category="room" polarity="positive"/>
+        <aspectTerm term="fitness center" position="9" RelTerm="outstanding" category="amenities" polarity="positive"/>
+    </aspects>
+</sentence>
+
+<sentence id="AS054" polarity="positive">
+    <text>exceptional service, cozy and elegant rooms, high-speed Wi-Fi connection</text>
+    <aspects>
+        <aspectTerm term="service" position="2" RelTerm="exceptional" category="service" polarity="positive"/>
+        <aspectTerm term="rooms" position="5" RelTerm="cozy and elegant" category="room" polarity="positive"/>
+        <aspectTerm term="Wi-Fi connection" position="9" RelTerm="high-speed" category="technology" polarity="positive"/>
+    </aspects>
+</sentence>
+
+<sentence id="AS055" polarity="positive">
+    <text>amazing service, spacious and stylish rooms, impressive pool facilities</text>
+    <aspects>
+        <aspectTerm term="service" position="2" RelTerm="amazing" category="service" polarity="positive"/>
+        <aspectTerm term="rooms" position="5" RelTerm="spacious and stylish" category="room" polarity="positive"/>
+        <aspectTerm term="pool facilities" position="9" RelTerm="impressive" category="amenities" polarity="positive"/>
+    </aspects>
+</sentence>
+<sentence id="AS056" polarity="positive">
+    <text>outstanding service, elegant and comfortable rooms, excellent security</text>
+    <aspects>
+        <aspectTerm term="service" position="2" RelTerm="outstanding" category="service" polarity="positive"/>
+        <aspectTerm term="rooms" position="5" RelTerm="elegant and comfortable" category="room" polarity="positive"/>
+        <aspectTerm term="security" position="9" RelTerm="excellent" category="security" polarity="positive"/>
+    </aspects>
+</sentence>
+
+<sentence id="AS057" polarity="positive">
+    <text>excellent service, modern and comfortable rooms, reliable Wi-Fi access</text>
+    <aspects>
+        <aspectTerm term="service" position="2" RelTerm="excellent" category="service" polarity="positive"/>
+        <aspectTerm term="rooms" position="5" RelTerm="modern and comfortable" category="room" polarity="positive"/>
+        <aspectTerm term="Wi-Fi access" position="9" RelTerm="reliable" category="technology" polarity="positive"/>
+    </aspects>
+</sentence>
+
+<sentence id="AS058" polarity="positive">
+    <text>wonderful service, spacious and stylish rooms, outstanding pool facilities</text>
+    <aspects>
+        <aspectTerm term="service" position="2" RelTerm="wonderful" category="service" polarity="positive"/>
+        <aspectTerm term="rooms" position="5" RelTerm="spacious and stylish" category="room" polarity="positive"/>
+        <aspectTerm term="pool facilities" position="9" RelTerm="outstanding" category="amenities" polarity="positive"/>
+    </aspects>
+</sentence>
+
+<sentence id="AS059" polarity="positive">
+    <text>fantastic service, cozy and elegant rooms, excellent fitness center</text>
+    <aspects>
+        <aspectTerm term="service" position="2" RelTerm="fantastic" category="service" polarity="positive"/>
+        <aspectTerm term="rooms" position="5" RelTerm="cozy and elegant" category="room" polarity="positive"/>
+        <aspectTerm term="fitness center" position="9" RelTerm="excellent" category="amenities" polarity="positive"/>
+    </aspects>
+</sentence>
+
+<sentence id="AS060" polarity="positive">
+    <text>amazing service, modern and spacious rooms, reliable Wi-Fi connection</text>
+    <aspects>
+        <aspectTerm term="service" position="2" RelTerm="amazing" category="service" polarity="positive"/>
+        <aspectTerm term="rooms" position="5" RelTerm="modern and spacious" category="room" polarity="positive"/>
+        <aspectTerm term="Wi-Fi connection" position="9" RelTerm="reliable" category="technology" polarity="positive"/>
+    </aspects>
+</sentence>
+
+<sentence id="AS061" polarity="positive">
+    <text>exceptional service, elegant and cozy rooms, impressive security measures</text>
+    <aspects>
+        <aspectTerm term="service" position="2" RelTerm="exceptional" category="service" polarity="positive"/>
+        <aspectTerm term="rooms" position="5" RelTerm="elegant and cozy" category="room" polarity="positive"/>
+        <aspectTerm term="security measures" position="9" RelTerm="impressive" category="security" polarity="positive"/>
+    </aspects>
+</sentence>
+
+<sentence id="AS062" polarity="positive">
+    <text>fantastic service, spacious and stylish rooms, top-notch pool area</text>
+    <aspects>
+        <aspectTerm term="service" position="2" RelTerm="fantastic" category="service" polarity="positive"/>
+        <aspectTerm term="rooms" position="5" RelTerm="spacious and stylish" category="room" polarity="positive"/>
+        <aspectTerm term="pool area" position="9" RelTerm="top-notch" category="amenities" polarity="positive"/>
+    </aspects>
+</sentence>
+
+<sentence id="AS063" polarity="positive">
+    <text>impeccable service, modern and cozy rooms, reliable Wi-Fi connection</text>
+    <aspects>
+        <aspectTerm term="service" position="2" RelTerm="impeccable" category="service" polarity="positive"/>
+        <aspectTerm term="rooms" position="5" RelTerm="modern and cozy" category="room" polarity="positive"/>
+        <aspectTerm term="Wi-Fi connection" position="9" RelTerm="reliable" category="technology" polarity="positive"/>
+    </aspects>
+</sentence>
+
+<sentence id="AS064" polarity="positive">
+    <text>wonderful service, elegant and comfortable rooms, excellent fitness facilities</text>
+    <aspects>
+        <aspectTerm term="service" position="2" RelTerm="wonderful" category="service" polarity="positive"/>
+        <aspectTerm term="rooms" position="5" RelTerm="elegant and comfortable" category="room" polarity="positive"/>
+        <aspectTerm term="fitness facilities" position="9" RelTerm="excellent" category="amenities" polarity="positive"/>
+    </aspects>
+</sentence>
+
+<sentence id="AS065" polarity="positive">
+    <text>excellent service, cozy and modern rooms, top-notch security measures</text>
+    <aspects>
+        <aspectTerm term="service" position="2" RelTerm="excellent" category="service" polarity="positive"/>
+        <aspectTerm term="rooms" position="5" RelTerm="cozy and modern" category="room" polarity="positive"/>
+        <aspectTerm term="security measures" position="9" RelTerm="top-notch" category="security" polarity="positive"/>
+    </aspects>
+</sentence>
+
+<sentence id="AS066" polarity="positive">
+    <text>outstanding service, spacious and stylish rooms, high-speed Wi-Fi connection</text>
+    <aspects>
+        <aspectTerm term="service" position="2" RelTerm="outstanding" category="service" polarity="positive"/>
+        <aspectTerm term="rooms" position="5" RelTerm="spacious and stylish" category="room" polarity="positive"/>
+        <aspectTerm term="Wi-Fi connection" position="9" RelTerm="high-speed" category="technology" polarity="positive"/>
+    </aspects>
+</sentence>
+
+<sentence id="AS067" polarity="positive">
+    <text>fantastic service, elegant and comfortable rooms, exceptional pool area</text>
+    <aspects>
+        <aspectTerm term="service" position="2" RelTerm="fantastic" category="service" polarity="positive"/>
+        <aspectTerm term="rooms" position="5" RelTerm="elegant and comfortable" category="room" polarity="positive"/>
+        <aspectTerm term="pool area" position="9" RelTerm="exceptional" category="amenities" polarity="positive"/>
+    </aspects>
+</sentence>
+
+<sentence id="AS068" polarity="positive">
+    <text>amazing service, modern and spacious rooms, reliable Wi-Fi access</text>
+    <aspects>
+        <aspectTerm term="service" position="2" RelTerm="amazing" category="service" polarity="positive"/>
+        <aspectTerm term="rooms" position="5" RelTerm="modern and spacious" category="room" polarity="positive"/>
+        <aspectTerm term="Wi-Fi access" position="9" RelTerm="reliable" category="technology" polarity="positive"/>
+    </aspects>
+</sentence>
+
+<sentence id="AS069" polarity="positive">
+    <text>impeccable service, cozy and stylish rooms, top-notch fitness center</text>
+    <aspects>
+        <aspectTerm term="service" position="2" RelTerm="impeccable" category="service" polarity="positive"/>
+        <aspectTerm term="rooms" position="5" RelTerm="cozy and stylish" category="room" polarity="positive"/>
+        <aspectTerm term="fitness center" position="9" RelTerm="top-notch" category="amenities" polarity="positive"/>
+    </aspects>
+</sentence>
+
+<sentence id="AS070" polarity="positive">
+    <text>exceptional service, elegant and comfortable rooms, impressive security arrangements</text>
+    <aspects>
+        <aspectTerm term="service" position="2" RelTerm="exceptional" category="service" polarity="positive"/>
+        <aspectTerm term="rooms" position="5" RelTerm="elegant and comfortable" category="room" polarity="positive"/>
+        <aspectTerm term="security arrangements" position="9" RelTerm="impressive" category="security" polarity="positive"/>
+    </aspects>
+</sentence>
+
+<sentence id="AS071" polarity="positive">
+    <text>efficient reservation system, outstanding guest management, secure environment</text>
+    <aspects>
+        <aspectTerm term="reservation system" position="2" RelTerm="efficient" category="service" polarity="positive"/>
+        <aspectTerm term="guest management" position="5" RelTerm="outstanding" category="service" polarity="positive"/>
+        <aspectTerm term="environment" position="8" RelTerm="secure" category="security" polarity="positive"/>
+    </aspects>
+</sentence>
+
+<sentence id="AS072" polarity="positive">
+    <text>smooth reservation process, excellent customer experience, reliable security management</text>
+    <aspects>
+        <aspectTerm term="reservation process" position="2" RelTerm="smooth" category="service" polarity="positive"/>
+        <aspectTerm term="customer experience" position="5" RelTerm="excellent" category="service" polarity="positive"/>
+        <aspectTerm term="security management" position="8" RelTerm="reliable" category="security" polarity="positive"/>
+    </aspects>
+</sentence>
+
+<sentence id="AS073" polarity="positive">
+    <text>quick reservation, wonderful guest management, top-notch security</text>
+    <aspects>
+        <aspectTerm term="reservation" position="2" RelTerm="quick" category="service" polarity="positive"/>
+        <aspectTerm term="guest management" position="5" RelTerm="wonderful" category="service" polarity="positive"/>
+        <aspectTerm term="security" position="8" RelTerm="top-notch" category="security" polarity="positive"/>
+    </aspects>
+</sentence>
+
+<sentence id="AS074" polarity="positive">
+    <text>efficient booking system, pleasant customer experience, excellent security measures</text>
+    <aspects>
+        <aspectTerm term="booking system" position="2" RelTerm="efficient" category="service" polarity="positive"/>
+        <aspectTerm term="customer experience" position="5" RelTerm="pleasant" category="service" polarity="positive"/>
+        <aspectTerm term="security measures" position="8" RelTerm="excellent" category="security" polarity="positive"/>
+    </aspects>
+</sentence>
+
+<sentence id="AS075" polarity="positive">
+    <text>fast reservation, exceptional guest management, secure premises</text>
+    <aspects>
+        <aspectTerm term="reservation" position="2" RelTerm="fast" category="service" polarity="positive"/>
+        <aspectTerm term="guest management" position="5" RelTerm="exceptional" category="service" polarity="positive"/>
+        <aspectTerm term="premises" position="8" RelTerm="secure" category="security" polarity="positive"/>
+    </aspects>
+</sentence>
+<sentence id="AS076" polarity="positive">
+    <text>user-friendly reservation system, excellent customer service, reliable security management</text>
+    <aspects>
+        <aspectTerm term="reservation system" position="2" RelTerm="user-friendly" category="service" polarity="positive"/>
+        <aspectTerm term="customer service" position="5" RelTerm="excellent" category="service" polarity="positive"/>
+        <aspectTerm term="security management" position="8" RelTerm="reliable" category="security" polarity="positive"/>
+    </aspects>
+</sentence>
+
+<sentence id="AS077" polarity="positive">
+    <text>hassle-free reservation process, amazing guest management, top-level security</text>
+    <aspects>
+        <aspectTerm term="reservation process" position="2" RelTerm="hassle-free" category="service" polarity="positive"/>
+        <aspectTerm term="guest management" position="5" RelTerm="amazing" category="service" polarity="positive"/>
+        <aspectTerm term="security" position="8" RelTerm="top-level" category="security" polarity="positive"/>
+    </aspects>
+</sentence>
+
+<sentence id="AS078" polarity="positive">
+    <text>simple reservation system, great customer experience, excellent security staff</text>
+    <aspects>
+        <aspectTerm term="reservation system" position="2" RelTerm="simple" category="service" polarity="positive"/>
+        <aspectTerm term="customer experience" position="5" RelTerm="great" category="service" polarity="positive"/>
+        <aspectTerm term="security staff" position="8" RelTerm="excellent" category="security" polarity="positive"/>
+    </aspects>
+</sentence>
+
+<sentence id="AS079" polarity="positive">
+    <text>quick and easy reservation, fantastic guest management, reliable security</text>
+    <aspects>
+        <aspectTerm term="reservation" position="3" RelTerm="quick and easy" category="service" polarity="positive"/>
+        <aspectTerm term="guest management" position="6" RelTerm="fantastic" category="service" polarity="positive"/>
+        <aspectTerm term="security" position="9" RelTerm="reliable" category="security" polarity="positive"/>
+    </aspects>
+</sentence>
+
+<sentence id="AS080" polarity="positive">
+    <text>efficient booking, wonderful customer service, top-notch security management</text>
+    <aspects>
+        <aspectTerm term="booking" position="2" RelTerm="efficient" category="service" polarity="positive"/>
+        <aspectTerm term="customer service" position="5" RelTerm="wonderful" category="service" polarity="positive"/>
+        <aspectTerm term="security management" position="8" RelTerm="top-notch" category="security" polarity="positive"/>
+    </aspects>
+</sentence>
+
+<sentence id="AS081" polarity="positive">
+    <text>seamless reservation process, excellent guest management, high-quality security measures</text>
+    <aspects>
+        <aspectTerm term="reservation process" position="2" RelTerm="seamless" category="service" polarity="positive"/>
+        <aspectTerm term="guest management" position="5" RelTerm="excellent" category="service" polarity="positive"/>
+        <aspectTerm term="security measures" position="8" RelTerm="high-quality" category="security" polarity="positive"/>
+    </aspects>
+</sentence>
+<sentence id="AS082" polarity="positive">
+    <text>user-friendly booking system, fantastic customer experience, reliable security staff</text>
+    <aspects>
+        <aspectTerm term="booking system" position="2" RelTerm="user-friendly" category="service" polarity="positive"/>
+        <aspectTerm term="customer experience" position="5" RelTerm="fantastic" category="service" polarity="positive"/>
+        <aspectTerm term="security staff" position="8" RelTerm="reliable" category="security" polarity="positive"/>
+    </aspects>
+</sentence>
+
+<sentence id="AS083" polarity="positive">
+    <text>efficient reservation, great guest management, secure environment</text>
+    <aspects>
+        <aspectTerm term="reservation" position="2" RelTerm="efficient" category="service" polarity="positive"/>
+        <aspectTerm term="guest management" position="5" RelTerm="great" category="service" polarity="positive"/>
+        <aspectTerm term="environment" position="8" RelTerm="secure" category="security" polarity="positive"/>
+    </aspects>
+</sentence>
+<sentence id="AS084" polarity="positive">
+    <text>quick booking process, excellent customer service, top-notch security arrangements</text>
+    <aspects>
+        <aspectTerm term="booking process" position="2" RelTerm="quick" category="service" polarity="positive"/>
+        <aspectTerm term="customer service" position="5" RelTerm="excellent" category="service" polarity="positive"/>
+        <aspectTerm term="security arrangements" position="8" RelTerm="top-notch" category="security" polarity="positive"/>
+    </aspects>
+</sentence>
+
+<sentence id="AS085" polarity="positive">
+    <text>smooth reservation, outstanding guest management, reliable security measures</text>
+    <aspects>
+        <aspectTerm term="reservation" position="2" RelTerm="smooth" category="service" polarity="positive"/>
+        <aspectTerm term="guest management" position="5" RelTerm="outstanding" category="service" polarity="positive"/>
+        <aspectTerm term="security measures" position="8" RelTerm="reliable" category="security" polarity="positive"/>
+    </aspects>
+</sentence>
+
+<sentence id="AS086" polarity="positive">
+    <text>efficient booking system, amazing customer experience, high-quality security</text>
+    <aspects>
+        <aspectTerm term="booking system" position="2" RelTerm="efficient" category="service" polarity="positive"/>
+        <aspectTerm term="customer experience" position="5" RelTerm="amazing" category="service" polarity="positive"/>
+        <aspectTerm term="security" position="8" RelTerm="high-quality" category="security" polarity="positive"/>
+    </aspects>
+</sentence>
+
+<sentence id="AS087" polarity="positive">
+    <text>quick reservation, excellent guest management, reliable security arrangements</text>
+    <aspects>
+        <aspectTerm term="reservation" position="2" RelTerm="quick" category="service" polarity="positive"/>
+        <aspectTerm term="guest management" position="5" RelTerm="excellent" category="service" polarity="positive"/>
+        <aspectTerm term="security arrangements" position="8" RelTerm="reliable" category="security" polarity="positive"/>
+    </aspects>
+</sentence>
+
+<sentence id="AS088" polarity="positive">
+    <text>hassle-free reservation system, wonderful customer service, top-level security management</text>
+    <aspects>
+        <aspectTerm term="reservation system" position="2" RelTerm="hassle-free" category="service" polarity="positive"/>
+        <aspectTerm term="customer service" position="5" RelTerm="wonderful" category="service" polarity="positive"/>
+        <aspectTerm term="security management" position="8" RelTerm="top-level" category="security" polarity="positive"/>
+    </aspects>
+</sentence>
+
+<sentence id="AS089" polarity="positive">
+    <text>smooth booking process, exceptional guest management, secure environment</text>
+    <aspects>
+        <aspectTerm term="booking process" position="2" RelTerm="smooth" category="service" polarity="positive"/>
+        <aspectTerm term="guest management" position="5" RelTerm="exceptional" category="service" polarity="positive"/>
+        <aspectTerm term="environment" position="8" RelTerm="secure" category="security" polarity="positive"/>
+    </aspects>
+</sentence>
+
+<sentence id="AS090" polarity="positive">
+    <text>easy reservation, great customer service, reliable security staff</text>
+    <aspects>
+        <aspectTerm term="reservation" position="2" RelTerm="easy" category="service" polarity="positive"/>
+        <aspectTerm term="customer service" position="5" RelTerm="great" category="service" polarity="positive"/>
+        <aspectTerm term="security staff" position="8" RelTerm="reliable" category="security" polarity="positive"/>
+    </aspects>
+</sentence>
+<sentence id="AS091" polarity="positive">
+    <text>friendly staff, spacious room, convenient location</text>
+    <aspects>
+        <aspectTerm term="staff" position="2" RelTerm="friendly" category="service" polarity="positive"/>
+        <aspectTerm term="room" position="4" RelTerm="spacious" category="room" polarity="positive"/>
+        <aspectTerm term="location" position="6" RelTerm="convenient" category="location" polarity="positive"/>
+    </aspects>
+</sentence>
+
+<sentence id="AS092" polarity="positive">
+    <text>excellent breakfast, well-maintained pool, secure environment</text>
+    <aspects>
+        <aspectTerm term="breakfast" position="2" RelTerm="excellent" category="meals" polarity="positive"/>
+        <aspectTerm term="pool" position="4" RelTerm="well-maintained" category="amenities" polarity="positive"/>
+        <aspectTerm term="environment" position="6" RelTerm="secure" category="security" polarity="positive"/>
+    </aspects>
+</sentence>
+
+<sentence id="AS093" polarity="positive">
+    <text>quick reservation, amazing guest management, reliable Wi-Fi</text>
+    <aspects>
+        <aspectTerm term="reservation" position="2" RelTerm="quick" category="service" polarity="positive"/>
+        <aspectTerm term="guest management" position="4" RelTerm="amazing" category="service" polarity="positive"/>
+        <aspectTerm term="Wi-Fi" position="6" RelTerm="reliable" category="amenities" polarity="positive"/>
+    </aspects>
+</sentence>
+
+<sentence id="AS094" polarity="positive">
+    <text>clean rooms, delicious meals, helpful staff</text>
+    <aspects>
+        <aspectTerm term="rooms" position="2" RelTerm="clean" category="room" polarity="positive"/>
+        <aspectTerm term="meals" position="4" RelTerm="delicious" category="meals" polarity="positive"/>
+        <aspectTerm term="staff" position="6" RelTerm="helpful" category="service" polarity="positive"/>
+    </aspects>
+</sentence>
+
+<sentence id="AS095" polarity="positive">
+    <text>friendly staff, efficient reservation, secure premises</text>
+    <aspects>
+        <aspectTerm term="staff" position="2" RelTerm="friendly" category="service" polarity="positive"/>
+        <aspectTerm term="reservation" position="4" RelTerm="efficient" category="service" polarity="positive"/>
+        <aspectTerm term="premises" position="6" RelTerm="secure" category="security" polarity="positive"/>
+    </aspects>
+</sentence>
+
+<sentence id="AS096" polarity="positive">
+    <text>comfortable room, fast Wi-Fi, great location</text>
+    <aspects>
+        <aspectTerm term="room" position="2" RelTerm="comfortable" category="room" polarity="positive"/>
+        <aspectTerm term="Wi-Fi" position="4" RelTerm="fast" category="amenities" polarity="positive"/>
+        <aspectTerm term="location" position="6" RelTerm="great" category="location" polarity="positive"/>
+    </aspects>
+</sentence>
+
+<sentence id="AS097" polarity="positive">
+    <text>helpful staff, delicious breakfast, well-maintained pool</text>
+    <aspects>
+        <aspectTerm term="staff" position="2" RelTerm="helpful" category="service" polarity="positive"/>
+        <aspectTerm term="breakfast" position="4" RelTerm="delicious" category="meals" polarity="positive"/>
+        <aspectTerm term="pool" position="6" RelTerm="well-maintained" category="amenities" polarity="positive"/>
+    </aspects>
+</sentence>
+
+<sentence id="AS098" polarity="positive">
+    <text>efficient reservation system, outstanding customer experience, top-notch security</text>
+    <aspects>
+        <aspectTerm term="reservation system" position="2" RelTerm="efficient" category="service" polarity="positive"/>
+        <aspectTerm term="customer experience" position="4" RelTerm="outstanding" category="service" polarity="positive"/>
+        <aspectTerm term="security" position="6" RelTerm="top-notch" category="security" polarity="positive"/>
+    </aspects>
+</sentence>
+<sentence id="AS099" polarity="positive">
+    <text>clean rooms, excellent meals, reliable Wi-Fi</text>
+    <aspects>
+        <aspectTerm term="rooms" position="2" RelTerm="clean" category="room" polarity="positive"/>
+        <aspectTerm term="meals" position="4" RelTerm="excellent" category="meals" polarity="positive"/>
+        <aspectTerm term="Wi-Fi" position="6" RelTerm="reliable" category="amenities" polarity="positive"/>
+    </aspects>
+</sentence>
+
+<sentence id="AS100" polarity="positive">
+    <text>friendly staff, comfortable rooms, secure environment</text>
+    <aspects>
+        <aspectTerm term="staff" position="2" RelTerm="friendly" category="service" polarity="positive"/>
+        <aspectTerm term="rooms" position="4" RelTerm="comfortable" category="room" polarity="positive"/>
+        <aspectTerm term="environment" position="6" RelTerm="secure" category="security" polarity="positive"/>
+    </aspects>
+</sentence>
+
+<sentence id="AS101" polarity="positive">
+    <text>smooth reservation, pleasant customer experience, great security</text>
+    <aspects>
+        <aspectTerm term="reservation" position="2" RelTerm="smooth" category="service" polarity="positive"/>
+        <aspectTerm term="customer experience" position="4" RelTerm="pleasant" category="service" polarity="positive"/>
+        <aspectTerm term="security" position="6" RelTerm="great" category="security" polarity="positive"/>
+    </aspects>
+</sentence>
+
+<sentence id="AS102" polarity="positive">
+    <text>helpful staff, clean pool, excellent location</text>
+    <aspects>
+        <aspectTerm term="staff" position="2" RelTerm="helpful" category="service" polarity="positive"/>
+        <aspectTerm term="pool" position="4" RelTerm="clean" category="amenities" polarity="positive"/>
+        <aspectTerm term="location" position="6" RelTerm="excellent" category="location" polarity="positive"/>
+    </aspects>
+</sentence>
+
+<sentence id="AS103" polarity="positive">
+    <text>efficient reservation, great meals, reliable Wi-Fi</text>
+    <aspects>
+        <aspectTerm term="reservation" position="2" RelTerm="efficient" category="service" polarity="positive"/>
+        <aspectTerm term="meals" position="4" RelTerm="great" category="meals" polarity="positive"/>
+        <aspectTerm term="Wi-Fi" position="6" RelTerm="reliable" category="amenities" polarity="positive"/>
+    </aspects>
+</sentence>
+
+<sentence id="AS104" polarity="positive">
+    <text>comfortable rooms, delicious breakfast, secure premises</text>
+    <aspects>
+        <aspectTerm term="rooms" position="2" RelTerm="comfortable" category="room" polarity="positive"/>
+        <aspectTerm term="breakfast" position="4" RelTerm="delicious" category="meals" polarity="positive"/>
+        <aspectTerm term="premises" position="6" RelTerm="secure" category="security" polarity="positive"/>
+    </aspects>
+</sentence>
+xml
+Copy code
+<sentence id="AS105" polarity="positive">
+    <text>quick reservation system, pleasant guest management, high-quality security</text>
+    <aspects>
+        <aspectTerm term="reservation system" position="2" RelTerm="quick" category="service" polarity="positive"/>
+        <aspectTerm term="guest management" position="4" RelTerm="pleasant" category="service" polarity="positive"/>
+        <aspectTerm term="security" position="6" RelTerm="high-quality" category="security" polarity="positive"/>
+    </aspects>
+</sentence>
+
+<sentence id="AS106" polarity="positive">
+    <text>friendly staff, great Wi-Fi, convenient location</text>
+    <aspects>
+        <aspectTerm term="staff" position="2" RelTerm="friendly" category="service" polarity="positive"/>
+        <aspectTerm term="Wi-Fi" position="4" RelTerm="great" category="amenities" polarity="positive"/>
+        <aspectTerm term="location" position="6" RelTerm="convenient" category="location" polarity="positive"/>
+    </aspects>
+</sentence>
+<sentence id="AS107" polarity="positive">
+    <text>helpful staff, comfortable rooms, excellent customer experience</text>
+    <aspects>
+        <aspectTerm term="staff" position="2" RelTerm="helpful" category="service" polarity="positive"/>
+        <aspectTerm term="rooms" position="4" RelTerm="comfortable" category="room" polarity="positive"/>
+        <aspectTerm term="customer experience" position="6" RelTerm="excellent" category="service" polarity="positive"/>
+    </aspects>
+</sentence>
+
+<sentence id="AS108" polarity="positive">
+    <text>efficient reservation, tasty meals, reliable security</text>
+    <aspects>
+        <aspectTerm term="reservation" position="2" RelTerm="efficient" category="service" polarity="positive"/>
+        <aspectTerm term="meals" position="4" RelTerm="tasty" category="meals" polarity="positive"/>
+        <aspectTerm term="security" position="6" RelTerm="reliable" category="security" polarity="positive"/>
+    </aspects>
+</sentence>
+
+<sentence id="AS109" polarity="positive">
+    <text>friendly staff, clean rooms, great location</text>
+    <aspects>
+        <aspectTerm term="staff" position="2" RelTerm="friendly" category="service" polarity="positive"/>
+        <aspectTerm term="rooms" position="4" RelTerm="clean" category="room" polarity="positive"/>
+        <aspectTerm term="location" position="6" RelTerm="great" category="location" polarity="positive"/>
+    </aspects>
+</sentence>
+
+<sentence id="AS110" polarity="positive">
+    <text>excellent breakfast, secure environment, helpful staff</text>
+    <aspects>
+        <aspectTerm term="breakfast" position="2" RelTerm="excellent" category="meals" polarity="positive"/>
+        <aspectTerm term="environment" position="4" RelTerm="secure" category="security" polarity="positive"/>
+        <aspectTerm term="staff" position="6" RelTerm="helpful" category="service" polarity="positive"/>
+    </aspects>
+</sentence>
+
+<sentence id="AS111" polarity="positive">
+    <text>quick reservation, friendly staff, delicious meals</text>
+    <aspects>
+        <aspectTerm term="reservation" position="2" RelTerm="quick" category="service" polarity="positive"/>
+        <aspectTerm term="staff" position="4" RelTerm="friendly" category="service" polarity="positive"/>
+        <aspectTerm term="meals" position="6" RelTerm="delicious" category="meals" polarity="positive"/>
+    </aspects>
+</sentence>
+<sentence id="AS112" polarity="positive">
+    <text>spacious room, reliable Wi-Fi, excellent guest management</text>
+    <aspects>
+        <aspectTerm term="room" position="2" RelTerm="spacious" category="room" polarity="positive"/>
+        <aspectTerm term="Wi-Fi" position="4" RelTerm="reliable" category="amenities" polarity="positive"/>
+        <aspectTerm term="guest management" position="6" RelTerm="excellent" category="service" polarity="positive"/>
+    </aspects>
+</sentence>
+
+<sentence id="AS113" polarity="positive">
+    <text>helpful staff, well-maintained pool, secure premises</text>
+    <aspects>
+        <aspectTerm term="staff" position="2" RelTerm="helpful" category="service" polarity="positive"/>
+        <aspectTerm term="pool" position="4" RelTerm="well-maintained" category="amenities" polarity="positive"/>
+        <aspectTerm term="premises" position="6" RelTerm="secure" category="security" polarity="positive"/>
+    </aspects>
+</sentence>
+
+<sentence id="AS114" polarity="positive">
+    <text>great reservation system, wonderful customer service, safe environment</text>
+    <aspects>
+        <aspectTerm term="reservation system" position="2" RelTerm="great" category="service" polarity="positive"/>
+        <aspectTerm term="customer service" position="4" RelTerm="wonderful" category="service" polarity="positive"/>
+        <aspectTerm term="environment" position="6" RelTerm="safe" category="security" polarity="positive"/>
+    </aspects>
+</sentence>
+<sentence id="AS115" polarity="positive">
+    <text>clean rooms, delicious breakfast, reliable Wi-Fi</text>
+    <aspects>
+        <aspectTerm term="rooms" position="2" RelTerm="clean" category="room" polarity="positive"/>
+        <aspectTerm term="breakfast" position="4" RelTerm="delicious" category="meals" polarity="positive"/>
+        <aspectTerm term="Wi-Fi" position="6" RelTerm="reliable" category="amenities" polarity="positive"/>
+    </aspects>
+</sentence>
+
+<sentence id="AS116" polarity="positive">
+    <text>friendly staff, secure premises, comfortable rooms</text>
+    <aspects>
+        <aspectTerm term="staff" position="2" RelTerm="friendly" category="service" polarity="positive"/>
+        <aspectTerm term="premises" position="4" RelTerm="secure" category="security" polarity="positive"/>
+        <aspectTerm term="rooms" position="6" RelTerm="comfortable" category="room" polarity="positive"/>
+    </aspects>
+</sentence>
+
+<sentence id="AS117" polarity="positive">
+    <text>quick reservation, great meals, efficient guest management</text>
+    <aspects>
+        <aspectTerm term="reservation" position="2" RelTerm="quick" category="service" polarity="positive"/>
+        <aspectTerm term="meals" position="4" RelTerm="great" category="meals" polarity="positive"/>
+        <aspectTerm term="guest management" position="6" RelTerm="efficient" category="service" polarity="positive"/>
+    </aspects>
+</sentence>
+
+<sentence id="AS118" polarity="positive">
+    <text>clean rooms, wonderful customer service, reliable Wi-Fi</text>
+    <aspects>
+        <aspectTerm term="rooms" position="2" RelTerm="clean" category="room" polarity="positive"/>
+        <aspectTerm term="customer service" position="4" RelTerm="wonderful" category="service" polarity="positive"/>
+        <aspectTerm term="Wi-Fi" position="6" RelTerm="reliable" category="amenities" polarity="positive"/>
+    </aspects>
+</sentence>
+
+<sentence id="AS119" polarity="positive">
+    <text>helpful staff, excellent breakfast, secure environment</text>
+    <aspects>
+        <aspectTerm term="staff" position="2" RelTerm="helpful" category="service" polarity="positive"/>
+        <aspectTerm term="breakfast" position="4" RelTerm="excellent" category="meals" polarity="positive"/>
+        <aspectTerm term="environment" position="6" RelTerm="secure" category="security" polarity="positive"/>
+    </aspects>
+</sentence>
+
+<sentence id="AS120" polarity="positive">
+    <text>efficient reservation system, great customer experience, reliable security</text>
+    <aspects>
+        <aspectTerm term="reservation system" position="2" RelTerm="efficient" category="service" polarity="positive"/>
+        <aspectTerm term="customer experience" position="4" RelTerm="great" category="service" polarity="positive"/>
+        <aspectTerm term="security" position="6" RelTerm="reliable" category="security" polarity="positive"/>
+    </aspects>
+</sentence>
+<sentence id="AS121" polarity="positive">
+    <text>spacious room, reliable Wi-Fi, excellent location</text>
+    <aspects>
+        <aspectTerm term="room" position="2" RelTerm="spacious" category="room" polarity="positive"/>
+        <aspectTerm term="Wi-Fi" position="4" RelTerm="reliable" category="amenities" polarity="positive"/>
+        <aspectTerm term="location" position="6" RelTerm="excellent" category="location" polarity="positive"/>
+    </aspects>
+</sentence>
+
+<sentence id="AS122" polarity="positive">
+    <text>friendly staff, clean pool, secure premises</text>
+    <aspects>
+        <aspectTerm term="staff" position="2" RelTerm="friendly" category="service" polarity="positive"/>
+        <aspectTerm term="pool" position="4" RelTerm="clean" category="amenities" polarity="positive"/>
+        <aspectTerm term="premises" position="6" RelTerm="secure" category="security" polarity="positive"/>
+    </aspects>
+</sentence>
+
+<sentence id="AS123" polarity="positive">
+    <text>great reservation system, delicious meals, safe environment</text>
+    <aspects>
+        <aspectTerm term="reservation system" position="2" RelTerm="great" category="service" polarity="positive"/>
+        <aspectTerm term="meals" position="4" RelTerm="delicious" category="meals" polarity="positive"/>
+        <aspectTerm term="environment" position="6" RelTerm="safe" category="security" polarity="positive"/>
+    </aspects>
+</sentence>
+
+<sentence id="AS124" polarity="positive">
+    <text>clean rooms, helpful staff, reliable Wi-Fi</text>
+    <aspects>
+        <aspectTerm term="rooms" position="2" RelTerm="clean" category="room" polarity="positive"/>
+        <aspectTerm term="staff" position="4" RelTerm="helpful" category="service" polarity="positive"/>
+        <aspectTerm term="Wi-Fi" position="6" RelTerm="reliable" category="amenities" polarity="positive"/>
+    </aspects>
+</sentence>
+
+<sentence id="AS125" polarity="positive">
+    <text>quick reservation, delicious breakfast, excellent guest management</text>
+    <aspects>
+        <aspectTerm term="reservation" position="2" RelTerm="quick" category="service" polarity="positive"/>
+        <aspectTerm term="breakfast" position="4" RelTerm="delicious" category="meals" polarity="positive"/>
+        <aspectTerm term="guest management" position="6" RelTerm="excellent" category="service" polarity="positive"/>
+    </aspects>
+</sentence>
+
+<sentence id="AS126" polarity="positive">
+    <text>spacious room, reliable security, excellent location</text>
+    <aspects>
+        <aspectTerm term="room" position="2" RelTerm="spacious" category="room" polarity="positive"/>
+        <aspectTerm term="security" position="4" RelTerm="reliable" category="security" polarity="positive"/>
+        <aspectTerm term="location" position="6" RelTerm="excellent" category="location" polarity="positive"/>
+    </aspects>
+</sentence>
+
+<sentence id="AS127" polarity="positive">
+    <text>friendly staff, clean rooms, reliable Wi-Fi</text>
+    <aspects>
+        <aspectTerm term="staff" position="2" RelTerm="friendly" category="service" polarity="positive"/>
+        <aspectTerm term="rooms" position="4" RelTerm="clean" category="room" polarity="positive"/>
+        <aspectTerm term="Wi-Fi" position="6" RelTerm="reliable" category="amenities" polarity="positive"/>
+    </aspects>
+</sentence>
+
+<sentence id="AS128" polarity="positive">
+    <text>excellent breakfast, secure environment, helpful staff</text>
+    <aspects>
+        <aspectTerm term="breakfast" position="2" RelTerm="excellent" category="meals" polarity="positive"/>
+        <aspectTerm term="environment" position="4" RelTerm="secure" category="security" polarity="positive"/>
+        <aspectTerm term="staff" position="6" RelTerm="helpful" category="service" polarity="positive"/>
+    </aspects>
+</sentence>
+
+<sentence id="AS129" polarity="positive">
+    <text>great reservation system, delicious meals, safe premises</text>
+    <aspects>
+        <aspectTerm term="reservation system" position="2" RelTerm="great" category="service" polarity="positive"/>
+        <aspectTerm term="meals" position="4" RelTerm="delicious" category="meals" polarity="positive"/>
+        <aspectTerm term="premises" position="6" RelTerm="safe" category="security" polarity="positive"/>
+    </aspects>
+</sentence>
+
+<sentence id="AS130" polarity="positive">
+    <text>helpful staff, clean rooms, reliable Wi-Fi</text>
+    <aspects>
+        <aspectTerm term="staff" position="2" RelTerm="helpful" category="service" polarity="positive"/>
+        <aspectTerm term="rooms" position="4" RelTerm="clean" category="room" polarity="positive"/>
+        <aspectTerm term="Wi-Fi" position="6" RelTerm="reliable" category="amenities" polarity="positive"/>
+    </aspects>
+</sentence>
+<sentence id="AS131" polarity="positive">
+    <text>quick reservation, wonderful customer service, secure premises</text>
+    <aspects>
+        <aspectTerm term="reservation" position="2" RelTerm="quick" category="service" polarity="positive"/>
+        <aspectTerm term="customer service" position="4" RelTerm="wonderful" category="service" polarity="positive"/>
+        <aspectTerm term="premises" position="6" RelTerm="secure" category="security" polarity="positive"/>
+    </aspects>
+</sentence>
+
+<sentence id="AS132" polarity="positive">
+    <text>clean rooms, friendly staff, reliable Wi-Fi</text>
+    <aspects>
+        <aspectTerm term="rooms" position="2" RelTerm="clean" category="room" polarity="positive"/>
+        <aspectTerm term="staff" position="4" RelTerm="friendly" category="service" polarity="positive"/>
+        <aspectTerm term="Wi-Fi" position="6" RelTerm="reliable" category="amenities" polarity="positive"/>
+    </aspects>
+</sentence>
+
+<sentence id="AS133" polarity="positive">
+    <text>excellent breakfast, secure environment, great guest management</text>
+    <aspects>
+        <aspectTerm term="breakfast" position="2" RelTerm="excellent" category="meals" polarity="positive"/>
+        <aspectTerm term="environment" position="4" RelTerm="secure" category="security" polarity="positive"/>
+        <aspectTerm term="guest management" position="6" RelTerm="great" category="service" polarity="positive"/>
+    </aspects>
+</sentence>
+
+<sentence id="AS134" polarity="positive">
+    <text>great reservation system, delicious meals, safe environment</text>
+    <aspects>
+        <aspectTerm term="reservation system" position="2" RelTerm="great" category="service" polarity="positive"/>
+        <aspectTerm term="meals" position="4" RelTerm="delicious" category="meals" polarity="positive"/>
+        <aspectTerm term="environment" position="6" RelTerm="safe" category="security" polarity="positive"/>
+    </aspects>
+</sentence>
+
+<sentence id="AS135" polarity="positive">
+    <text>spacious room, helpful staff, reliable Wi-Fi</text>
+    <aspects>
+        <aspectTerm term="room" position="2" RelTerm="spacious" category="room" polarity="positive"/>
+        <aspectTerm term="staff" position="4" RelTerm="helpful" category="service" polarity="positive"/>
+        <aspectTerm term="Wi-Fi" position="6" RelTerm="reliable" category="amenities" polarity="positive"/>
+    </aspects>
+</sentence>
+
+<sentence id="AS136" polarity="positive">
+    <text>quick reservation, clean rooms, excellent location</text>
+    <aspects>
+        <aspectTerm term="reservation" position="2" RelTerm="quick" category="service" polarity="positive"/>
+        <aspectTerm term="rooms" position="4" RelTerm="clean" category="room" polarity="positive"/>
+        <aspectTerm term="location" position="6" RelTerm="excellent" category="location" polarity="positive"/>
+    </aspects>
+</sentence>
+
+<sentence id="AS137" polarity="positive">
+    <text>clean rooms, helpful staff, secure premises</text>
+    <aspects>
+        <aspectTerm term="rooms" position="2" RelTerm="clean" category="room" polarity="positive"/>
+        <aspectTerm term="staff" position="4" RelTerm="helpful" category="service" polarity="positive"/>
+        <aspectTerm term="premises" position="6" RelTerm="secure" category="security" polarity="positive"/>
+    </aspects>
+</sentence>
+<sentence id="AS138" polarity="positive">
+    <text>delicious breakfast, wonderful customer service, reliable Wi-Fi</text>
+    <aspects>
+        <aspectTerm term="breakfast" position="2" RelTerm="delicious" category="meals" polarity="positive"/>
+        <aspectTerm term="customer service" position="4" RelTerm="wonderful" category="service" polarity="positive"/>
+        <aspectTerm term="Wi-Fi" position="6" RelTerm="reliable" category="amenities" polarity="positive"/>
+    </aspects>
+</sentence>
+
+<sentence id="AS139" polarity="positive">
+    <text>friendly staff, clean rooms, secure premises</text>
+    <aspects>
+        <aspectTerm term="staff" position="2" RelTerm="friendly" category="service" polarity="positive"/>
+        <aspectTerm term="rooms" position="4" RelTerm="clean" category="room" polarity="positive"/>
+        <aspectTerm term="premises" position="6" RelTerm="secure" category="security" polarity="positive"/>
+    </aspects>
+</sentence>
+
+<sentence id="AS140" polarity="positive">
+    <text>spacious room, excellent location, reliable Wi-Fi</text>
+    <aspects>
+        <aspectTerm term="room" position="2" RelTerm="spacious" category="room" polarity="positive"/>
+        <aspectTerm term="location" position="4" RelTerm="excellent" category="location" polarity="positive"/>
+        <aspectTerm term="Wi-Fi" position="6" RelTerm="reliable" category="amenities" polarity="positive"/>
+    </aspects>
+</sentence>
+
+<sentence id="AS141" polarity="positive">
+    <text>clean rooms, friendly staff, excellent location</text>
+    <aspects>
+        <aspectTerm term="rooms" position="2" RelTerm="clean" category="room" polarity="positive"/>
+        <aspectTerm term="staff" position="4" RelTerm="friendly" category="service" polarity="positive"/>
+        <aspectTerm term="location" position="6" RelTerm="excellent" category="location" polarity="positive"/>
+    </aspects>
+</sentence
+<sentence id="AS142" polarity="positive">
+    <text>delicious breakfast, reliable Wi-Fi, helpful staff</text>
+    <aspects>
+        <aspectTerm term="breakfast" position="2" RelTerm="delicious" category="meals" polarity="positive"/>
+        <aspectTerm term="Wi-Fi" position="4" RelTerm="reliable" category="amenities" polarity="positive"/>
+        <aspectTerm term="staff" position="6" RelTerm="helpful" category="service" polarity="positive"/>
+    </aspects>
+</sentence>
+
+<sentence id="AS143" polarity="positive">
+    <text>great reservation system, secure environment, excellent location</text>
+    <aspects>
+        <aspectTerm term="reservation system" position="2" RelTerm="great" category="service" polarity="positive"/>
+        <aspectTerm term="environment" position="4" RelTerm="secure" category="security" polarity="positive"/>
+        <aspectTerm term="location" position="6" RelTerm="excellent" category="location" polarity="positive"/>
+    </aspects>
+</sentence>
+
+<sentence id="AS144" polarity="positive">
+    <text>clean rooms, reliable Wi-Fi, excellent breakfast</text>
+    <aspects>
+        <aspectTerm term="rooms" position="2" RelTerm="clean" category="room" polarity="positive"/>
+        <aspectTerm term="Wi-Fi" position="4" RelTerm="reliable" category="amenities" polarity="positive"/>
+        <aspectTerm term="breakfast" position="6" RelTerm="excellent" category="meals" polarity="positive"/>
+    </aspects>
+</sentence>
+
+<sentence id="AS145" polarity="positive">
+    <text>excellent guest management, delicious breakfast, safe premises</text>
+    <aspects>
+        <aspectTerm term="guest management" position="2" RelTerm="excellent" category="service" polarity="positive"/>
+        <aspectTerm term="breakfast" position="4" RelTerm="delicious" category="meals" polarity="positive"/>
+        <aspectTerm term="premises" position="6" RelTerm="safe" category="security" polarity="positive"/>
+    </aspects>
+</sentence>
+
+<sentence id="AS146" polarity="positive">
+    <text>spacious room, helpful staff, secure environment</text>
+    <aspects>
+        <aspectTerm term="room" position="2" RelTerm="spacious" category="room" polarity="positive"/>
+        <aspectTerm term="staff" position="4" RelTerm="helpful" category="service" polarity="positive"/>
+        <aspectTerm term="environment" position="6" RelTerm="secure" category="security" polarity="positive"/>
+    </aspects>
+</sentence>
+
+<sentence id="AS147" polarity="positive">
+    <text>quick reservation, excellent breakfast, wonderful customer service</text>
+    <aspects>
+        <aspectTerm term="reservation" position="2" RelTerm="quick" category="service" polarity="positive"/>
+        <aspectTerm term="breakfast" position="4" RelTerm="excellent" category="meals" polarity="positive"/>
+        <aspectTerm term="customer service" position="6" RelTerm="wonderful" category="service" polarity="positive"/>
+    </aspects>
+</sentence>
+
+<sentence id="AS148" polarity="positive">
+    <text>great reservation system, friendly staff, reliable Wi-Fi</text>
+    <aspects>
+        <aspectTerm term="reservation system" position="2" RelTerm="great" category="service" polarity="positive"/>
+        <aspectTerm term="staff" position="4" RelTerm="friendly" category="service" polarity="positive"/>
+        <aspectTerm term="Wi-Fi" position="6" RelTerm="reliable" category="amenities" polarity="positive"/>
+    </aspects>
+</sentence>
+
+<sentence id="AS149" polarity="positive">
+    <text>spacious room, secure environment, delicious breakfast</text>
+    <aspects>
+        <aspectTerm term="room" position="2" RelTerm="spacious" category="room" polarity="positive"/>
+        <aspectTerm term="environment" position="4" RelTerm="secure" category="security" polarity="positive"/>
+        <aspectTerm term="breakfast" position="6" RelTerm="delicious" category="meals" polarity="positive"/>
+    </aspects>
+</sentence>
+
+<sentence id="AS150" polarity="positive">
+    <text>clean rooms, helpful staff, excellent breakfast</text>
+    <aspects>
+        <aspectTerm term="rooms" position="2" RelTerm="clean" category="room" polarity="positive"/>
+        <aspectTerm term="staff" position="4" RelTerm="helpful" category="service" polarity="positive"/>
+        <aspectTerm term="breakfast" position="6" RelTerm="excellent" category="meals" polarity="positive"/>
+    </aspects>
+</sentence>
+
+<sentence id="AS151" polarity="positive">
+    <text>great reservation system, reliable Wi-Fi, secure premises</text>
+    <aspects>
+        <aspectTerm term="reservation system" position="2" RelTerm="great" category="service" polarity="positive"/>
+        <aspectTerm term="Wi-Fi" position="4" RelTerm="reliable" category="amenities" polarity="positive"/>
+        <aspectTerm term="premises" position="6" RelTerm="secure" category="security" polarity="positive"/>
+    </aspects>
+</sentence>
+
+<sentence id="AS152" polarity="positive">
+    <text>spacious room, excellent breakfast, wonderful customer service</text>
+    <aspects>
+        <aspectTerm term="room" position="2" RelTerm="spacious" category="room" polarity="positive"/>
+        <aspectTerm term="breakfast" position="4" RelTerm="excellent" category="meals" polarity="positive"/>
+        <aspectTerm term="customer service" position="6" RelTerm="wonderful" category="service" polarity="positive"/>
+    </aspects>
+</sentence>
+
+<sentence id="AS153" polarity="positive">
+    <text>excellent location, secure environment, clean rooms</text>
+    <aspects>
+        <aspectTerm term="location" position="2" RelTerm="excellent" category="location" polarity="positive"/>
+        <aspectTerm term="environment" position="4" RelTerm="secure" category="security" polarity="positive"/>
+        <aspectTerm term="rooms" position="6" RelTerm="clean" category="room" polarity="positive"/>
+    </aspects>
+</sentence>
+
+<sentence id="AS154" polarity="positive">
+    <text>quick reservation, delicious breakfast, reliable Wi-Fi</text>
+    <aspects>
+        <aspectTerm term="reservation" position="2" RelTerm="quick" category="service" polarity="positive"/>
+        <aspectTerm term="breakfast" position="4" RelTerm="delicious" category="meals" polarity="positive"/>
+        <aspectTerm term="Wi-Fi" position="6" RelTerm="reliable" category="amenities" polarity="positive"/>
+    </aspects>
+</sentence>
+<sentence id="AS156" polarity="positive">
+    <text>modern gym, comfortable beds, and quick room service</text>
+    <aspects>
+        <aspectTerm term="gym" position="2" RelTerm="modern" category="amenities" polarity="positive"/>
+        <aspectTerm term="beds" position="4" RelTerm="comfortable" category="room" polarity="positive"/>
+        <aspectTerm term="room service" position="6" RelTerm="quick" category="service" polarity="positive"/>
+    </aspects>
+</sentence>
+
+<sentence id="AS157" polarity="positive">
+    <text>excellent pool area, diverse breakfast options, and friendly housekeeping staff</text>
+    <aspects>
+        <aspectTerm term="pool area" position="2" RelTerm="excellent" category="amenities" polarity="positive"/>
+        <aspectTerm term="breakfast options" position="4" RelTerm="diverse" category="meals" polarity="positive"/>
+        <aspectTerm term="housekeeping staff" position="6" RelTerm="friendly" category="service" polarity="positive"/>
+    </aspects>
+</sentence>
+
+<sentence id="AS158" polarity="positive">
+    <text>well-equipped conference rooms, prompt front desk service, and spacious parking lot</text>
+    <aspects>
+        <aspectTerm term="conference rooms" position="2" RelTerm="well-equipped" category="amenities" polarity="positive"/>
+        <aspectTerm term="front desk service" position="4" RelTerm="prompt" category="service" polarity="positive"/>
+        <aspectTerm term="parking lot" position="6" RelTerm="spacious" category="facilities" polarity="positive"/>
+    </aspects>
+</sentence>
+
+<sentence id="AS159" polarity="positive">
+    <text>luxurious spa, well-stocked minibar, and convenient shuttle service</text>
+    <aspects>
+        <aspectTerm term="spa" position="2" RelTerm="luxurious" category="amenities" polarity="positive"/>
+        <aspectTerm term="minibar" position="4" RelTerm="well-stocked" category="room" polarity="positive"/>
+        <aspectTerm term="shuttle service" position="6" RelTerm="convenient" category="service" polarity="positive"/>
+    </aspects>
+</sentence>
+
+<sentence id="AS160" polarity="positive">
+    <text>beautiful garden, attentive concierge, and fast check-in process</text>
+    <aspects>
+        <aspectTerm term="garden" position="2" RelTerm="beautiful" category="facilities" polarity="positive"/>
+        <aspectTerm term="concierge" position="4" RelTerm="attentive" category="service" polarity="positive"/>
+        <aspectTerm term="check-in process" position="6" RelTerm="fast" category="service" polarity="positive"/>
+    </aspects>
+</sentence>
+
+<sentence id="AS161" polarity="positive">
+    <text>comfortable beds, delicious dinner options, and efficient security staff</text>
+    <aspects>
+        <aspectTerm term="beds" position="2" RelTerm="comfortable" category="room" polarity="positive"/>
+        <aspectTerm term="dinner options" position="4" RelTerm="delicious" category="meals" polarity="positive"/>
+        <aspectTerm term="security staff" position="6" RelTerm="efficient" category="security" polarity="positive"/>
+    </aspects>
+</sentence>
+
+<sentence id="AS162" polarity="positive">
+    <text>quiet rooms, helpful guest management, and high-speed Wi-Fi</text>
+    <aspects>
+        <aspectTerm term="rooms" position="2" RelTerm="quiet" category="room" polarity="positive"/>
+        <aspectTerm term="guest management" position="4" RelTerm="helpful" category="service" polarity="positive"/>
+        <aspectTerm term="Wi-Fi" position="6" RelTerm="high-speed" category="amenities" polarity="positive"/>
+    </aspects>
+</sentence>
+
+<sentence id="AS163" polarity="positive">
+    <text>great location, convenient parking, and well-maintained gym</text>
+    <aspects>
+        <aspectTerm term="location" position="2" RelTerm="great" category="location" polarity="positive"/>
+        <aspectTerm term="parking" position="4" RelTerm="convenient" category="facilities" polarity="positive"/>
+        <aspectTerm term="gym" position="6" RelTerm="well-maintained" category="amenities" polarity="positive"/>
+    </aspects>
+</sentence>
+
+<sentence id="AS164" polarity="positive">
+    <text>friendly reception staff, clean bathrooms, and tasty breakfast</text>
+    <aspects>
+        <aspectTerm term="reception staff" position="2" RelTerm="friendly" category="service" polarity="positive"/>
+        <aspectTerm term="bathrooms" position="4" RelTerm="clean" category="room" polarity="positive"/>
+        <aspectTerm term="breakfast" position="6" RelTerm="tasty" category="meals" polarity="positive"/>
+    </aspects>
+</sentence>
+
+<sentence id="AS165" polarity="positive">
+    <text>well-lit corridors, accommodating front desk, and secure premises</text>
+    <aspects>
+        <aspectTerm term="corridors" position="2" RelTerm="well-lit" category="facilities" polarity="positive"/>
+        <aspectTerm term="front desk" position="4" RelTerm="accommodating" category="service" polarity="positive"/>
+        <aspectTerm term="premises" position="6" RelTerm="secure" category="security" polarity="positive"/>
+    </aspects>
+</sentence>
+
+<sentence id="AS166" polarity="positive">
+    <text>efficient room service, relaxing pool, and comprehensive gym facilities</text>
+    <aspects>
+        <aspectTerm term="room service" position="2" RelTerm="efficient" category="service" polarity="positive"/>
+        <aspectTerm term="pool" position="4" RelTerm="relaxing" category="amenities" polarity="positive"/>
+        <aspectTerm term="gym facilities" position="6" RelTerm="comprehensive" category="amenities" polarity="positive"/>
+    </aspects>
+</sentence>
+
+<sentence id="AS167" polarity="positive">
+    <text>comfortable lounge area, high-quality breakfast, and excellent reservation system</text>
+    <aspects>
+        <aspectTerm term="lounge area" position="2" RelTerm="comfortable" category="facilities" polarity="positive"/>
+        <aspectTerm term="breakfast" position="4" RelTerm="high-quality" category="meals" polarity="positive"/>
+        <aspectTerm term="reservation system" position="6" RelTerm="excellent" category="service" polarity="positive"/>
+    </aspects>
+</sentence>
+
+<sentence id="AS168" polarity="positive">
+    <text>reliable Wi-Fi, clean swimming pool, and attentive guest management</text>
+    <aspects>
+        <aspectTerm term="Wi-Fi" position="2" RelTerm="reliable" category="amenities" polarity="positive"/>
+        <aspectTerm term="swimming pool" position="4" RelTerm="clean" category="amenities" polarity="positive"/>
+        <aspectTerm term="guest management" position="6" RelTerm="attentive" category="service" polarity="positive"/>
+    </aspects>
+</sentence>
+
+<sentence id="AS169" polarity="positive">
+    <text>delicious breakfast, spacious parking, and prompt housekeeping service</text>
+    <aspects>
+        <aspectTerm term="breakfast" position="2" RelTerm="delicious" category="meals" polarity="positive"/>
+        <aspectTerm term="parking" position="4" RelTerm="spacious" category="facilities" polarity="positive"/>
+        <aspectTerm term="housekeeping service" position="6" RelTerm="prompt" category="service" polarity="positive"/>
+    </aspects>
+</sentence>
+
+<sentence id="AS170" polarity="positive">
+    <text>comfortable beds, delicious dinner, and modern gym</text>
+    <aspects>
+        <aspectTerm term="beds" position="2" RelTerm="comfortable" category="room" polarity="positive"/>
+        <aspectTerm term="dinner" position="4" RelTerm="delicious" category="meals" polarity="positive"/>
+        <aspectTerm term="gym" position="6" RelTerm="modern" category="amenities" polarity="positive"/>
+    </aspects>
+</sentence>
+
+<sentence id="AS171" polarity="positive">
+    <text>efficient guest management, secure environment, and tasty breakfast</text>
+    <aspects>
+        <aspectTerm term="guest management" position="2" RelTerm="efficient" category="service" polarity="positive"/>
+        <aspectTerm term="environment" position="4" RelTerm="secure" category="security" polarity="positive"/>
+        <aspectTerm term="breakfast" position="6" RelTerm="tasty" category="meals" polarity="positive"/>
+    </aspects>
+</sentence>
+
+<sentence id="AS172" polarity="positive">
+    <text>modern gym, quick check-in process, and reliable Wi-Fi</text>
+    <aspects>
+        <aspectTerm term="gym" position="2" RelTerm="modern" category="amenities" polarity="positive"/>
+        <aspectTerm term="check-in process" position="4" RelTerm="quick" category="service" polarity="positive"/>
+        <aspectTerm term="Wi-Fi" position="6" RelTerm="reliable" category="amenities" polarity="positive"/>
+    </aspects>
+</sentence>
+
+<sentence id="AS173" polarity="positive">
+    <text>spacious rooms, convenient location, and friendly security staff</text>
+    <aspects>
+        <aspectTerm term="rooms" position="2" RelTerm="spacious" category="room" polarity="positive"/>
+        <aspectTerm term="location" position="4" RelTerm="convenient" category="location" polarity="positive"/>
+        <aspectTerm term="security staff" position="6" RelTerm="friendly" category="security" polarity="positive"/>
+    </aspects>
+</sentence>
+
+<sentence id="AS174" polarity="positive">
+    <text>beautiful garden, clean rooms, and helpful concierge</text>
+    <aspects>
+        <aspectTerm term="garden" position="2" RelTerm="beautiful" category="facilities" polarity="positive"/>
+        <aspectTerm term="rooms" position="4" RelTerm="clean" category="room" polarity="positive"/>
+        <aspectTerm term="concierge" position="6" RelTerm="helpful" category="service" polarity="positive"/>
+    </aspects>
+</sentence>
+
+<sentence id="AS175" polarity="positive">
+    <text>excellent breakfast, secure premises, and attentive housekeeping staff</text>
+    <aspects>
+        <aspectTerm term="breakfast" position="2" RelTerm="excellent" category="meals" polarity="positive"/>
+        <aspectTerm term="premises" position="4" RelTerm="secure" category="security" polarity="positive"/>
+        <aspectTerm term="housekeeping staff" position="6" RelTerm="attentive" category="service" polarity="positive"/>
+    </aspects>
+</sentence>
+<sentence id="AS176" polarity="positive">
+    <text>high-speed Wi-Fi, spacious lounge area, and delicious breakfast</text>
+    <aspects>
+        <aspectTerm term="Wi-Fi" position="2" RelTerm="high-speed" category="amenities" polarity="positive"/>
+        <aspectTerm term="lounge area" position="4" RelTerm="spacious" category="facilities" polarity="positive"/>
+        <aspectTerm term="breakfast" position="6" RelTerm="delicious" category="meals" polarity="positive"/>
+    </aspects>
+</sentence>
+
+<sentence id="AS177" polarity="positive">
+    <text>fast check-out process, modern fitness center, and accommodating staff</text>
+    <aspects>
+        <aspectTerm term="check-out process" position="2" RelTerm="fast" category="service" polarity="positive"/>
+        <aspectTerm term="fitness center" position="4" RelTerm="modern" category="amenities" polarity="positive"/>
+        <aspectTerm term="staff" position="6" RelTerm="accommodating" category="service" polarity="positive"/>
+    </aspects>
+</sentence>
+
+<sentence id="AS178" polarity="positive">
+    <text>friendly reception staff, secure parking, and clean pool area</text>
+    <aspects>
+        <aspectTerm term="reception staff" position="2" RelTerm="friendly" category="service" polarity="positive"/>
+        <aspectTerm term="parking" position="4" RelTerm="secure" category="facilities" polarity="positive"/>
+        <aspectTerm term="pool area" position="6" RelTerm="clean" category="amenities" polarity="positive"/>
+    </aspects>
+</sentence>
+
+<sentence id="AS179" polarity="positive">
+    <text>great location, clean fitness center, and reliable Wi-Fi</text>
+    <aspects>
+        <aspectTerm term="location" position="2" RelTerm="great" category="location" polarity="positive"/>
+        <aspectTerm term="fitness center" position="4" RelTerm="clean" category="amenities" polarity="positive"/>
+        <aspectTerm term="Wi-Fi" position="6" RelTerm="reliable" category="amenities" polarity="positive"/>
+    </aspects>
+</sentence>
+
+<sentence id="AS180" polarity="positive">
+    <text>efficient reservation system, delicious meals, and attentive security management</text>
+    <aspects>
+        <aspectTerm term="reservation system" position="2" RelTerm="efficient" category="service" polarity="positive"/>
+        <aspectTerm term="meals" position="4" RelTerm="delicious" category="meals" polarity="positive"/>
+        <aspectTerm term="security management" position="6" RelTerm="attentive" category="security" polarity="positive"/>
+    </aspects>
+</sentence>
+
+<sentence id="AS181" polarity="positive">
+    <text>comfortable beds, helpful guest management, and secure premises</text>
+    <aspects>
+        <aspectTerm term="beds" position="2" RelTerm="comfortable" category="room" polarity="positive"/>
+        <aspectTerm term="guest management" position="4" RelTerm="helpful" category="service" polarity="positive"/>
+        <aspectTerm term="premises" position="6" RelTerm="secure" category="security" polarity="positive"/>
+    </aspects>
+</sentence>
+
+<sentence id="AS182" polarity="positive">
+    <text>friendly housekeeping staff, quick room service, and spacious lounge</text>
+    <aspects>
+        <aspectTerm term="housekeeping staff" position="2" RelTerm="friendly" category="service" polarity="positive"/>
+        <aspectTerm term="room service" position="4" RelTerm="quick" category="service" polarity="positive"/>
+        <aspectTerm term="lounge" position="6" RelTerm="spacious" category="facilities" polarity="positive"/>
+    </aspects>
+</sentence>
+
+<sentence id="AS183" polarity="positive">
+    <text>clean swimming pool, well-lit parking, and high-speed Wi-Fi</text>
+    <aspects>
+        <aspectTerm term="swimming pool" position="2" RelTerm="clean" category="amenities" polarity="positive"/>
+        <aspectTerm term="parking" position="4" RelTerm="well-lit" category="facilities" polarity="positive"/>
+        <aspectTerm term="Wi-Fi" position="6" RelTerm="high-speed" category="amenities" polarity="positive"/>
+    </aspects>
+</sentence>
+
+<sentence id="AS184" polarity="positive">
+    <text>excellent customer experience, spacious rooms, and secure environment</text>
+    <aspects>
+        <aspectTerm term="customer experience" position="2" RelTerm="excellent" category="service" polarity="positive"/>
+        <aspectTerm term="rooms" position="4" RelTerm="spacious" category="room" polarity="positive"/>
+        <aspectTerm term="environment" position="6" RelTerm="secure" category="security" polarity="positive"/>
+    </aspects>
+</sentence>
+
+<sentence id="AS185" polarity="positive">
+    <text>delicious breakfast, relaxing spa, and friendly front desk staff</text>
+    <aspects>
+        <aspectTerm term="breakfast" position="2" RelTerm="delicious" category="meals" polarity="positive"/>
+        <aspectTerm term="spa" position="4" RelTerm="relaxing" category="amenities" polarity="positive"/>
+        <aspectTerm term="front desk staff" position="6" RelTerm="friendly" category="service" polarity="positive"/>
+    </aspects>
+</sentence>
+
+<sentence id="AS186" polarity="positive">
+    <text>fast check-in process, clean rooms, and well-equipped fitness center</text>
+    <aspects>
+        <aspectTerm term="check-in process" position="2" RelTerm="fast" category="service" polarity="positive"/>
+        <aspectTerm term="rooms" position="4" RelTerm="clean" category="room" polarity="positive"/>
+        <aspectTerm term="fitness center" position="6" RelTerm="well-equipped" category="amenities" polarity="positive"/>
+    </aspects>
+</sentence>
+<sentence id="AS187" polarity="positive">
+    <text>secure premises, comfortable lounge area, and friendly guest management</text>
+    <aspects>
+        <aspectTerm term="premises" position="2" RelTerm="secure" category="security" polarity="positive"/>
+        <aspectTerm term="lounge area" position="4" RelTerm="comfortable" category="facilities" polarity="positive"/>
+        <aspectTerm term="guest management" position="6" RelTerm="friendly" category="service" polarity="positive"/>
+    </aspects>
+</sentence>
+
+<sentence id="AS188" polarity="positive">
+    <text>helpful reception staff, fast Wi-Fi, and delicious dinner options</text>
+    <aspects>
+        <aspectTerm term="reception staff" position="2" RelTerm="helpful" category="service" polarity="positive"/>
+        <aspectTerm term="Wi-Fi" position="4" RelTerm="fast" category="amenities" polarity="positive"/>
+        <aspectTerm term="dinner options" position="6" RelTerm="delicious" category="meals" polarity="positive"/>
+    </aspects>
+</sentence>
+
+<sentence id="AS189" polarity="positive">
+    <text>comfortable beds, accommodating housekeeping staff, and spacious lounge</text>
+    <aspects>
+        <aspectTerm term="beds" position="2" RelTerm="comfortable" category="room" polarity="positive"/>
+        <aspectTerm term="housekeeping staff" position="4" RelTerm="accommodating" category="service" polarity="positive"/>
+        <aspectTerm term="lounge" position="6" RelTerm="spacious" category="facilities" polarity="positive"/>
+    </aspects>
+</sentence>
+
+<sentence id="AS190" polarity="positive">
+    <text>well-maintained gym, reliable Wi-Fi, and friendly front desk</text>
+    <aspects>
+        <aspectTerm term="gym" position="2" RelTerm="well-maintained" category="amenities" polarity="positive"/>
+        <aspectTerm term="Wi-Fi" position="4" RelTerm="reliable" category="amenities" polarity="positive"/>
+        <aspectTerm term="front desk" position="6" RelTerm="friendly" category="service" polarity="positive"/>
+    </aspects>
+</sentence>
+
+<sentence id="AS191" polarity="positive">
+    <text>smooth reservation management, convenient mobile accessibility, and secure payment options</text>
+    <aspects>
+        <aspectTerm term="reservation management" position="2" RelTerm="smooth" category="service" polarity="positive"/>
+        <aspectTerm term="mobile accessibility" position="4" RelTerm="convenient" category="service" polarity="positive"/>
+        <aspectTerm term="payment options" position="6" RelTerm="secure" category="payments" polarity="positive"/>
+    </aspects>
+</sentence>
+
+<sentence id="AS192" polarity="positive">
+    <text>easy reservation system, excellent mobile app, and quick payment processing</text>
+    <aspects>
+        <aspectTerm term="reservation system" position="2" RelTerm="easy" category="service" polarity="positive"/>
+        <aspectTerm term="mobile app" position="4" RelTerm="excellent" category="service" polarity="positive"/>
+        <aspectTerm term="payment processing" position="6" RelTerm="quick" category="payments" polarity="positive"/>
+    </aspects>
+</sentence>
+
+<sentence id="AS193" polarity="positive">
+    <text>well-maintained facilities, user-friendly mobile interface, and efficient payment methods</text>
+    <aspects>
+        <aspectTerm term="facilities" position="2" RelTerm="well-maintained" category="maintenance" polarity="positive"/>
+        <aspectTerm term="mobile interface" position="4" RelTerm="user-friendly" category="service" polarity="positive"/>
+        <aspectTerm term="payment methods" position="6" RelTerm="efficient" category="payments" polarity="positive"/>
+    </aspects>
+</sentence>
+
+<sentence id="AS194" polarity="positive">
+    <text>effective maintenance team, reliable mobile booking, and secure payment gateway</text>
+    <aspects>
+        <aspectTerm term="maintenance team" position="2" RelTerm="effective" category="maintenance" polarity="positive"/>
+        <aspectTerm term="mobile booking" position="4" RelTerm="reliable" category="service" polarity="positive"/>
+        <aspectTerm term="payment gateway" position="6" RelTerm="secure" category="payments" polarity="positive"/>
+    </aspects>
+</sentence>
+
+<sentence id="AS195" polarity="positive">
+    <text>responsive reservation management, intuitive mobile app, and easy payment options</text>
+    <aspects>
+        <aspectTerm term="reservation management" position="2" RelTerm="responsive" category="service" polarity="positive"/>
+        <aspectTerm term="mobile app" position="4" RelTerm="intuitive" category="service" polarity="positive"/>
+        <aspectTerm term="payment options" position="6" RelTerm="easy" category="payments" polarity="positive"/>
+    </aspects>
+</sentence>
+
+<sentence id="AS196" polarity="positive">
+    <text>excellent maintenance services, fast mobile check-in, and various payment methods</text>
+    <aspects>
+        <aspectTerm term="maintenance services" position="2" RelTerm="excellent" category="maintenance" polarity="positive"/>
+        <aspectTerm term="mobile check-in" position="4" RelTerm="fast" category="service" polarity="positive"/>
+        <aspectTerm term="payment methods" position="6" RelTerm="various" category="payments" polarity="positive"/>
+    </aspects>
+</sentence>
+<sentence id="AS197" polarity="positive">
+    <text>well-organized reservation management, seamless mobile experience, and quick payment process</text>
+    <aspects>
+        <aspectTerm term="reservation management" position="2" RelTerm="well-organized" category="service" polarity="positive"/>
+        <aspectTerm term="mobile experience" position="4" RelTerm="seamless" category="service" polarity="positive"/>
+        <aspectTerm term="payment process" position="6" RelTerm="quick" category="payments" polarity="positive"/>
+    </aspects>
+</sentence>
+
+<sentence id="AS198" polarity="positive">
+    <text>efficient maintenance team, user-friendly mobile booking, and secure payment options</text>
+    <aspects>
+        <aspectTerm term="maintenance team" position="2" RelTerm="efficient" category="maintenance" polarity="positive"/>
+        <aspectTerm term="mobile booking" position="4" RelTerm="user-friendly" category="service" polarity="positive"/>
+        <aspectTerm term="payment options" position="6" RelTerm="secure" category="payments" polarity="positive"/>
+    </aspects>
+</sentence>
+
+<sentence id="AS199" polarity="positive">
+    <text>prompt maintenance services, convenient mobile app, and reliable payment system</text>
+    <aspects>
+        <aspectTerm term="maintenance services" position="2" RelTerm="prompt" category="maintenance" polarity="positive"/>
+        <aspectTerm term="mobile app" position="4" RelTerm="convenient" category="service" polarity="positive"/>
+        <aspectTerm term="payment system" position="6" RelTerm="reliable" category="payments" polarity="positive"/>
+    </aspects>
+</sentence>
+<sentence id="AS200" polarity="positive">
+    <text>effective reservation management, intuitive mobile accessibility, and fast payment process</text>
+    <aspects>
+        <aspectTerm term="reservation management" position="2" RelTerm="effective" category="service" polarity="positive"/>
+        <aspectTerm term="mobile accessibility" position="4" RelTerm="intuitive" category="service" polarity="positive"/>
+        <aspectTerm term="payment process" position="6" RelTerm="fast" category="payments" polarity="positive"/>
+    </aspects>
+</sentence>
+
+<sentence id="AS201" polarity="positive">
+    <text>quick reservation management, user-friendly mobile app, and well-maintained facilities</text>
+    <aspects>
+        <aspectTerm term="reservation management" position="2" RelTerm="quick" category="service" polarity="positive"/>
+        <aspectTerm term="mobile app" position="4" RelTerm="user-friendly" category="service" polarity="positive"/>
+        <aspectTerm term="facilities" position="6" RelTerm="well-maintained" category="maintenance" polarity="positive"/>
+    </aspects>
+</sentence>
+
+<sentence id="AS202" polarity="positive">
+    <text>smooth payment process, efficient guest management, and secure security system</text>
+    <aspects>
+        <aspectTerm term="payment process" position="2" RelTerm="smooth" category="payments" polarity="positive"/>
+        <aspectTerm term="guest management" position="4" RelTerm="efficient" category="service" polarity="positive"/>
+        <aspectTerm term="security system" position="6" RelTerm="secure" category="security" polarity="positive"/>
+    </aspects>
+</sentence>
+
+<sentence id="AS203" polarity="positive">
+    <text>excellent customer service, fast mobile accessibility, and reliable Wi-Fi</text>
+    <aspects>
+        <aspectTerm term="customer service" position="2" RelTerm="excellent" category="service" polarity="positive"/>
+        <aspectTerm term="mobile accessibility" position="4" RelTerm="fast" category="service" polarity="positive"/>
+        <aspectTerm term="Wi-Fi" position="6" RelTerm="reliable" category="service" polarity="positive"/>
+    </aspects>
+</sentence>
+
+<sentence id="AS204" polarity="positive">
+    <text>quick reservation system, helpful staff, and clean rooms</text>
+    <aspects>
+        <aspectTerm term="reservation system" position="2" RelTerm="quick" category="service" polarity="positive"/>
+        <aspectTerm term="staff" position="4" RelTerm="helpful" category="service" polarity="positive"/>
+        <aspectTerm term="rooms" position="6" RelTerm="clean" category="room" polarity="positive"/>
+    </aspects>
+</sentence>
+
+<sentence id="AS205" polarity="positive">
+    <text>secure payment options, well-maintained pool, and easy mobile booking</text>
+    <aspects>
+        <aspectTerm term="payment options" position="2" RelTerm="secure" category="payments" polarity="positive"/>
+        <aspectTerm term="pool" position="4" RelTerm="well-maintained" category="maintenance" polarity="positive"/>
+        <aspectTerm term="mobile booking" position="6" RelTerm="easy" category="service" polarity="positive"/>
+    </aspects>
+</sentence>
+
+<sentence id="AS206" polarity="positive">
+    <text>fast payment processing, responsive maintenance team, and convenient mobile check-in</text>
+    <aspects>
+        <aspectTerm term="payment processing" position="2" RelTerm="fast" category="payments" polarity="positive"/>
+        <aspectTerm term="maintenance team" position="4" RelTerm="responsive" category="maintenance" polarity="positive"/>
+        <aspectTerm term="mobile check-in" position="6" RelTerm="convenient" category="service" polarity="positive"/>
+    </aspects>
+</sentence>
+
+<sentence id="AS207" polarity="positive">
+    <text>excellent security management, friendly staff, and great breakfast</text>
+    <aspects>
+        <aspectTerm term="security management" position="2" RelTerm="excellent" category="security" polarity="positive"/>
+        <aspectTerm term="staff" position="4" RelTerm="friendly" category="service" polarity="positive"/>
+        <aspectTerm term="breakfast" position="6" RelTerm="great" category="meals" polarity="positive"/>
+    </aspects>
+</sentence>
+
+<sentence id="AS208" polarity="positive">
+    <text>efficient reservation management, reliable Wi-Fi, and clean new rooms</text>
+    <aspects>
+        <aspectTerm term="reservation management" position="2" RelTerm="efficient" category="service" polarity="positive"/>
+        <aspectTerm term="Wi-Fi" position="4" RelTerm="reliable" category="service" polarity="positive"/>
+        <aspectTerm term="rooms" position="6" RelTerm="clean/new" category="room" polarity="positive"/>
+    </aspects>
+</sentence>
+
+<sentence id="AS209" polarity="positive">
+    <text>smooth reservation system, well-maintained fitness center, and fast mobile app</text>
+    <aspects>
+        <aspectTerm term="reservation system" position="2" RelTerm="smooth" category="service" polarity="positive"/>
+        <aspectTerm term="fitness center" position="4" RelTerm="well-maintained" category="maintenance" polarity="positive"/>
+        <aspectTerm term="mobile app" position="6" RelTerm="fast" category="service" polarity="positive"/>
+    </aspects>
+</sentence>
+<sentence id="AS210" polarity="positive">
+    <text>secure payment methods, efficient guest management, and excellent customer service</text>
+    <aspects>
+        <aspectTerm term="payment methods" position="2" RelTerm="secure" category="payments" polarity="positive"/>
+        <aspectTerm term="guest management" position="4" RelTerm="efficient" category="service" polarity="positive"/>
+        <aspectTerm term="customer service" position="6" RelTerm="excellent" category="service" polarity="positive"/>
+    </aspects>
+</sentence>
+<sentence id="AS221" polarity="positive">
+    <text>efficient reservation management, clean pool, and responsive maintenance</text>
+    <aspects>
+        <aspectTerm term="reservation management" position="2" RelTerm="efficient" category="service" polarity="positive"/>
+        <aspectTerm term="pool" position="4" RelTerm="clean" category="maintenance" polarity="positive"/>
+        <aspectTerm term="maintenance" position="6" RelTerm="responsive" category="maintenance" polarity="positive"/>
+    </aspects>
+</sentence>
+
+<sentence id="AS222" polarity="positive">
+    <text>user-friendly mobile app, reliable security, and great breakfast</text>
+    <aspects>
+        <aspectTerm term="mobile app" position="2" RelTerm="user-friendly" category="service" polarity="positive"/>
+        <aspectTerm term="security" position="4" RelTerm="reliable" category="security" polarity="positive"/>
+        <aspectTerm term="breakfast" position="6" RelTerm="great" category="meals" polarity="positive"/>
+    </aspects>
+</sentence>
+
+<sentence id="AS223" polarity="positive">
+    <text>easy payment process, well-maintained gym, and efficient guest management</text>
+    <aspects>
+        <aspectTerm term="payment process" position="2" RelTerm="easy" category="payments" polarity="positive"/>
+        <aspectTerm term="gym" position="4" RelTerm="well-maintained" category="maintenance" polarity="positive"/>
+        <aspectTerm term="guest management" position="6" RelTerm="efficient" category="service" polarity="positive"/>
+    </aspects>
+</sentence>
+<sentence id="AS224" polarity="positive">
+    <text>secure mobile payments, clean rooms, and friendly staff</text>
+    <aspects>
+        <aspectTerm term="mobile payments" position="2" RelTerm="secure" category="payments" polarity="positive"/>
+        <aspectTerm term="rooms" position="4" RelTerm="clean" category="room" polarity="positive"/>
+        <aspectTerm term="staff" position="6" RelTerm="friendly" category="service" polarity="positive"/>
+    </aspects>
+</sentence>
+
+<sentence id="AS225" polarity="positive">
+    <text>smooth reservation system, excellent customer experience, and fast Wi-Fi</text>
+    <aspects>
+        <aspectTerm term="reservation system" position="2" RelTerm="smooth" category="service" polarity="positive"/>
+        <aspectTerm term="customer experience" position="4" RelTerm="excellent" category="service" polarity="positive"/>
+        <aspectTerm term="Wi-Fi" position="6" RelTerm="fast" category="service" polarity="positive"/>
+    </aspects>
+</sentence>
+
+<sentence id="AS226" polarity="positive">
+    <text>quick guest management, well-maintained pool, and reliable mobile app</text>
+    <aspects>
+        <aspectTerm term="guest management" position="2" RelTerm="quick" category="service" polarity="positive"/>
+        <aspectTerm term="pool" position="4" RelTerm="well-maintained" category="maintenance" polarity="positive"/>
+        <aspectTerm term="mobile app" position="6" RelTerm="reliable" category="service" polarity="positive"/>
+    </aspects>
+</sentence>
+
+<sentence id="AS227" polarity="positive">
+    <text>responsive security management, great breakfast, and clean rooms</text>
+    <aspects>
+        <aspectTerm term="security management" position="2" RelTerm="responsive" category="security" polarity="positive"/>
+        <aspectTerm term="breakfast" position="4" RelTerm="great" category="meals" polarity="positive"/>
+        <aspectTerm term="rooms" position="6" RelTerm="clean" category="room" polarity="positive"/>
+    </aspects>
+</sentence>
+
+<sentence id="AS228" polarity="positive">
+    <text>excellent maintenance team, smooth payment process, and friendly staff</text>
+    <aspects>
+        <aspectTerm term="maintenance team" position="2" RelTerm="excellent" category="maintenance" polarity="positive"/>
+        <aspectTerm term="payment process" position="4" RelTerm="smooth" category="payments" polarity="positive"/>
+        <aspectTerm term="staff" position="6" RelTerm="friendly" category="service" polarity="positive"/>
+    </aspects>
+</sentence>
+
+<sentence id="AS229" polarity="positive">
+    <text>fast mobile check-in, clean fitness center, and secure security system</text>
+    <aspects>
+        <aspectTerm term="mobile check-in" position="2" RelTerm="fast" category="service" polarity="positive"/>
+        <aspectTerm term="fitness center" position="4" RelTerm="clean" category="maintenance" polarity="positive"/>
+        <aspectTerm term="security system" position="6" RelTerm="secure" category="security" polarity="positive"/>
+    </aspects>
+</sentence>
+
+<sentence id="AS230" polarity="positive">
+    <text>easy reservation system, great customer experience, and reliable Wi-Fi</text>
+    <aspects>
+        <aspectTerm term="reservation system" position="2" RelTerm="easy" category="service" polarity="positive"/>
+        <aspectTerm term="customer experience" position="4" RelTerm="great" category="service" polarity="positive"/>
+        <aspectTerm term="Wi-Fi" position="6" RelTerm="reliable" category="service" polarity="positive"/>
+    </aspects>
+</sentence>
+
+<sentence id="AS231" polarity="positive">
+    <text>well-maintained facilities, smooth payment process, and excellent security</text>
+    <aspects>
+        <aspectTerm term="facilities" position="2" RelTerm="well-maintained" category="maintenance" polarity="positive"/>
+        <aspectTerm term="payment process" position="4" RelTerm="smooth" category="payments" polarity="positive"/>
+        <aspectTerm term="security" position="6" RelTerm="excellent" category="security" polarity="positive"/>
+    </aspects>
+</sentence>
+
+<sentence id="AS232" polarity="positive">
+    <text>responsive guest management, user-friendly mobile app, and great breakfast</text>
+    <aspects>
+        <aspectTerm term="guest management" position="2" RelTerm="responsive" category="service" polarity="positive"/>
+        <aspectTerm term="mobile app" position="4" RelTerm="user-friendly" category="service" polarity="positive"/>
+        <aspectTerm term="breakfast" position="6" RelTerm="great" category="meals" polarity="positive"/>
+    </aspects>
+</sentence>
+
+<sentence id="AS233" polarity="positive">
+    <text>secure mobile payments, efficient reservation management, and reliable Wi-Fi</text>
+    <aspects>
+        <aspectTerm term="mobile payments" position="2" RelTerm="secure" category="payments" polarity="positive"/>
+        <aspectTerm term="reservation management" position="4" RelTerm="efficient" category="service" polarity="positive"/>
+        <aspectTerm term="Wi-Fi" position="6" RelTerm="reliable" category="service" polarity="positive"/>
+    </aspects>
+</sentence>
+
+<sentence id="AS234" polarity="positive">
+    <text>quick mobile booking, clean rooms, and friendly staff</text>
+    <aspects>
+        <aspectTerm term="mobile booking" position="2" RelTerm="quick" category="service" polarity="positive"/>
+        <aspectTerm term="rooms" position="4" RelTerm="clean" category="room" polarity="positive"/>
+        <aspectTerm term="staff" position="6" RelTerm="friendly" category="service" polarity="positive"/>
+    </aspects>
+</sentence>
+
+<sentence id="AS235" polarity="positive">
+    <text>efficient payment processing, well-maintained pool, and excellent customer experience</text>
+    <aspects>
+        <aspectTerm term="payment processing" position="2" RelTerm="efficient" category="payments" polarity="positive"/>
+        <aspectTerm term="pool" position="4" RelTerm="well-maintained" category="maintenance" polarity="positive"/>
+        <aspectTerm term="customer experience" position="6" RelTerm="excellent" category="service" polarity="positive"/>
+    </aspects>
+</sentence>
+
+<sentence id="AS236" polarity="positive">
+    <text>user-friendly reservation system, responsive maintenance, and secure security management</text>
+    <aspects>
+        <aspectTerm term="reservation system" position="2" RelTerm="user-friendly" category="service" polarity="positive"/>
+        <aspectTerm term="maintenance" position="4" RelTerm="responsive" category="maintenance" polarity="positive"/>
+        <aspectTerm term="security management" position="6" RelTerm="secure" category="security" polarity="positive"/>
+    </aspects>
+</sentence>
+
+<sentence id="AS237" polarity="positive">
+    <text>reliable mobile app, smooth payment process, and clean gym</text>
+    <aspects>
+        <aspectTerm term="mobile app" position="2" RelTerm="reliable" category="service" polarity="positive"/>
+        <aspectTerm term="payment process" position="4" RelTerm="smooth" category="payments" polarity="positive"/>
+        <aspectTerm term="gym" position="6" RelTerm="clean" category="maintenance" polarity="positive"/>
+    </aspects>
+</sentence>
+
+<sentence id="AS238" polarity="positive">
+    <text>great reservation management, fast Wi-Fi, and well-maintained facilities</text>
+    <aspects>
+        <aspectTerm term="reservation management" position="2" RelTerm="great" category="service" polarity="positive"/>
+        <aspectTerm term="Wi-Fi" position="4" RelTerm="fast" category="service" polarity="positive"/>
+        <aspectTerm term="facilities" position="6" RelTerm="well-maintained" category="maintenance" polarity="positive"/>
+    </aspects>
+</sentence>
+
+<sentence id="AS239" polarity="positive">
+    <text>efficient guest management, secure payment methods, and clean rooms</text>
+    <aspects>
+        <aspectTerm term="guest management" position="2" RelTerm="efficient" category="service" polarity="positive"/>
+        <aspectTerm term="payment methods" position="4" RelTerm="secure" category="payments" polarity="positive"/>
+        <aspectTerm term="rooms" position="6" RelTerm="clean" category="room" polarity="positive"/>
+    </aspects>
+</sentence>
+
+<sentence id="AS240" polarity="positive">
+    <text>responsive security, great breakfast, and excellent mobile accessibility</text>
+    <aspects>
+        <aspectTerm term="security" position="2" RelTerm="responsive" category="security" polarity="positive"/>
+        <aspectTerm term="breakfast" position="4" RelTerm="great" category="meals" polarity="positive"/>
+        <aspectTerm term="mobile accessibility" position="6" RelTerm="excellent" category="service" polarity="positive"/>
+    </aspects>
+</sentence>
+
+<sentence id="AS241" polarity="positive">
+    <text>great mobile accessibility, well-maintained fitness center, and easy payment process</text>
+    <aspects>
+        <aspectTerm term="mobile accessibility" position="2" RelTerm="great" category="service" polarity="positive"/>
+        <aspectTerm term="fitness center" position="4" RelTerm="well-maintained" category="maintenance" polarity="positive"/>
+        <aspectTerm term="payment process" position="6" RelTerm="easy" category="payments" polarity="positive"/>
+    </aspects>
+</sentence>
+<sentence id="AS242" polarity="positive">
+    <text>reliable reservation management, responsive maintenance, and secure mobile payments</text>
+    <aspects>
+        <aspectTerm term="reservation management" position="2" RelTerm="reliable" category="service" polarity="positive"/>
+        <aspectTerm term="maintenance" position="4" RelTerm="responsive" category="maintenance" polarity="positive"/>
+        <aspectTerm term="mobile payments" position="6" RelTerm="secure" category="payments" polarity="positive"/>
+    </aspects>
+</sentence>
+
+<sentence id="AS243" polarity="positive">
+    <text>user-friendly mobile app, excellent security management, and fast Wi-Fi</text>
+    <aspects>
+        <aspectTerm term="mobile app" position="2" RelTerm="user-friendly" category="service" polarity="positive"/>
+        <aspectTerm term="security management" position="4" RelTerm="excellent" category="security" polarity="positive"/>
+        <aspectTerm term="Wi-Fi" position="6" RelTerm="fast" category="service" polarity="positive"/>
+    </aspects>
+</sentence>
+
+<sentence id="AS244" polarity="positive">
+    <text>great guest management, well-maintained pool, and efficient reservation system</text>
+    <aspects>
+        <aspectTerm term="guest management" position="2" RelTerm="great" category="service" polarity="positive"/>
+        <aspectTerm term="pool" position="4" RelTerm="well-maintained" category="maintenance" polarity="positive"/>
+        <aspectTerm term="reservation system" position="6" RelTerm="efficient" category="service" polarity="positive"/>
+    </aspects>
+</sentence>
+
+<sentence id="AS245" polarity="positive">
+    <text>responsive maintenance, secure payment methods, and friendly staff</text>
+    <aspects>
+        <aspectTerm term="maintenance" position="2" RelTerm="responsive" category="maintenance" polarity="positive"/>
+        <aspectTerm term="payment methods" position="4" RelTerm="secure" category="payments" polarity="positive"/>
+        <aspectTerm term="staff" position="6" RelTerm="friendly" category="service" polarity="positive"/>
+    </aspects>
+</sentence>
+
+<sentence id="AS246" polarity="positive">
+    <text>excellent customer experience, fast mobile check-in, and clean rooms</text>
+    <aspects>
+        <aspectTerm term="customer experience" position="2" RelTerm="excellent" category="service" polarity="positive"/>
+        <aspectTerm term="mobile check-in" position="4" RelTerm="fast" category="service" polarity="positive"/>
+        <aspectTerm term="rooms" position="6" RelTerm="clean" category="room" polarity="positive"/>
+    </aspects>
+</sentence>
+
+<sentence id="AS247" polarity="positive">
+    <text>smooth payment process, responsive guest management, and well-maintained facilities</text>
+    <aspects>
+        <aspectTerm term="payment process" position="2" RelTerm="smooth" category="payments" polarity="positive"/>
+        <aspectTerm term="guest management" position="4" RelTerm="responsive" category="service" polarity="positive"/>
+        <aspectTerm term="facilities" position="6" RelTerm="well-maintained" category="maintenance" polarity="positive"/>
+    </aspects>
+</sentence>
+
+<sentence id="AS248" polarity="positive">
+    <text>reliable mobile app, efficient reservation system, and great breakfast</text>
+    <aspects>
+        <aspectTerm term="mobile app" position="2" RelTerm="reliable" category="service" polarity="positive"/>
+        <aspectTerm term="reservation system" position="4" RelTerm="efficient" category="service" polarity="positive"/>
+        <aspectTerm term="breakfast" position="6" RelTerm="great" category="meals" polarity="positive"/>
+    </aspects>
+</sentence>
+
+<sentence id="AS249" polarity="positive">
+    <text>clean fitness center, secure security management, and easy reservation management</text>
+    <aspects>
+        <aspectTerm term="fitness center" position="2" RelTerm="clean" category="maintenance" polarity="positive"/>
+        <aspectTerm term="security management" position="4" RelTerm="secure" category="security" polarity="positive"/>
+        <aspectTerm term="reservation management" position="6" RelTerm="easy" category="service" polarity="positive"/>
+    </aspects>
+</sentence>
+
+<sentence id="AS250" polarity="positive">
+    <text>user-friendly mobile accessibility, responsive maintenance team, and excellent Wi-Fi</text>
+    <aspects>
+        <aspectTerm term="mobile accessibility" position="2" RelTerm="user-friendly" category="service" polarity="positive"/>
+        <aspectTerm term="maintenance team" position="4" RelTerm="responsive" category="maintenance" polarity="positive"/>
+        <aspectTerm term="Wi-Fi" position="6" RelTerm="excellent" category="service" polarity="positive"/>
+    </aspects>
+</sentence>
+
+<sentence id="AS251" polarity="positive">
+    <text>great guest management, well-maintained pool, and secure mobile payments</text>
+    <aspects>
+        <aspectTerm term="guest management" position="2" RelTerm="great" category="service" polarity="positive"/>
+        <aspectTerm term="pool" position="4" RelTerm="well-maintained" category="maintenance" polarity="positive"/>
+        <aspectTerm term="mobile payments" position="6" RelTerm="secure" category="payments" polarity="positive"/>
+    </aspects>
+</sentence>
+
+<sentence id="AS252" polarity="positive">
+    <text>efficient reservation management, reliable security system, and fast mobile check-in</text>
+    <aspects>
+        <aspectTerm term="reservation management" position="2" RelTerm="efficient" category="service" polarity="positive"/>
+        <aspectTerm term="security system" position="4" RelTerm="reliable" category="security" polarity="positive"/>
+        <aspectTerm term="mobile check-in" position="6" RelTerm="fast" category="service" polarity="positive"/>
+    </aspects>
+</sentence>
+
+<sentence id="AS253" polarity="positive">
+    <text>smooth payment process, user-friendly mobile app, and excellent customer experience</text>
+    <aspects>
+        <aspectTerm term="payment process" position="2" RelTerm="smooth" category="payments" polarity="positive"/>
+        <aspectTerm term="mobile app" position="4" RelTerm="user-friendly" category="service" polarity="positive"/>
+        <aspectTerm term="customer experience" position="6" RelTerm="excellent" category="service" polarity="positive"/>
+    </aspects>
+</sentence>
+<sentence id="AS254" polarity="positive">
+    <text>well-maintained fitness center, secure mobile payments, and fast Wi-Fi</text>
+    <aspects>
+        <aspectTerm term="fitness center" position="2" RelTerm="well-maintained" category="maintenance" polarity="positive"/>
+        <aspectTerm term="mobile payments" position="4" RelTerm="secure" category="payments" polarity="positive"/>
+        <aspectTerm term="Wi-Fi" position="6" RelTerm="fast" category="service" polarity="positive"/>
+    </aspects>
+</sentence>
+
+<sentence id="AS255" polarity="positive">
+    <text>great breakfast, responsive maintenance team, and easy reservation system</text>
+    <aspects>
+        <aspectTerm term="breakfast" position="2" RelTerm="great" category="meals" polarity="positive"/>
+        <aspectTerm term="maintenance team" position="4" RelTerm="responsive" category="maintenance" polarity="positive"/>
+        <aspectTerm term="reservation system" position="6" RelTerm="easy" category="service" polarity="positive"/>
+    </aspects>
+</sentence>
+
+<sentence id="AS256" polarity="positive">
+    <text>secure security management, well-maintained facilities, and fast mobile check-in</text>
+    <aspects>
+        <aspectTerm term="security management" position="2" RelTerm="secure" category="security" polarity="positive"/>
+        <aspectTerm term="facilities" position="4" RelTerm="well-maintained" category="maintenance" polarity="positive"/>
+        <aspectTerm term="mobile check-in" position="6" RelTerm="fast" category="service" polarity="positive"/>
+    </aspects>
+</sentence>
+
+<sentence id="AS257" polarity="positive">
+    <text>efficient guest management, great mobile accessibility, and smooth payment process</text>
+    <aspects>
+        <aspectTerm term="guest management" position="2" RelTerm="efficient" category="service" polarity="positive"/>
+        <aspectTerm term="mobile accessibility" position="4" RelTerm="great" category="service" polarity="positive"/>
+        <aspectTerm term="payment process" position="6" RelTerm="smooth" category="payments" polarity="positive"/>
+    </aspects>
+</sentence>
+<sentence id="AS258" polarity="positive">
+    <text>responsive maintenance, reliable security system, and well-maintained fitness center</text>
+    <aspects>
+        <aspectTerm term="maintenance" position="2" RelTerm="responsive" category="maintenance" polarity="positive"/>
+        <aspectTerm term="security system" position="4" RelTerm="reliable" category="security" polarity="positive"/>
+        <aspectTerm term="fitness center" position="6" RelTerm="well-maintained" category="maintenance" polarity="positive"/>
+    </aspects>
+</sentence>
+
+<sentence id="AS259" polarity="positive">
+    <text>great guest management, secure payment methods, and easy mobile check-in</text>
+    <aspects>
+        <aspectTerm term="guest management" position="2" RelTerm="great" category="service" polarity="positive"/>
+        <aspectTerm term="payment methods" position="4" RelTerm="secure" category="payments" polarity="positive"/>
+        <aspectTerm term="mobile check-in" position="6" RelTerm="easy" category="service" polarity="positive"/>
+    </aspects>
+</sentence>
+<sentence id="AS260" polarity="positive">
+    <text>efficient reservation system, responsive security management, and clean rooms</text>
+    <aspects>
+        <aspectTerm term="reservation system" position="2" RelTerm="efficient" category="service" polarity="positive"/>
+        <aspectTerm term="security management" position="4" RelTerm="responsive" category="security" polarity="positive"/>
+        <aspectTerm term="rooms" position="6" RelTerm="clean" category="room" polarity="positive"/>
+    </aspects>
+</sentence>
+
+<sentence id="AS261" polarity="positive">
+    <text>user-friendly mobile app, well-maintained pool, and excellent customer experience</text>
+    <aspects>
+        <aspectTerm term="mobile app" position="2" RelTerm="user-friendly" category="service" polarity="positive"/>
+        <aspectTerm term="pool" position="4" RelTerm="well-maintained" category="maintenance" polarity="positive"/>
+        <aspectTerm term="customer experience" position="6" RelTerm="excellent" category="service" polarity="positive"/>
+    </aspects>
+</sentence>
+
+<sentence id="AS262" polarity="positive">
+    <text>great breakfast, smooth payment process, and responsive guest management</text>
+    <aspects>
+        <aspectTerm term="breakfast" position="2" RelTerm="great" category="meals" polarity="positive"/>
+        <aspectTerm term="payment process" position="4" RelTerm="smooth" category="payments" polarity="positive"/>
+        <aspectTerm term="guest management" position="6" RelTerm="responsive" category="service" polarity="positive"/>
+    </aspects>
+</sentence>
+
+<sentence id="AS263" polarity="positive">
+    <text>excellent Wi-Fi, secure mobile payments, and well-maintained fitness center</text>
+    <aspects>
+        <aspectTerm term="Wi-Fi" position="2" RelTerm="excellent" category="service" polarity="positive"/>
+        <aspectTerm term="mobile payments" position="4" RelTerm="secure" category="payments" polarity="positive"/>
+        <aspectTerm term="fitness center" position="6" RelTerm="well-maintained" category="maintenance" polarity="positive"/>
+    </aspects>
+</sentence>
+
+<sentence id="AS264" polarity="positive">
+    <text>efficient reservation management, responsive maintenance team, and clean pool</text>
+    <aspects>
+        <aspectTerm term="reservation management" position="2" RelTerm="efficient" category="service" polarity="positive"/>
+        <aspectTerm term="maintenance team" position="4" RelTerm="responsive" category="maintenance" polarity="positive"/>
+        <aspectTerm term="pool" position="6" RelTerm="clean" category="maintenance" polarity="positive"/>
+    </aspects>
+</sentence>
+
+<sentence id="AS265" polarity="positive">
+    <text>user-friendly mobile accessibility, secure security management, and excellent customer experience</text>
+    <aspects>
+        <aspectTerm term="mobile accessibility" position="2" RelTerm="user-friendly" category="service" polarity="positive"/>
+        <aspectTerm term="security management" position="4" RelTerm="secure" category="security" polarity="positive"/>
+        <aspectTerm term="customer experience" position="6" RelTerm="excellent" category="service" polarity="positive"/>
+    </aspects>
+</sentence>
+
+<sentence id="AS266" polarity="positive">
+    <text>great guest management, well-maintained facilities, and fast Wi-Fi</text>
+    <aspects>
+        <aspectTerm term="guest management" position="2" RelTerm="great" category="service" polarity="positive"/>
+        <aspectTerm term="facilities" position="4" RelTerm="well-maintained" category="maintenance" polarity="positive"/>
+        <aspectTerm term="Wi-Fi" position="6" RelTerm="fast" category="service" polarity="positive"/>
+    </aspects>
+</sentence>
+<sentence id="AS267" polarity="positive">
+    <text>responsive security management, smooth payment process, and excellent reservation system</text>
+    <aspects>
+        <aspectTerm term="security management" position="2" RelTerm="responsive" category="security" polarity="positive"/>
+        <aspectTerm term="payment process" position="4" RelTerm="smooth" category="payments" polarity="positive"/>
+        <aspectTerm term="reservation system" position="6" RelTerm="excellent" category="service" polarity="positive"/>
+    </aspects>
+</sentence>
+
+<sentence id="AS268" polarity="positive">
+    <text>reliable mobile app, well-maintained fitness center, and efficient reservation management</text>
+    <aspects>
+        <aspectTerm term="mobile app" position="2" RelTerm="reliable" category="service" polarity="positive"/>
+        <aspectTerm term="fitness center" position="4" RelTerm="well-maintained" category="maintenance" polarity="positive"/>
+        <aspectTerm term="reservation management" position="6" RelTerm="efficient" category="service" polarity="positive"/>
+    </aspects>
+</sentence>
+
+<sentence id="AS269" polarity="positive">
+    <text>great breakfast, secure mobile payments, and responsive guest management</text>
+    <aspects>
+        <aspectTerm term="breakfast" position="2" RelTerm="great" category="meals" polarity="positive"/>
+        <aspectTerm term="mobile payments" position="4" RelTerm="secure" category="payments" polarity="positive"/>
+        <aspectTerm term="guest management" position="6" RelTerm="responsive" category="service" polarity="positive"/>
+    </aspects>
+</sentence>
+
+<sentence id="AS270" polarity="positive">
+    <text>efficient reservation system, clean pool, and excellent customer experience</text>
+    <aspects>
+        <aspectTerm term="reservation system" position="2" RelTerm="efficient" category="service" polarity="positive"/>
+        <aspectTerm term="pool" position="4" RelTerm="clean" category="maintenance" polarity="positive"/>
+        <aspectTerm term="customer experience" position="6" RelTerm="excellent" category="service" polarity="positive"/>
+    </aspects>
+</sentence>
+
+<sentence id="AS271" polarity="positive">
+    <text>user-friendly mobile app, responsive maintenance team, and fast Wi-Fi</text>
+    <aspects>
+        <aspectTerm term="mobile app" position="2" RelTerm="user-friendly" category="service" polarity="positive"/>
+        <aspectTerm term="maintenance team" position="4" RelTerm="responsive" category="maintenance" polarity="positive"/>
+        <aspectTerm term="Wi-Fi" position="6" RelTerm="fast" category="service" polarity="positive"/>
+    </aspects>
+</sentence>
+
+<sentence id="AS272" polarity="positive">
+    <text>great guest management, secure security system, and easy reservation management</text>
+    <aspects>
+        <aspectTerm term="guest management" position="2" RelTerm="great" category="service" polarity="positive"/>
+        <aspectTerm term="security system" position="4" RelTerm="secure" category="security" polarity="positive"/>
+        <aspectTerm term="reservation management" position="6" RelTerm="easy" category="service" polarity="positive"/>
+    </aspects>
+</sentence>
+
+<sentence id="AS273" polarity="positive">
+    <text>responsive security management, smooth payment process, and well-maintained pool</text>
+    <aspects>
+        <aspectTerm term="security management" position="2" RelTerm="responsive" category="security" polarity="positive"/>
+        <aspectTerm term="payment process" position="4" RelTerm="smooth" category="payments" polarity="positive"/>
+        <aspectTerm term="pool" position="6" RelTerm="well-maintained" category="maintenance" polarity="positive"/>
+    </aspects>
+</sentence>
+
+<sentence id="AS274" polarity="positive">
+    <text>excellent Wi-Fi, efficient reservation system, and clean rooms</text>
+    <aspects>
+        <aspectTerm term="Wi-Fi" position="2" RelTerm="excellent" category="service" polarity="positive"/>
+        <aspectTerm term="reservation system" position="4" RelTerm="efficient" category="service" polarity="positive"/>
+        <aspectTerm term="rooms" position="6" RelTerm="clean" category="room" polarity="positive"/>
+    </aspects>
+</sentence>
+<sentence id="AS275" polarity="positive">
+    <text>great guest management, secure mobile payments, and well-maintained fitness center</text>
+    <aspects>
+        <aspectTerm term="guest management" position="2" RelTerm="great" category="service" polarity="positive"/>
+        <aspectTerm term="mobile payments" position="4" RelTerm="secure" category="payments" polarity="positive"/>
+        <aspectTerm term="fitness center" position="6" RelTerm="well-maintained" category="maintenance" polarity="positive"/>
+    </aspects>
+</sentence>
+
+<sentence id="AS276" polarity="positive">
+    <text>reliable mobile app, clean pool, and excellent customer experience</text>
+    <aspects>
+        <aspectTerm term="mobile app" position="2" RelTerm="reliable" category="service" polarity="positive"/>
+        <aspectTerm term="pool" position="4" RelTerm="clean" category="maintenance" polarity="positive"/>
+        <aspectTerm term="customer experience" position="6" RelTerm="excellent" category="service" polarity="positive"/>
+    </aspects>
+</sentence>
+
+<sentence id="AS277" polarity="positive">
+    <text>efficient reservation management, responsive maintenance team, and fast Wi-Fi</text>
+    <aspects>
+        <aspectTerm term="reservation management" position="2" RelTerm="efficient" category="service" polarity="positive"/>
+        <aspectTerm term="maintenance team" position="4" RelTerm="responsive" category="maintenance" polarity="positive"/>
+        <aspectTerm term="Wi-Fi" position="6" RelTerm="fast" category="service" polarity="positive"/>
+    </aspects>
+</sentence>
+
+<sentence id="AS278" polarity="positive">
+    <text>user-friendly mobile accessibility, well-maintained fitness center, and excellent customer experience</text>
+    <aspects>
+        <aspectTerm term="mobile accessibility" position="2" RelTerm="user-friendly" category="service" polarity="positive"/>
+        <aspectTerm term="fitness center" position="4" RelTerm="well-maintained" category="maintenance" polarity="positive"/>
+        <aspectTerm term="customer experience" position="6" RelTerm="excellent" category="service" polarity="positive"/>
+    </aspects>
+</sentence>
+
+<sentence id="AS279" polarity="positive">
+    <text>great guest management, smooth payment process, and clean pool</text>
+    <aspects>
+        <aspectTerm term="guest management" position="2" RelTerm="great" category="service" polarity="positive"/>
+        <aspectTerm term="payment process" position="4" RelTerm="smooth" category="payments" polarity="positive"/>
+        <aspectTerm term="pool" position="6" RelTerm="clean" category="maintenance" polarity="positive"/>
+    </aspects>
+</sentence>
+
+<sentence id="AS280" polarity="positive">
+    <text>responsive security management, secure mobile payments, and excellent Wi-Fi</text>
+    <aspects>
+        <aspectTerm term="security management" position="2" RelTerm="responsive" category="security" polarity="positive"/>
+        <aspectTerm term="mobile payments" position="4" RelTerm="secure" category="payments" polarity="positive"/>
+        <aspectTerm term="Wi-Fi" position="6" RelTerm="excellent" category="service" polarity="positive"/>
+    </aspects>
+</sentence>
+
+<sentence id="AS281" polarity="positive">
+    <text>efficient reservation system, user-friendly mobile app, and well-maintained facilities</text>
+    <aspects>
+        <aspectTerm term="reservation system" position="2" RelTerm="efficient" category="service" polarity="positive"/>
+        <aspectTerm term="mobile app" position="4" RelTerm="user-friendly" category="service" polarity="positive"/>
+        <aspectTerm term="facilities" position="6" RelTerm="well-maintained" category="maintenance" polarity="positive"/>
+    </aspects>
+</sentence>
+<sentence id="AS282" polarity="positive">
+    <text>great guest management, responsive maintenance team, and fast Wi-Fi</text>
+    <aspects>
+        <aspectTerm term="guest management" position="2" RelTerm="great" category="service" polarity="positive"/>
+        <aspectTerm term="maintenance team" position="4" RelTerm="responsive" category="maintenance" polarity="positive"/>
+        <aspectTerm term="Wi-Fi" position="6" RelTerm="fast" category="service" polarity="positive"/>
+    </aspects>
+</sentence>
+
+<sentence id="AS283" polarity="positive">
+    <text>excellent Wi-Fi, smooth payment process, and clean rooms</text>
+    <aspects>
+        <aspectTerm term="Wi-Fi" position="2" RelTerm="excellent" category="service" polarity="positive"/>
+        <aspectTerm term="payment process" position="4" RelTerm="smooth" category="payments" polarity="positive"/>
+        <aspectTerm term="rooms" position="6" RelTerm="clean" category="room" polarity="positive"/>
+    </aspects>
+</sentence>
+
+<sentence id="AS284" polarity="positive">
+    <text>great breakfast, user-friendly mobile accessibility, and well-maintained pool</text>
+    <aspects>
+        <aspectTerm term="breakfast" position="2" RelTerm="great" category="meals" polarity="positive"/>
+        <aspectTerm term="mobile accessibility" position="4" RelTerm="user-friendly" category="service" polarity="positive"/>
+        <aspectTerm term="pool" position="6" RelTerm="well-maintained" category="maintenance" polarity="positive"/>
+    </aspects>
+</sentence>
+
+<sentence id="AS285" polarity="positive">
+    <text>efficient reservation management, secure security system, and clean pool</text>
+    <aspects>
+        <aspectTerm term="reservation management" position="2" RelTerm="efficient" category="service" polarity="positive"/>
+        <aspectTerm term="security system" position="4" RelTerm="secure" category="security" polarity="positive"/>
+        <aspectTerm term="pool" position="6" RelTerm="clean" category="maintenance" polarity="positive"/>
+    </aspects>
+</sentence>
+
+<sentence id="AS286" polarity="positive">
+    <text>great guest management, responsive security management, and well-maintained fitness center</text>
+    <aspects>
+        <aspectTerm term="guest management" position="2" RelTerm="great" category="service" polarity="positive"/>
+        <aspectTerm term="security management" position="4" RelTerm="responsive" category="security" polarity="positive"/>
+        <aspectTerm term="fitness center" position="6" RelTerm="well-maintained" category="maintenance" polarity="positive"/>
+    </aspects>
+</sentence>
+
+<sentence id="AS287" polarity="positive">
+    <text>responsive maintenance, secure mobile payments, and excellent customer experience</text>
+    <aspects>
+        <aspectTerm term="maintenance" position="2" RelTerm="responsive" category="maintenance" polarity="positive"/>
+        <aspectTerm term="mobile payments" position="4" RelTerm="secure" category="payments" polarity="positive"/>
+        <aspectTerm term="customer experience" position="6" RelTerm="excellent" category="service" polarity="positive"/>
+    </aspects>
+</sentence>
+xml
+Copy code
+<sentence id="AS288" polarity="positive">
+    <text>great breakfast, fast Wi-Fi, and clean rooms</text>
+    <aspects>
+        <aspectTerm term="breakfast" position="2" RelTerm="great" category="meals" polarity="positive"/>
+        <aspectTerm term="Wi-Fi" position="4" RelTerm="fast" category="service" polarity="positive"/>
+        <aspectTerm term="rooms" position="6" RelTerm="clean" category="room" polarity="positive"/>
+    </aspects>
+</sentence>
+
+<sentence id="AS289" polarity="positive">
+    <text>efficient reservation management, responsive maintenance team, and well-maintained fitness center</text>
+    <aspects>
+        <aspectTerm term="reservation management" position="2" RelTerm="efficient" category="service" polarity="positive"/>
+        <aspectTerm term="maintenance team" position="4" RelTerm="responsive" category="maintenance" polarity="positive"/>
+        <aspectTerm term="fitness center" position="6" RelTerm="well-maintained" category="maintenance" polarity="positive"/>
+    </aspects>
+</sentence>
+
+<sentence id="AS290" polarity="positive">
+    <text>great guest management, smooth payment process, and excellent Wi-Fi</text>
+    <aspects>
+        <aspectTerm term="guest management" position="2" RelTerm="great" category="service" polarity="positive"/>
+        <aspectTerm term="payment process" position="4" RelTerm="smooth" category="payments" polarity="positive"/>
+        <aspectTerm term="Wi-Fi" position="6" RelTerm="excellent" category="service" polarity="positive"/>
+    </aspects>
+</sentence>
+
+<sentence id="AS291" polarity="positive">
+    <text>responsive security management, user-friendly mobile app, and clean rooms</text>
+    <aspects>
+        <aspectTerm term="security management" position="2" RelTerm="responsive" category="security" polarity="positive"/>
+        <aspectTerm term="mobile app" position="4" RelTerm="user-friendly" category="service" polarity="positive"/>
+        <aspectTerm term="rooms" position="6" RelTerm="clean" category="room" polarity="positive"/>
+    </aspects>
+</sentence>
+<sentence id="AS292" polarity="positive">
+    <text>excellent customer experience, well-maintained fitness center, and smooth payment process</text>
+    <aspects>
+        <aspectTerm term="customer experience" position="2" RelTerm="excellent" category="service" polarity="positive"/>
+        <aspectTerm term="fitness center" position="4" RelTerm="well-maintained" category="maintenance" polarity="positive"/>
+        <aspectTerm term="payment process" position="6" RelTerm="smooth" category="payments" polarity="positive"/>
+    </aspects>
+</sentence>
+
+<sentence id="AS293" polarity="positive">
+    <text>great guest management, secure security system, and fast Wi-Fi</text>
+    <aspects>
+        <aspectTerm term="guest management" position="2" RelTerm="great" category="service" polarity="positive"/>
+        <aspectTerm term="security system" position="4" RelTerm="secure" category="security" polarity="positive"/>
+        <aspectTerm term="Wi-Fi" position="6" RelTerm="fast" category="service" polarity="positive"/>
+    </aspects>
+</sentence>
+
+<sentence id="AS294" polarity="positive">
+    <text>excellent Wi-Fi, user-friendly mobile app, and clean rooms</text>
+    <aspects>
+        <aspectTerm term="Wi-Fi" position="2" RelTerm="excellent" category="service" polarity="positive"/>
+        <aspectTerm term="mobile app" position="4" RelTerm="user-friendly" category="service" polarity="positive"/>
+        <aspectTerm term="rooms" position="6" RelTerm="clean" category="room" polarity="positive"/>
+    </aspects>
+</sentence>
+
+<sentence id="AS295" polarity="positive">
+    <text>great breakfast, efficient reservation management, and well-maintained pool</text>
+    <aspects>
+        <aspectTerm term="breakfast" position="2" RelTerm="great" category="meals" polarity="positive"/>
+        <aspectTerm term="reservation management" position="4" RelTerm="efficient" category="service" polarity="positive"/>
+        <aspectTerm term="pool" position="6" RelTerm="well-maintained" category="maintenance" polarity="positive"/>
+    </aspects>
+</sentence>
+
+<sentence id="AS296" polarity="positive">
+    <text>excellent customer experience, smooth payment process, and well-maintained facilities</text>
+    <aspects>
+        <aspectTerm term="customer experience" position="2" RelTerm="excellent" category="service" polarity="positive"/>
+        <aspectTerm term="payment process" position="4" RelTerm="smooth" category="payments" polarity="positive"/>
+        <aspectTerm term="facilities" position="6" RelTerm="well-maintained" category="maintenance" polarity="positive"/>
+    </aspects>
+</sentence>
+
+<sentence id="AS297" polarity="positive">
+    <text>responsive maintenance team, secure security system, and clean pool</text>
+    <aspects>
+        <aspectTerm term="maintenance team" position="2" RelTerm="responsive" category="maintenance" polarity="positive"/>
+        <aspectTerm term="security system" position="4" RelTerm="secure" category="security" polarity="positive"/>
+        <aspectTerm term="pool" position="6" RelTerm="clean" category="maintenance" polarity="positive"/>
+    </aspects>
+</sentence>
+
+<sentence id="AS298" polarity="positive">
+    <text>efficient reservation system, fast Wi-Fi, and clean rooms</text>
+    <aspects>
+        <aspectTerm term="reservation system" position="2" RelTerm="efficient" category="service" polarity="positive"/>
+        <aspectTerm term="Wi-Fi" position="4" RelTerm="fast" category="service" polarity="positive"/>
+        <aspectTerm term="rooms" position="6" RelTerm="clean" category="room" polarity="positive"/>
+    </aspects>
+</sentence>
+
+<sentence id="AS299" polarity="positive">
+    <text>excellent customer experience, responsive security management, and well-maintained fitness center</text>
+    <aspects>
+        <aspectTerm term="customer experience" position="2" RelTerm="excellent" category="service" polarity="positive"/>
+        <aspectTerm term="security management" position="4" RelTerm="responsive" category="security" polarity="positive"/>
+        <aspectTerm term="fitness center" position="6" RelTerm="well-maintained" category="maintenance" polarity="positive"/>
+    </aspects>
+</sentence>
+
+<sentence id="AS300" polarity="positive">
+    <text>great guest management, efficient reservation management, and fast Wi-Fi</text>
+    <aspects>
+        <aspectTerm term="guest management" position="2" RelTerm="great" category="service" polarity="positive"/>
+        <aspectTerm term="reservation management" position="4" RelTerm="efficient" category="service" polarity="positive"/>
+        <aspectTerm term="Wi-Fi" position="6" RelTerm="fast" category="service" polarity="positive"/>
+    </aspects>
+</sentence>
+
+
+
+
+
