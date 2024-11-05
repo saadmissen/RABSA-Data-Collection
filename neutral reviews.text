@@ -2399,3 +2399,243 @@
         <aspectTerm term="Wi-Fi connection" position="6" RelTerm="stable" category="facility" polarity="neutral"/>
     </aspects>
 </sentence>
+
+<sentence id="HR003" polarity="neutral">
+    <text>The coach in the lobby was quite comfortable, but I didn't expect to see a coach for the football team.</text>
+    <aspects>
+        <aspectTerm term="coach" position="4" RelTerm="lobby" category="amenity" polarity="neutral"/>
+        <aspectTerm term="coach" position="22" RelTerm="team" category="service" polarity="neutral"/>
+    </aspects>
+</sentence>
+
+<sentence id="HR004" polarity="neutral">
+    <text>The bark of the tree in the garden was rough, while the bark from the staff was quite friendly.</text>
+    <aspects>
+        <aspectTerm term="bark" position="4" RelTerm="tree" category="environment" polarity="neutral"/>
+        <aspectTerm term="bark" position="34" RelTerm="staff" category="service" polarity="neutral"/>
+    </aspects>
+</sentence>
+
+<sentence id="HR005" polarity="neutral">
+    <text>The light in my room was too bright, but the light reading in the library was just right.</text>
+    <aspects>
+        <aspectTerm term="light" position="4" RelTerm="room" category="amenity" polarity="neutral"/>
+        <aspectTerm term="light" position="34" RelTerm="reading" category="service" polarity="neutral"/>
+    </aspects>
+</sentence>
+
+<sentence id="HR006" polarity="neutral">
+    <text>There was a strong bank of clouds outside, but I enjoyed the bank of pillows on my bed.</text>
+    <aspects>
+        <aspectTerm term="bank" position="14" RelTerm="clouds" category="environment" polarity="neutral"/>
+        <aspectTerm term="bank" position="32" RelTerm="pillows" category="comfort" polarity="neutral"/>
+    </aspects>
+</sentence>
+
+<sentence id="HR007" polarity="neutral">
+    <text>The date on the wall calendar was incorrect, but the date for my room reservation was confirmed.</text>
+    <aspects>
+        <aspectTerm term="date" position="4" RelTerm="calendar" category="amenity" polarity="neutral"/>
+        <aspectTerm term="date" position="34" RelTerm="reservation" category="service" polarity="neutral"/>
+    </aspects>
+</sentence>
+
+<sentence id="HR008" polarity="neutral">
+    <text>The ring around the bathtub was hard to clean, yet I found a lovely ring in the gift shop.</text>
+    <aspects>
+        <aspectTerm term="ring" position="10" RelTerm="bathtub" category="amenity" polarity="neutral"/>
+        <aspectTerm term="ring" position="38" RelTerm="shop" category="service" polarity="neutral"/>
+    </aspects>
+</sentence>
+
+<sentence id="HR009" polarity="neutral">
+    <text>The train station nearby was convenient, but the train of guests checking in was long.</text>
+    <aspects>
+        <aspectTerm term="train" position="8" RelTerm="station" category="location" polarity="neutral"/>
+        <aspectTerm term="train" position="30" RelTerm="guests" category="service" polarity="neutral"/>
+    </aspects>
+</sentence>
+
+<sentence id="HR010" polarity="neutral">
+    <text>The foot of the bed was too low, but the foot traffic in the hallway was manageable.</text>
+    <aspects>
+        <aspectTerm term="foot" position="8" RelTerm="bed" category="comfort" polarity="neutral"/>
+        <aspectTerm term="foot" position="27" RelTerm="traffic" category="service" polarity="neutral"/>
+    </aspects>
+</sentence>
+
+<sentence id="HR011" polarity="neutral">
+    <text>The play at the nearby theater was enjoyable, yet the play area for children was lacking.</text>
+    <aspects>
+        <aspectTerm term="play" position="8" RelTerm="theater" category="entertainment" polarity="neutral"/>
+        <aspectTerm term="play" position="29" RelTerm="area" category="amenity" polarity="neutral"/>
+    </aspects>
+</sentence>
+
+<sentence id="HR012" polarity="neutral">
+    <text>The seal on the window was broken, but the seal on my luggage was intact.</text>
+    <aspects>
+        <aspectTerm term="seal" position="4" RelTerm="window" category="security" polarity="neutral"/>
+        <aspectTerm term="seal" position="24" RelTerm="luggage" category="service" polarity="neutral"/>
+    </aspects>
+</sentence>
+
+<sentence id="HR013" polarity="neutral">
+    <text>The well in the garden was a beautiful sight, but the well of knowledge from the staff was limited.</text>
+    <aspects>
+        <aspectTerm term="well" position="4" RelTerm="garden" category="environment" polarity="neutral"/>
+        <aspectTerm term="well" position="34" RelTerm="knowledge" category="service" polarity="neutral"/>
+    </aspects>
+</sentence>
+
+<sentence id="HR014" polarity="neutral">
+    <text>The bark of the tree was rough, while the bark of the waiter was unusually loud.</text>
+    <aspects>
+        <aspectTerm term="bark" position="4" RelTerm="tree" category="environment" polarity="neutral"/>
+        <aspectTerm term="bark" position="30" RelTerm="waiter" category="service" polarity="neutral"/>
+    </aspects>
+</sentence>
+
+<sentence id="HR015" polarity="neutral">
+    <text>The match in the garden was enjoyable, but the match on TV was disappointing.</text>
+    <aspects>
+        <aspectTerm term="match" position="8" RelTerm="garden" category="amenity" polarity="neutral"/>
+        <aspectTerm term="match" position="30" RelTerm="TV" category="entertainment" polarity="neutral"/>
+    </aspects>
+</sentence>
+
+<sentence id="HR016" polarity="neutral">
+    <text>The key to the room was misplaced, but the key to the safe was secure.</text>
+    <aspects>
+        <aspectTerm term="key" position="4" RelTerm="room" category="security" polarity="neutral"/>
+        <aspectTerm term="key" position="25" RelTerm="safe" category="security" polarity="neutral"/>
+    </aspects>
+</sentence>
+
+<sentence id="HR017" polarity="neutral">
+    <text>The pool was refreshing, but the pool of options for dining was limited.</text>
+    <aspects>
+        <aspectTerm term="pool" position="4" RelTerm="refreshing" category="amenity" polarity="neutral"/>
+        <aspectTerm term="pool" position="32" RelTerm="options" category="service" polarity="neutral"/>
+    </aspects>
+</sentence>
+
+<sentence id="HR018" polarity="neutral">
+    <text>The glass on the table was clean, but the glass wall in the lobby needed attention.</text>
+    <aspects>
+        <aspectTerm term="glass" position="6" RelTerm="table" category="amenity" polarity="neutral"/>
+        <aspectTerm term="glass" position="26" RelTerm="wall" category="environment" polarity="neutral"/>
+    </aspects>
+</sentence>
+
+<sentence id="HR019" polarity="neutral">
+    <text>The lead in the pencil was smooth, while the lead for the hotel tour was informative.</text>
+    <aspects>
+        <aspectTerm term="lead" position="6" RelTerm="pencil" category="amenity" polarity="neutral"/>
+        <aspectTerm term="lead" position="31" RelTerm="tour" category="service" polarity="neutral"/>
+    </aspects>
+</sentence>
+
+<sentence id="HR020" polarity="neutral">
+    <text>The date of my check-in was correct, but the date on the promotional flyer was outdated.</text>
+    <aspects>
+        <aspectTerm term="date" position="8" RelTerm="check-in" category="service" polarity="neutral"/>
+        <aspectTerm term="date" position="35" RelTerm="flyer" category="marketing" polarity="neutral"/>
+    </aspects>
+</sentence>
+
+<sentence id="HR021" polarity="neutral">
+    <text>The jam at breakfast was delicious, yet the jam in the traffic made me late.</text>
+    <aspects>
+        <aspectTerm term="jam" position="8" RelTerm="breakfast" category="food" polarity="neutral"/>
+        <aspectTerm term="jam" position="28" RelTerm="traffic" category="location" polarity="neutral"/>
+    </aspects>
+</sentence>
+
+<sentence id="HR022" polarity="neutral">
+    <text>The well-maintained lawn was a sight to see, but the well-being of the staff could be improved.</text>
+    <aspects>
+        <aspectTerm term="well" position="4" RelTerm="lawn" category="environment" polarity="neutral"/>
+        <aspectTerm term="well" position="35" RelTerm="being" category="service" polarity="neutral"/>
+    </aspects>
+</sentence>
+
+<sentence id="HR023" polarity="neutral">
+    <text>The light in the hallway was too dim, but the light conversation with the staff was pleasant.</text>
+    <aspects>
+        <aspectTerm term="light" position="4" RelTerm="hallway" category="environment" polarity="neutral"/>
+        <aspectTerm term="light" position="36" RelTerm="conversation" category="service" polarity="neutral"/>
+    </aspects>
+</sentence>
+
+<sentence id="HR024" polarity="neutral">
+    <text>The file on the desk was organized, while the file of my reservation was easy to access.</text>
+    <aspects>
+        <aspectTerm term="file" position="4" RelTerm="desk" category="amenity" polarity="neutral"/>
+        <aspectTerm term="file" position="31" RelTerm="reservation" category="service" polarity="neutral"/>
+    </aspects>
+</sentence>
+
+<sentence id="HR025" polarity="neutral">
+    <text>The trunk of the tree was sturdy, but the trunk of my suitcase was heavy.</text>
+    <aspects>
+        <aspectTerm term="trunk" position="8" RelTerm="tree" category="environment" polarity="neutral"/>
+        <aspectTerm term="trunk" position="30" RelTerm="suitcase" category="amenity" polarity="neutral"/>
+    </aspects>
+</sentence>
+
+<sentence id="HR026" polarity="neutral">
+    <text>The ring of the bell was clear, but the ring of guests waiting was large.</text>
+    <aspects>
+        <aspectTerm term="ring" position="8" RelTerm="bell" category="service" polarity="neutral"/>
+        <aspectTerm term="ring" position="29" RelTerm="guests" category="service" polarity="neutral"/>
+    </aspects>
+</sentence>
+
+<sentence id="HR027" polarity="neutral">
+    <text>The dock at the hotel was peaceful, yet the dock for my boat was quite busy.</text>
+    <aspects>
+        <aspectTerm term="dock" position="8" RelTerm="hotel" category="environment" polarity="neutral"/>
+        <aspectTerm term="dock" position="30" RelTerm="boat" category="service" polarity="neutral"/>
+    </aspects>
+</sentence>
+
+<sentence id="HR028" polarity="neutral">
+    <text>The yard outside was beautifully landscaped, but the yard for parking was limited.</text>
+    <aspects>
+        <aspectTerm term="yard" position="8" RelTerm="outside" category="environment" polarity="neutral"/>
+        <aspectTerm term="yard" position="30" RelTerm="parking" category="amenity" polarity="neutral"/>
+    </aspects>
+</sentence>
+
+<sentence id="HR029" polarity="neutral">
+    <text>The file cabinet in my room was useful, but the file for my feedback was missing.</text>
+    <aspects>
+        <aspectTerm term="file" position="12" RelTerm="cabinet" category="amenity" polarity="neutral"/>
+        <aspectTerm term="file" position="30" RelTerm="feedback" category="service" polarity="neutral"/>
+    </aspects>
+</sentence>
+
+<sentence id="HR030" polarity="neutral">
+    <text>The bowl of fruit at breakfast was fresh, yet the bowl for waste was overflowing.</text>
+    <aspects>
+        <aspectTerm term="bowl" position="8" RelTerm="fruit" category="food" polarity="neutral"/>
+        <aspectTerm term="bowl" position="30" RelTerm="waste" category="amenity" polarity="neutral"/>
+    </aspects>
+</sentence>
+
+<sentence id="HR031" polarity="neutral">
+    <text>The plate of cookies was delightful, but the plate for dirty dishes was full.</text>
+    <aspects>
+        <aspectTerm term="plate" position="8" RelTerm="cookies" category="food" polarity="neutral"/>
+        <aspectTerm term="plate" position="30" RelTerm="dishes" category="amenity" polarity="neutral"/>
+    </aspects>
+</sentence>
+
+<sentence id="HR032" polarity="neutral">
+    <text>The bank at the corner was convenient, but the bank of clouds was threatening rain.</text>
+    <aspects>
+        <aspectTerm term="bank" position="4" RelTerm="corner" category="amenity" polarity="neutral"/>
+        <aspectTerm term="bank" position="30" RelTerm="clouds" category="environment" polarity="neutral"/>
+    </aspects>
+</sentence>
