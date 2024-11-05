@@ -2565,7 +2565,231 @@ Copy code
     </aspects>
 </sentence>
 
+<sentence id="AS1001" polarity="positive">
+<text>The service at the hotel was outstanding, but the mobile signal was weak.</text>
+<aspects>
+<aspectTerm term="service" position="2" RelTerm="outstanding" category="staff" polarity="positive"/>
+<aspectTerm term="signal" position="10" RelTerm="weak" category="connectivity" polarity="negative"/>
+</aspects>
+</sentence>
 
+<sentence id="AS1002" polarity="positive">
+<text>The light in the room was just perfect for reading.</text>
+<aspects>
+<aspectTerm term="light" position="2" RelTerm="perfect" category="room" polarity="positive"/>
+<aspectTerm term="room" position="5" RelTerm="perfect" category="room" polarity="positive"/>
+</aspects>
+</sentence>
+
+<sentence id="AS1003" polarity="positive">
+<text>The staff was helpful, but the bill was heavier than expected.</text>
+<aspects>
+<aspectTerm term="staff" position="2" RelTerm="helpful" category="staff" polarity="positive"/>
+<aspectTerm term="bill" position="6" RelTerm="heavier" category="cost" polarity="negative"/>
+</aspects>
+</sentence>
+
+<sentence id="AS1004" polarity="positive">
+<text>The hotel had a great charge for Wi-Fi, but my device didn't pick it up well.</text>
+<aspects>
+<aspectTerm term="charge" position="5" RelTerm="great" category="cost" polarity="positive"/>
+<aspectTerm term="Wi-Fi" position="8" RelTerm="didn't pick up well" category="connectivity" polarity="negative"/>
+</aspects>
+</sentence>
+
+<sentence id="AS1005" polarity="positive">
+<text>The hotel had a fair view of the beach from my room.</text>
+<aspects>
+<aspectTerm term="view" position="5" RelTerm="fair" category="room" polarity="positive"/>
+<aspectTerm term="beach" position="7" RelTerm="fair" category="location" polarity="positive"/>
+</aspects>
+</sentence>
+
+<sentence id="AS1006" polarity="positive">
+<text>The hotel pool was clean, but I was too busy to swim.</text>
+<aspects>
+<aspectTerm term="pool" position="3" RelTerm="clean" category="amenities" polarity="positive"/>
+</aspects>
+</sentence>
+
+<sentence id="AS1007" polarity="positive">
+<text>The bank near the hotel was convenient for exchanging currency.</text>
+<aspects>
+<aspectTerm term="bank" position="2" RelTerm="convenient" category="location" polarity="positive"/>
+</aspects>
+</sentence>
+
+<sentence id="AS1008" polarity="positive">
+<text>The rooms were fine, but the parking lot was full.</text>
+<aspects>
+<aspectTerm term="rooms" position="2" RelTerm="fine" category="room" polarity="positive"/>
+<aspectTerm term="parking lot" position="7" RelTerm="full" category="amenities" polarity="neutral"/>
+</aspects>
+</sentence>
+
+<sentence id="AS1009" polarity="positive">
+<text>The check at the restaurant was fast, but the service could be better.</text>
+<aspects>
+<aspectTerm term="check" position="2" RelTerm="fast" category="restaurant" polarity="positive"/>
+<aspectTerm term="service" position="10" RelTerm="could be better" category="restaurant" polarity="neutral"/>
+</aspects>
+</sentence>
+
+<sentence id="AS1010" polarity="positive">
+<text>The fit of the hotel robes was too snug for my taste.</text>
+<aspects>
+<aspectTerm term="fit" position="2" RelTerm="too snug" category="amenities" polarity="neutral"/>
+</aspects>
+</sentence>
+
+<sentence id="AS1011" polarity="positive">
+<text>I enjoyed the suite, but the suite next to mine was noisy.</text>
+<aspects>
+<aspectTerm term="suite" position="3" RelTerm="enjoyed" category="room" polarity="positive"/>
+<aspectTerm term="suite" position="8" RelTerm="noisy" category="room" polarity="negative"/>
+</aspects>
+</sentence>
+
+<sentence id="AS1012" polarity="positive">
+<text>The key to the hotel room wasn't working, and they had to issue me a new one.</text>
+<aspects>
+<aspectTerm term="key" position="2" RelTerm="wasn't working" category="room" polarity="negative"/>
+</aspects>
+</sentence>
+
+<sentence id="AS1013" polarity="positive">
+<text>The hotel has a well in the garden that adds a rustic touch.</text>
+<aspects>
+<aspectTerm term="well" position="4" RelTerm="adds" category="amenities" polarity="positive"/>
+<aspectTerm term="garden" position="6" RelTerm="rustic" category="amenities" polarity="positive"/>
+</aspects>
+</sentence>
+
+<sentence id="AS1014" polarity="positive">
+<text>The current prices of rooms are higher than last year.</text>
+<aspects>
+<aspectTerm term="prices" position="2" RelTerm="higher" category="cost" polarity="negative"/>
+</aspects>
+</sentence>
+
+<sentence id="AS1015" polarity="positive">
+<text>The board in the conference room was very useful for meetings.</text>
+<aspects>
+<aspectTerm term="board" position="2" RelTerm="useful" category="amenities" polarity="positive"/>
+<aspectTerm term="conference room" position="5" RelTerm="useful" category="room" polarity="positive"/>
+</aspects>
+</sentence>
+
+<sentence id="AS1016" polarity="positive">
+<text>The toast at breakfast was delicious.</text>
+<aspects>
+<aspectTerm term="toast" position="2" RelTerm="delicious" category="restaurant" polarity="positive"/>
+<aspectTerm term="breakfast" position="4" RelTerm="delicious" category="restaurant" polarity="positive"/>
+</aspects>
+</sentence>
+
+<sentence id="AS1017" polarity="positive">
+<text>The pitcher of water at dinner was refreshing.</text>
+<aspects>
+<aspectTerm term="pitcher" position="2" RelTerm="refreshing" category="restaurant" polarity="positive"/>
+<aspectTerm term="dinner" position="6" RelTerm="refreshing" category="restaurant" polarity="positive"/>
+</aspects>
+</sentence>
+
+<sentence id="AS1018" polarity="positive">
+<text>The room had a plain design, but it was comfortable.</text>
+<aspects>
+<aspectTerm term="design" position="5" RelTerm="plain" category="room" polarity="neutral"/>
+<aspectTerm term="room" position="2" RelTerm="comfortable" category="room" polarity="positive"/>
+</aspects>
+</sentence>
+
+<sentence id="AS1019" polarity="positive">
+<text>The hotel offered us a good rate for the weekend.</text>
+<aspects>
+<aspectTerm term="rate" position="6" RelTerm="good" category="cost" polarity="positive"/>
+</aspects>
+</sentence>
+
+<sentence id="AS1020" polarity="positive">
+<text>The hotel had a lovely spring garden.</text>
+<aspects>
+<aspectTerm term="spring garden" position="6" RelTerm="lovely" category="amenities" polarity="positive"/>
+</aspects>
+</sentence>
+
+<sentence id="AS1021" polarity="positive">
+    <text>The club was lively, but I couldn't find a place to park near the hotel.</text>
+    <aspects>
+        <aspectTerm term="club" position="4" RelTerm="lively" category="amenities" polarity="positive"/>
+    </aspects>
+</sentence>
+
+<sentence id="AS1022" polarity="positive">
+    <text>The room had a nice view of the bank, but I was disappointed by the water level in the river.</text>
+    <aspects>
+        <aspectTerm term="view" position="7" RelTerm="nice" category="room" polarity="positive"/>
+        <aspectTerm term="bank" position="14" RelTerm="view" category="location" polarity="positive"/>
+    </aspects>
+</sentence>
+
+<sentence id="AS1023" polarity="positive">
+    <text>I enjoyed my stay at the hotel, but the light was too dim for reading in the evening.</text>
+    <aspects>
+        <aspectTerm term="stay" position="9" RelTerm="enjoyed" category="service" polarity="positive"/>
+        <aspectTerm term="light" position="20" RelTerm="too dim" category="room" polarity="negative"/>
+    </aspects>
+</sentence>
+
+<sentence id="AS1024" polarity="positive">
+    <text>The chef prepared a special dish that was simply out of this world, but the bill was higher than expected.</text>
+    <aspects>
+        <aspectTerm term="dish" position="33" RelTerm="out of this world" category="restaurant" polarity="positive"/>
+        <aspectTerm term="bill" position="51" RelTerm="higher" category="cost" polarity="negative"/>
+    </aspects>
+</sentence>
+
+<sentence id="AS1025" polarity="positive">
+    <text>The hotel lobby had a great atmosphere, but it was hard to hear over the loud music.</text>
+    <aspects>
+        <aspectTerm term="atmosphere" position="20" RelTerm="great" category="amenities" polarity="positive"/>
+    </aspects>
+</sentence>
+
+<sentence id="AS1026" polarity="positive">
+    <text>The room's furniture was stylish, but the layout felt a bit cramped.</text>
+    <aspects>
+        <aspectTerm term="furniture" position="14" RelTerm="stylish" category="room" polarity="positive"/>
+    </aspects>
+</sentence>
+
+<sentence id="AS1027" polarity="positive">
+    <text>The staff was on point, but the carpet in the hallway looked worn out.</text>
+    <aspects>
+        <aspectTerm term="staff" position="4" RelTerm="on point" category="staff" polarity="positive"/>
+    </aspects>
+</sentence>
+
+<sentence id="AS1028" polarity="positive">
+    <text>The breakfast buffet had a wide array of options, but the toast was served a little cold.</text>
+    <aspects>
+        <aspectTerm term="breakfast buffet" position="8" RelTerm="wide array" category="restaurant" polarity="positive"/>
+    </aspects>
+</sentence>
+
+<sentence id="AS1029" polarity="positive">
+    <text>I loved the art displayed in the hotel, but some pieces felt a bit out of place.</text>
+    <aspects>
+        <aspectTerm term="art" position="17" RelTerm="loved" category="amenities" polarity="positive"/>
+    </aspects>
+</sentence>
+
+<sentence id="AS1030" polarity="positive">
+    <text>The fitness center had all the right equipment, but I was too tired to make use of it.</text>
+    <aspects>
+        <aspectTerm term="fitness center" position="5" RelTerm="all the right equipment" category="amenities" polarity="positive"/>
+    </aspects>
+</sentence>
 
 
 
