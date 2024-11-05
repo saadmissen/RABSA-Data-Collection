@@ -2733,3 +2733,362 @@
         <aspectTerm term="security services" position="6" RelTerm="weak" category="service" polarity="negative"/>
     </aspects>
 </sentence>
+
+<sentence id="HR001" polarity="negative">
+    <text>The room had a stunning view of the mountains, but the hotel’s view on late checkouts was strict.</text>
+    <aspects>
+        <aspectTerm term="view" position="10" RelTerm="mountains" category="ambiance" polarity="positive"/>
+        <aspectTerm term="view" position="32" RelTerm="checkouts" category="policy" polarity="negative"/>
+    </aspects>
+</sentence>
+
+
+<sentence id="HR002" polarity="negative">
+    <text>The restaurant had a bowl of soup that was delightful, but the bowl for the fruit was empty.</text>
+    <aspects>
+        <aspectTerm term="bowl" position="6" RelTerm="soup" category="food" polarity="positive"/>
+        <aspectTerm term="bowl" position="22" RelTerm="fruit" category="food" polarity="negative"/>
+    </aspects>
+</sentence>
+
+
+<sentence id="HR003" polarity="negative">
+    <text>We enjoyed the afternoon light streaming in, but the light breakfast options were lacking.</text>
+    <aspects>
+        <aspectTerm term="light" position="8" RelTerm="afternoon" category="ambiance" polarity="positive"/>
+        <aspectTerm term="light" position="28" RelTerm="breakfast options" category="food" polarity="negative"/>
+    </aspects>
+</sentence>
+
+
+
+<sentence id="HR004" polarity="neutral">
+    <text>The hotel's well was filled with fresh water, but the well of service could be improved.</text>
+    <aspects>
+        <aspectTerm term="well" position="12" RelTerm="water" category="amenities" polarity="positive"/>
+        <aspectTerm term="well" position="30" RelTerm="service" category="service" polarity="negative"/>
+    </aspects>
+</sentence>
+
+
+
+<sentence id="HR005" polarity="negative">
+    <text>There was a lovely breeze by the pool, but the staff’s breeze in handling complaints was frustrating.</text>
+    <aspects>
+        <aspectTerm term="breeze" position="8" RelTerm="pool" category="ambiance" polarity="positive"/>
+        <aspectTerm term="breeze" position="38" RelTerm="complaints" category="service" polarity="negative"/>
+    </aspects>
+</sentence>
+
+
+<sentence id="HR006" polarity="negative">
+    <text>The hotel's rock garden was picturesque, but the rock music played at night was too loud.</text>
+    <aspects>
+        <aspectTerm term="rock" position="10" RelTerm="garden" category="ambiance" polarity="positive"/>
+        <aspectTerm term="rock" position="32" RelTerm="music" category="entertainment" polarity="negative"/>
+    </aspects>
+</sentence>
+"I loved the crane statue in the lobby, but the hotel’s crane service for moving luggage was slow."
+
+
+<sentence id="HR007" polarity="negative">
+    <text>I loved the crane statue in the lobby, but the hotel’s crane service for moving luggage was slow.</text>
+    <aspects>
+        <aspectTerm term="crane" position="7" RelTerm="statue" category="ambiance" polarity="positive"/>
+        <aspectTerm term="crane" position="32" RelTerm="service" category="service" polarity="negative"/>
+    </aspects>
+</sentence>
+
+
+<sentence id="HR008" polarity="negative">
+    <text>The date for the spa appointment was perfect, but they mixed up my date with someone else.</text>
+    <aspects>
+        <aspectTerm term="date" position="8" RelTerm="appointment" category="service" polarity="positive"/>
+        <aspectTerm term="date" position="29" RelTerm="someone else" category="service" polarity="negative"/>
+    </aspects>
+</sentence>
+
+
+<sentence id="HR009" polarity="negative">
+    <text>The match of flavors in my dinner was superb, but the match with my room preference was off.</text>
+    <aspects>
+        <aspectTerm term="match" position="8" RelTerm="flavors" category="food" polarity="positive"/>
+        <aspectTerm term="match" position="31" RelTerm="room preference" category="service" polarity="negative"/>
+    </aspects>
+</sentence>
+
+<sentence id="HR010" polarity="negative">
+    <text>I was impressed by the table arrangements for dinner but found the table in my room to be wobbly.</text>
+    <aspects>
+        <aspectTerm term="table" position="8" RelTerm="arrangements" category="service" polarity="positive"/>
+        <aspectTerm term="table" position="27" RelTerm="room" category="furniture" polarity="negative"/>
+    </aspects>
+</sentence>
+
+
+<sentence id="HR0111" polarity="negative">
+    <text>The crane in the hotel’s logo was elegant, but the construction crane outside was distracting.</text>
+    <aspects>
+        <aspectTerm term="crane" position="8" RelTerm="logo" category="ambiance" polarity="positive"/>
+        <aspectTerm term="crane" position="42" RelTerm="outside" category="ambiance" polarity="negative"/>
+    </aspects>
+</sentence>
+
+
+<sentence id="HR012" polarity="negative">
+    <text>I enjoyed the mint on my pillow, but the hotel’s mint condition was not what I expected.</text>
+    <aspects>
+        <aspectTerm term="mint" position="6" RelTerm="pillow" category="amenities" polarity="positive"/>
+        <aspectTerm term="mint" position="31" RelTerm="condition" category="service" polarity="negative"/>
+    </aspects>
+</sentence>
+
+
+<sentence id="HR013" polarity="negative">
+    <text>The match of colors in the decor was beautiful, but the match for my booking was incorrect.</text>
+    <aspects>
+        <aspectTerm term="match" position="8" RelTerm="colors" category="ambiance" polarity="positive"/>
+        <aspectTerm term="match" position="28" RelTerm="booking" category="service" polarity="negative"/>
+    </aspects>
+</sentence>
+
+
+<sentence id="HR014" polarity="negative">
+    <text>The light fixtures in the lobby were stunning, but the light in my room was too dim.</text>
+    <aspects>
+        <aspectTerm term="light" position="10" RelTerm="fixtures" category="ambiance" polarity="positive"/>
+        <aspectTerm term="light" position="34" RelTerm="room" category="ambiance" polarity="negative"/>
+    </aspects>
+</sentence>
+
+
+<sentence id="HR015" polarity="negative">
+    <text>The park by the hotel was lovely, but the staff seemed to park their smiles.</text>
+    <aspects>
+        <aspectTerm term="park" position="7" RelTerm="hotel" category="ambiance" polarity="positive"/>
+        <aspectTerm term="park" position="30" RelTerm="smiles" category="service" polarity="negative"/>
+    </aspects>
+</sentence>
+
+
+<sentence id="HR016" polarity="negative">
+    <text>The room had a pleasant echo when I spoke, but the echo of complaints was loud.</text>
+    <aspects>
+        <aspectTerm term="echo" position="10" RelTerm="pleasant" category="ambiance" polarity="positive"/>
+        <aspectTerm term="echo" position="30" RelTerm="complaints" category="service" polarity="negative"/>
+    </aspects>
+</sentence>
+
+
+<sentence id="HR017" polarity="negative">
+    <text>The light in the dining area was warm, but the lightheartedness of the staff was lacking.</text>
+    <aspects>
+        <aspectTerm term="light" position="6" RelTerm="dining area" category="ambiance" polarity="positive"/>
+        <aspectTerm term="light" position="28" RelTerm="staff" category="service" polarity="negative"/>
+    </aspects>
+</sentence>
+
+
+<sentence id="HR018" polarity="negative">
+    <text>The bark of the dogs in the vicinity was loud, but the bark of the trees was soothing.</text>
+    <aspects>
+        <aspectTerm term="bark" position="6" RelTerm="dogs" category="ambiance" polarity="negative"/>
+        <aspectTerm term="bark" position="27" RelTerm="trees" category="ambiance" polarity="positive"/>
+    </aspects>
+</sentence>
+
+<sentence id="HR019" polarity="negative">
+    <text>The suite offered a nice balance between comfort and luxury, but the balance of pricing was off.</text>
+    <aspects>
+        <aspectTerm term="balance" position="8" RelTerm="comfort" category="ambiance" polarity="positive"/>
+        <aspectTerm term="balance" position="38" RelTerm="pricing" category="service" polarity="negative"/>
+    </aspects>
+</sentence>
+
+
+<sentence id="HR020" polarity="negative">
+    <text>The hotel staff had a great sense of time, but the time taken for check-in was excessive.</text>
+    <aspects>
+        <aspectTerm term="time" position="11" RelTerm="staff" category="service" polarity="positive"/>
+        <aspectTerm term="time" position="34" RelTerm="check-in" category="service" polarity="negative"/>
+    </aspects>
+</sentence>
+
+
+<sentence id="HR021" polarity="negative">
+    <text>The stone facade of the hotel was beautiful, but the stone left by the construction was a hassle.</text>
+    <aspects>
+        <aspectTerm term="stone" position="10" RelTerm="facade" category="ambiance" polarity="positive"/>
+        <aspectTerm term="stone" position="32" RelTerm="construction" category="maintenance" polarity="negative"/>
+    </aspects>
+</sentence>
+
+
+<sentence id="HR022" polarity="negative">
+    <text>The hotel's fine dining was exquisite, but the fine print on the bill was confusing.</text>
+    <aspects>
+        <aspectTerm term="fine" position="10" RelTerm="dining" category="food" polarity="positive"/>
+        <aspectTerm term="fine" position="32" RelTerm="print" category="service" polarity="negative"/>
+    </aspects>
+</sentence>
+<sentence id="HR023" polarity="negative">
+    <text>The cool breeze by the beach was refreshing, but the cool attitude of the staff was disappointing.</text>
+    <aspects>
+        <aspectTerm term="cool" position="10" RelTerm="breeze" category="ambiance" polarity="positive"/>
+        <aspectTerm term="cool" position="32" RelTerm="attitude" category="service" polarity="negative"/>
+    </aspects>
+</sentence>
+
+
+<sentence id="HR024" polarity="negative">
+    <text>The light show in the lobby was breathtaking, but the light conversation with the staff felt forced.</text>
+    <aspects>
+        <aspectTerm term="light" position="10" RelTerm="show" category="entertainment" polarity="positive"/>
+        <aspectTerm term="light" position="34" RelTerm="conversation" category="service" polarity="negative"/>
+    </aspects>
+</sentence>
+
+
+<sentence id="HR025" polarity="negative">
+    <text>The hotel provided a nice blend of amenities, but the blend of guests was overwhelming.</text>
+    <aspects>
+        <aspectTerm term="blend" position="8" RelTerm="amenities" category="amenities" polarity="positive"/>
+        <aspectTerm term="blend" position="34" RelTerm="guests" category="service" polarity="negative"/>
+    </aspects>
+</sentence>
+
+
+<sentence id="HR026" polarity="negative">
+    <text>The hotel's grill menu was top-notch, but the grill near the pool was too smoky.</text>
+    <aspects>
+        <aspectTerm term="grill" position="10" RelTerm="menu" category="food" polarity="positive"/>
+        <aspectTerm term="grill" position="30" RelTerm="pool" category="ambiance" polarity="negative"/>
+    </aspects>
+</sentence>
+
+
+<sentence id="HR027" polarity="negative">
+    <text>The hotel's art gallery was impressive, but the art of negotiation for my room was frustrating.</text>
+    <aspects>
+        <aspectTerm term="art" position="10" RelTerm="gallery" category="entertainment" polarity="positive"/>
+        <aspectTerm term="art" position="32" RelTerm="negotiation" category="service" polarity="negative"/>
+    </aspects>
+</sentence>
+
+
+<sentence id="HR028" polarity="negative">
+    <text>The hotel's flower arrangements were stunning, but the flower petals on the floor were a mess.</text>
+    <aspects>
+        <aspectTerm term="flower" position="10" RelTerm="arrangements" category="amenities" polarity="positive"/>
+        <aspectTerm term="flower" position="36" RelTerm="petals" category="maintenance" polarity="negative"/>
+    </aspects>
+</sentence>
+
+
+<sentence id="HR029" polarity="negative">
+    <text>The hotel's service was prompt, but the service at the restaurant was slow.</text>
+    <aspects>
+        <aspectTerm term="service" position="10" RelTerm="hotel" category="service" polarity="positive"/>
+        <aspectTerm term="service" position="30" RelTerm="restaurant" category="service" polarity="negative"/>
+    </aspects>
+</sentence>
+
+
+<sentence id="HR030" polarity="negative">
+    <text>The bar's cocktails were inventive, but the bar's cleanliness was lacking.</text>
+    <aspects>
+        <aspectTerm term="cocktails" position="10" RelTerm="bar" category="food" polarity="positive"/>
+        <aspectTerm term="cleanliness" position="31" RelTerm="bar" category="maintenance" polarity="negative"/>
+    </aspects>
+</sentence>
+
+
+<sentence id="HR031" polarity="negative">
+    <text>The chairs in the lobby were comfortable, but the chairs at the dining table were wobbly.</text>
+    <aspects>
+        <aspectTerm term="chairs" position="10" RelTerm="lobby" category="ambiance" polarity="positive"/>
+        <aspectTerm term="chairs" position="34" RelTerm="dining table" category="ambiance" polarity="negative"/>
+    </aspects>
+</sentence>
+
+
+<sentence id="HR032" polarity="negative">
+    <text>The view from the room was breathtaking, but the view of the garbage truck was disappointing.</text>
+    <aspects>
+        <aspectTerm term="view" position="10" RelTerm="room" category="ambiance" polarity="positive"/>
+        <aspectTerm term="view" position="29" RelTerm="garbage truck" category="ambiance" polarity="negative"/>
+    </aspects>
+</sentence>
+
+
+<sentence id="HR033" polarity="negative">
+    <text>The bathroom had a luxurious feel, but the bathroom amenities were outdated.</text>
+    <aspects>
+        <aspectTerm term="bathroom" position="10" RelTerm="feel" category="ambiance" polarity="positive"/>
+        <aspectTerm term="bathroom" position="34" RelTerm="amenities" category="amenities" polarity="negative"/>
+    </aspects>
+</sentence>
+
+
+<sentence id="HR034" polarity="negative">
+    <text>The lobby's ambiance was inviting, but the lobby's crowd was overwhelming.</text>
+    <aspects>
+        <aspectTerm term="ambiance" position="10" RelTerm="lobby" category="ambiance" polarity="positive"/>
+        <aspectTerm term="crowd" position="30" RelTerm="lobby" category="ambiance" polarity="negative"/>
+    </aspects>
+</sentence>
+<sentence id="HR035" polarity="negative">
+    <text>The hotel's breakfast spread was generous, but the breakfast crowd was chaotic.</text>
+    <aspects>
+        <aspectTerm term="breakfast" position="10" RelTerm="spread" category="food" polarity="positive"/>
+        <aspectTerm term="breakfast" position="30" RelTerm="crowd" category="ambiance" polarity="negative"/>
+    </aspects>
+</sentence>
+
+
+<sentence id="HR036" polarity="negative">
+    <text>The spa's treatments were rejuvenating, but the spa's prices were steep.</text>
+    <aspects>
+        <aspectTerm term="treatments" position="10" RelTerm="spa" category="service" polarity="positive"/>
+        <aspectTerm term="prices" position="29" RelTerm="spa" category="service" polarity="negative"/>
+    </aspects>
+</sentence>
+
+
+
+<sentence id="HR037" polarity="negative">
+    <text>The gym was well-equipped, but the gym's air conditioning was broken.</text>
+    <aspects>
+        <aspectTerm term="gym" position="10" RelTerm="well-equipped" category="amenities" polarity="positive"/>
+        <aspectTerm term="air conditioning" position="32" RelTerm="gym" category="maintenance" polarity="negative"/>
+    </aspects>
+</sentence>
+
+
+<sentence id="HR038" polarity="negative">
+    <text>The room service was quick, but the food was lukewarm.</text>
+    <aspects>
+        <aspectTerm term="room service" position="10" RelTerm="quick" category="service" polarity="positive"/>
+        <aspectTerm term="food" position="27" RelTerm="lukewarm" category="food" polarity="negative"/>
+    </aspects>
+</sentence>
+
+
+<sentence id="HR039" polarity="negative">
+    <text>The pool was refreshing, but the pool area was crowded.</text>
+    <aspects>
+        <aspectTerm term="pool" position="10" RelTerm="refreshing" category="amenities" polarity="positive"/>
+        <aspectTerm term="area" position="26" RelTerm="pool" category="ambiance" polarity="negative"/>
+    </aspects>
+</sentence>
+
+
+<sentence id="HR040" polarity="negative">
+    <text>The check-in process was seamless, but the lobby staff could be friendlier.</text>
+    <aspects>
+        <aspectTerm term="check-in process" position="10" RelTerm="seamless" category="service" polarity="positive"/>
+        <aspectTerm term="staff" position="34" RelTerm="lobby" category="service" polarity="negative"/>
+    </aspects>
+</sentence>
+
+
